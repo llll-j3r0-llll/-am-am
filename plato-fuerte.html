@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+  <html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÑAM ÑAM - Inicio</title>
+    <link rel="stylesheet" href="plato-fuerte/plato-fuerte.css">
+  </head>
+  <body>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+      <button class="menu-btn" id="menu-btn">&#9776;</button>
+
+      <!-- Logo y nombre -->
+      <div class="brand">
+        <img src="img/inicio/Logo nuevo (1).png" alt="Logo" class="logo">
+        <img src="nombre.png" alt="Nombre Ñam Ñam" class="brand-name">
+      </div>
+
+      <!-- Barra buscadora -->
+      <div class="search-box">
+        <input type="text" placeholder="Buscar recetas...">
+        <button>🔍</button>
+      </div>
+    </header>
+
+    <!-- Menú lateral -->
+<!-- Menú lateral -->
+<div class="overlay" id="overlay"></div> <!-- Fondo oscuro -->
+
+<nav class="sidebar" id="sidebar">
+  <!-- Botón cerrar -->
+  <button class="close-btn" id="close-btn">✖</button>
+
+  <!-- Logo -->
+  <div class="sidebar-logo">
+    <img src="img/inicio/Logo nuevo (1).png" alt="Logo ÑAM ÑAM">
+  </div>
+
+    <ul>
+    <!-- Inicio -->
+      <li>
+      <a href="index.html">
+        <img src="assets/icons/home.png" alt="Inicio" class="icon" /> Inicio
+      </a>
+    </li>
+
+    <!-- Plato fuerte -->
+    <li>
+      <a href="plato-fuerte.html">
+        <img src="assets/icons/plato.png" alt="Plato Fuerte" class="icon" /> Plato fuerte
+      </a>
+    </li>
+
+    <!-- Proteínas -->
+    <li>
+      <a href="plato-liviano.html">
+        <img src="assets/icons/proteina.png" alt="plato liviano" class="icon" /> Plato liviano
+      </a>
+    </li>
+
+    <!-- Acompañantes -->
+    <li>
+      <a href="acompañantes.html">
+        <img src="assets/icons/acompanantes.png" alt="Acompañantes" class="icon" /> Acompañantes
+      </a>
+    </li>
+
+    <!-- Bebidas -->
+    <li class="submenu">
+      <a href="#" class="toggle">
+        <img src="assets/icons/bebidas.png" alt="Bebidas" class="icon" /> Bebidas
+        <span class="arrow">▸</span>
+      </a>
+      <ul class="dropdown">
+        <li><a href="Frias.html"><img src="assets/icons/frias.png" class="icon" /> Frías</a></li>
+        <li><a href="calientes.html"><img src="assets/icons/calientes.png" class="icon" /> Calientes</a></li>
+      </ul>
+    </li>
+
+    <!-- snacks -->
+        <li>
+      <a href="Snacks.html">
+        <img src="assets/icons/postres.png" alt="Snacks" class="icon" />  Snacks
+      </a>
+    </li>
+
+    <!-- Postres -->
+    <li>
+      <a href="postres.html">
+        <img src="assets/icons/postres.png" alt="Postres" class="icon" /> Postres
+      </a>
+    </li>
+
+    <!-- Sorpréndeme -->
+    <li>
+      <a href="sorpende.html">
+        <img src="assets/icons/sorprende.png" alt="Sorpréndeme" class="icon" /> Sorprende
+      </a>
+    </li>
+
+    <!-- Información -->
+    <li>
+      <a href="informacion.html">
+        <img src="assets/icons/info.png" alt="Información" class="icon" /> Información
+      </a>
+    </li>
+  </ul>
+</nav>
+
+    <!-- Bienvenida -->
+    <section class="bienvenida">
+      <h1>Bienvenido a Ñam Ñam</h1>
+      <p>Explora nuestras recetas deliciosas y fáciles de preparar.</p>
+    </section>
+
+    <!-- Carrusel -->
+    <section class="carrusel">
+      <div class="slides" id="slides">
+        <div class="slide active"><img src="img/WhatsApp Image 2025-08-22 at 10.58.38 PM (1).jpeg" alt="Receta 1"></div>
+        <div class="slide"><img src="img/WhatsApp Image 2025-08-22 at 10.58.38 PM.jpeg" alt="Receta 2"></div>
+        <div class="slide"><img src="img/WhatsApp Image 2025-08-22 at 10.58.39 PM.jpeg" alt="Receta 3"></div>
+      </div>
+      <button class="prev" id="prev">‹</button>
+      <button class="next" id="next">›</button>
+    </section>
+
+     <section class="recetas-destacadas">
+    <h2>Recetas Destacadas</h2>
+    <div class="recetas-grid">
+
+      <div class="receta-card">
+        <img src="/img/limonada.jpg" alt="Ensalada Big mac">
+        <h3>Ensalada Big mac</h3>
+        <p>Facil</p>
+        <a href="#">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="/img/ensalada.jpg" alt="Ensalada Mixta">
+        <h3>Okonomiyaki de pierna de cerdo</h3>
+        <p>Llena de colores y nutrientes.</p>
+        <a href="#">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="/img/pizza.jpg" alt="Pizza Casera">
+        <h3>Lasaña de madurito con carne de res</h3>
+        <p>Personaliza tu pizza con tus ingredientes favoritos.</p>
+        <a href="#">Ver Receta</a>
+      </div>
+
+      <!-- Más recetas -->
+      <div class="receta-card">
+        <img src="/img/limonada.jpg" alt="Limonada Fresca">
+        <h3>Rollitos de calabacín</h3>
+        <p>Refrescante y natural.</p>
+        <a href="#">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="/img/ensalada.jpg" alt="Ensalada Mixta">
+        <h3>Bowl de pollo en salsa teriyaki</h3>
+        <p>Llena de colores y nutrientes.</p>
+        <a href="#">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="/img/pizza.jpg" alt="Pizza Casera">
+        <h3> Burritos de palmitos</h3>
+        <p>Personaliza tu pizza con tus ingredientes favoritos.</p>
+        <a href="#">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="/img/limonada.jpg" alt="Limonada Fresca">
+        <h3>pasta bechamel con pollo</h3>
+        <p>Refrescante y natural.</p>
+        <a href="#">Ver Receta</a>
+      </div>
+ 
+    </div>
+  </section>
+
+
+    <footer class="footer">
+    <div class="footer-container">
+      <!-- Sección 1: Logo y descripción -->
+      <div class="footer-section">
+        <h2 class="logo">ÑAM ÑAM</h2>
+        <p>Un proyecto para que los jóvenes desarrollen habilidades culinarias conscientes, prácticas y económicas.</p>
+      </div>
+
+      <!-- Sección 2: Navegación rápida -->
+      <div class="footer-section">
+        <h3>Enlaces</h3>
+        <ul>
+          <li><a href="#inicio">Inicio</a></li>
+          <li><a href="#objetivos">Objetivos</a></li>
+          <li><a href="#vision">Visión</a></li>
+          <li><a href="#talleres">Talleres</a></li>
+        </ul>
+      </div>
+
+      <!-- Sección 3: Contacto -->
+      <div class="footer-section">
+        <h3>Contacto</h3>
+        <p>Email: contacto@ñamñam.com</p>
+        <p>Tel: +57 300 123 4567</p>
+        <p>Medellín - Colombia</p>
+      </div>
+
+      <!-- Sección 4: Redes sociales -->
+      <div class="footer-section">
+        <h3>Síguenos</h3>
+        <div class="social-icons">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2025 ÑAM ÑAM - Todos los derechos reservados</p>
+    </div>
+  </footer>
+
+
+    <script src="src/components/carrusel.js"></script>
+    <script src="src/components/menu.js"></script>
+  </body>   
+  </html>
