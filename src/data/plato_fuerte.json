@@ -1,0 +1,344 @@
+{
+  "ensalada-big-mac": {
+    "titulo": "Ensalada Big Mac",
+    "dificultad": "Fácil",
+    "duracion": "40 min",
+    "materiales": [
+      "1 papa grande",
+      "250g carne molida",
+      "Aceite de oliva",
+      "Queso en lonchitas",
+      "1 hoja de lechuga fresca",
+      "1 tomate",
+      "1 cebolla",
+      "Pepinillos",
+      "Especias (sal, pimienta negra, ajo en polvo, paprika)"
+    ],
+    "utensilios": [
+      "Sartén con tapa",
+      "2 bowls",
+      "Cuchillo",
+      "Cuchara sopera",
+      "Cucharón"
+    ],
+    "pasos": [
+      { "texto": "Corta las papas en bastones y mézclalas con especias y aceite.", "imagen": "img/fuerte/pasos/big/paso1.png" },
+      { "texto": "Mete las papas en la airfryer a 180 °C por 30 min.", "imagen": null },
+      { "texto": "Cocina la carne con especias en un sartén y agrega queso.", "imagen": "img/fuerte/pasos/big/paso2.png" },
+      { "texto": "Pica tomate, pepinillo, cebolla y lechuga.", "imagen": null },
+      { "texto": "Añade salsa Big Mac y mezcla todo.", "imagen": "img/fuerte/pasos/big/paso3.png" },
+      { "texto": "Encima coloca las papas y carne.", "imagen": null },
+      { "texto": "¡Disfruta!", "imagen": "img/fuerte/pasos/big/Ensalada big mac.png" }
+    ],
+    "imagen": "img/inicio/BIcmac.jpg"
+  },
+
+  "pastas-bechamel": {
+    "titulo": "Pastas con Salsa Bechamel, Pechuga a la Plancha y Tomates al Horno",
+    "dificultad": "Media",
+    "duracion": "50 min",
+    "materiales": [
+      "260g pechuga de pollo",
+      "1 medio paquete de pasta (de tu preferencia)",
+      "160g plátano",
+      "60g mantequilla",
+      "1 cebolla",
+      "1 bolsa pequeña de crema de leche",
+      "2 dientes de ajo"
+    ],
+    "utensilios": [
+      "Horno",
+      "Olla de cocina",
+      "Tabla para picar",
+      "Rallador",
+      "2 Bowls (recipientes)",
+      "Sartén",
+      "Cuchillo",
+      "Pinzas",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Corta rodajas de tomate, luego pica el resto y agrégalos en un bowl con salsa de soya. Hornéalos por 30 minutos.", "imagen": "img/salados/pasos/bechamel-paso1.png" },
+      { "texto": "Ralla una cebolla con el rallador.", "imagen": "img/salados/pasos/bechamel-paso2.png" },
+      { "texto": "Añade mantequilla en el sartén y sofríe la cebolla.", "imagen": "img/salados/pasos/bechamel-paso3.png" },
+      { "texto": "Pica los ajos y agrégalos a la sartén, revuelve bien.", "imagen": "img/salados/pasos/bechamel-paso4.png" },
+      { "texto": "Agrega 2 cucharadas de harina de trigo, revuelve y luego añade 125g de crema de leche y salsa de soya, mezclando sin grumos.", "imagen": "img/salados/pasos/bechamel-paso5.png" },
+      { "texto": "Calienta una plancha, condimenta la pechuga y cocínala.", "imagen": "img/salados/pasos/bechamel-paso6.png" },
+      { "texto": "Hierve agua con sal y cocina la pasta por 10 min.", "imagen": "img/salados/pasos/bechamel-paso7.png" },
+      { "texto": "Corta la pechuga dorada en pedazos.", "imagen": "img/salados/pasos/bechamel-paso8.png" },
+      { "texto": "Retira los tomates del horno y condiméntalos con salsa de soya, sal y azúcar.", "imagen": "img/salados/pasos/bechamel-paso9.png" },
+      { "texto": "Agrega los tomates a la salsa Bechamel.", "imagen": "img/salados/pasos/bechamel-paso10.png" },
+      { "texto": "¡Disfruta!", "imagen": null }
+    ],
+    "imagen": "img/inicio/Bechamel.jpg"
+  },
+
+  "burritos-palmitos-cangrejo": {
+    "titulo": "Burritos de Palmitos de Cangrejo",
+    "dificultad": "Fácil",
+    "duracion": "30 min",
+    "materiales": [
+      "Palmitos de cangrejo",
+      "1 diente de ajo",
+      "1 cebolla",
+      "Lechuga",
+      "Limón",
+      "Tortilla",
+      "Queso en lonchitas (de tu preferencia)",
+      "Especias (pimienta negra y sal)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Tabla para picar",
+      "1 bowl (recipiente)",
+      "Cuchara",
+      "Cuchillo",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "Corta en pequeños trozos los palmitos de cangrejo, excepto dos.", "imagen": "img/fuerte/pasos/palmitos/1.png" },
+      { "texto": "Licúa los dos palmitos sobrantes con un pedazo de cebolla y ajo.", "imagen": "img/fuerte/pasos/palmitos/2.png"  },
+      { "texto": "Pasa la mezcla a un bowl, añade los trozos de palmito, pimienta y sal.", "imagen": "img/fuerte/pasos/palmitos/3.png"  },
+      { "texto": "Sobre una tortilla coloca queso, lechuga y la mezcla de palmitos.", "imagen": null },
+      { "texto": "Cierra el burrito dándole forma.", "imagen": null },
+      { "texto": "Dora el burrito en sartén y añade un poco de limón.", "imagen": null },
+      { "texto": "¡Disfruta!", "imagen": "img/fuerte/pasos/palmitos/Burritopalmitos.png"  }
+    ],
+    "imagen": "img/inicio/Palmitos.jpg"
+  },
+
+  "okonomiyaki-pierna-cerdo": {
+  "titulo": "Okonomiyaki de Pierna de Cerdo",
+  "dificultad": "Fácil",
+  "duracion": "40 min",
+  "materiales": [
+    "200g de harina de trigo",
+    "250ml de agua",
+    "1 huevo",
+    "200g de repollo fino, entre picado o rallado",
+    "2 cebollas de tu preferencia",
+    "200g de pierna de cerdo en cubos",
+    "Especias (sal, pimienta negra, ajo en polvo, paprika)"
+  ],
+  "utensilios": [
+    "Sartén con tapa",
+    "2 bowls (recipientes)",
+    "Cuchillo",
+    "Tenedor",
+    "Globo (batidor manual)"
+  ],
+  "pasos": [
+    { "texto": "En el recipiente bate la harina, agua (puedes cambiarla por leche), y huevo hasta obtener una mezcla parecida a la de panqueques.", "imagen": "img/salados/pasos/okonomiyaki-paso1.png" },
+    { "texto": "Agrega a la mezcla el repollo picado o rallado, la cebolla, la sal, la pimienta, integra bien y reserva.", "imagen": "img/salados/pasos/okonomiyaki-paso2.png" },
+    { "texto": "En un sartén a punto de humo y a fuego medio saltea la pierna de cerdo previamente sazonada hasta que estén dorados y cocidos por completo.", "imagen": "img/salados/pasos/okonomiyaki-paso3.png" },
+    { "texto": "En la misma sartén coloca un poco de ghee o aceite y calienta a fuego medio. Vierte una porción de la mezcla en la sartén formando un círculo y encima la pierna de cerdo salteada.", "imagen": "img/salados/pasos/okonomiyaki-paso4.png" },
+    { "texto": "Cocina entre 5 a 7 minutos por lado y lado.", "imagen": "img/salados/pasos/okonomiyaki-paso5.png" },
+    { "texto": "Una vez cocido, retira el okonomiyaki de la sartén y colócalo en tu plato, decora con la salsa okonomiyaki (receta en sección de acompañantes).", "imagen": "img/salados/pasos/okonomiyaki-paso6.png" },
+    { "texto": "Puedes acentuar con un poco de cebollín y mayonesa.", "imagen": "img/salados/pasos/okonomiyaki-paso7.png" },
+    { "texto": "¡Disfruta!", "imagen": null }
+  ],
+  "imagen": "img/fuerte/Okomiyaki.png"
+},
+
+  "lasana-madurito-carne": {
+    "titulo": "Lasaña de Madurito con Carne de Res",
+    "dificultad": "Fácil",
+    "duracion": "45 min",
+    "materiales": [
+      "1 plátano",
+      "1/2 lb Carne de Res",
+      "Queso loncha",
+      "Tomates",
+      "Pimienta",
+      "Sal",
+      "Sal de ajo"
+    ],
+    "utensilios": [
+      "Sartén con tapa",
+      "2 bowls (recipientes)",
+      "Cuchillo",
+      "Cuchara sopera",
+      "Cucharón"
+    ],
+    "pasos": [
+      { "texto": "Cocina la carne en olla a presión 35 min con sal, pimienta y sal de ajo.", "imagen": "img/salados/pasos/lasana-paso1.png" },
+      { "texto": "Precalienta el horno por 15 min.", "imagen": "img/salados/pasos/lasana-paso2.png" },
+      { "texto": "Corta el plátano en rodajas y hornéalo por 1h 30min. Luego haz puré.", "imagen": "img/salados/pasos/lasana-paso3.png" },
+      { "texto": "Sofríe tomates con sal y azúcar.", "imagen": "img/salados/pasos/lasana-paso4.png" },
+      { "texto": "Licúa los tomates sofritos y resérvalos en un bowl.", "imagen": "img/salados/pasos/lasana-paso5.png" },
+      { "texto": "Agrega azúcar al puré de plátano.", "imagen": "img/salados/pasos/lasana-paso6.png" },
+      { "texto": "Desmecha la carne cocida.", "imagen": "img/salados/pasos/lasana-paso7.png" },
+      { "texto": "Sobre papel film coloca puré de plátano, queso, carne y tomate.", "imagen": "img/salados/pasos/lasana-paso8.png" },
+      { "texto": "Haz un rollito y congélalo 10 min.", "imagen": "img/salados/pasos/lasana-paso9.png" },
+      { "texto": "Retira el film y sella el rollito en sartén.", "imagen": "img/salados/pasos/lasana-paso10.png" },
+      { "texto": "¡Disfruta! (Puedes cortarlo en lonjas estilo sushi).", "imagen": null }
+    ],
+    "imagen": "img/fuerte/lasaña de madurito.png"
+  },
+
+  "rollitos-calabacin": {
+    "titulo": "Rollitos de Calabacín",
+    "dificultad": "Fácil",
+    "duracion": "50 min(Incluye tiempo de cocción)",
+    "materiales": [
+      "3 calabacines medianos",
+      "Aceite de aguacate o de oliva",
+      "Queso crema",
+      "Queso mozzarella",
+      "1 huevo",
+      "2 cdas de perejil fresco picado",
+      "Salsa de tu preferencia (sin azúcar)",
+      "Especias (sal, pimienta negra y ajo en polvo)"
+    ],
+    "utensilios": [
+      "Sartén con tapa",
+      "2 bowls",
+      "Cuchillo",
+      "Cuchara sopera",
+      "Pelador",
+      "Rallador"
+    ],
+    "pasos": [
+      { "texto": "Lava los calabacines y saca láminas finas con un pelador.", "imagen": "img/fuerte/pasos/calabacin/1.png" },
+      { "texto": "Dóralas en sartén con aceite hasta que estén flexibles.", "imagen": null },
+      { "texto": "Mezcla queso crema, huevo, mozzarella rallado, sal, pimienta, ajo en polvo y perejil.", "imagen": "img/fuerte/pasos/calabacin/2.png" },
+      { "texto": "Precalienta horno a 190°C y pon salsa en el fondo del recipiente.", "imagen": "img/fuerte/pasos/calabacin/3.png" },
+      { "texto": "Rellena cada lámina con la mezcla y enrolla.", "imagen": "img/fuerte/pasos/calabacin/4.png" },
+      { "texto": "Coloca los rollos sobre la salsa.", "imagen": null },
+      { "texto": "Cubre con más salsa y mozzarella. Hornea 20 min.", "imagen": null },
+      { "texto": "Decora con perejil y sirve.", "imagen": "img/fuerte/pasos/calabacin/Rollitos calabacin.png" }
+    ],
+    "imagen": "img/fuerte/calabacin.png"
+  },
+
+  "bowl-carne-teriyaki": {
+    "titulo": "Bowl de Carne en Salsa Teriyaki",
+    "dificultad": "Fácil",
+    "duracion": "45-50 min",
+    "materiales": [
+      "1 papa grande",
+      "250g Carne molida",
+      "Aceite de oliva",
+      "Queso (de tu preferencia)",
+      "1 hoja de lechuga fresca",
+      "1 tomate",
+      "Salsa teriyaki",
+      "Especias (sal, pimienta negra, ajo en polvo, paprika)"
+    ],
+    "utensilios": [
+      "Sartén con tapa",
+      "1 bowl",
+      "Cuchillo",
+      "Cuchara sopera",
+      "Cuchara de madera"
+    ],
+    "pasos": [
+      { "texto": "Corta las papas en bastones, sazona con especias y aceite.", "imagen": "img/fuerte/pasos/teriyaki/1 (1).png" },
+      { "texto": "Cocina las papas en la airfryer a 180°C por 30 min.", "imagen": null },
+      { "texto": "Cocina la carne en sartén con sal y condimentos. Agrega salsa teriyaki.", "imagen": "img/fuerte/pasos/teriyaki/2 (1).png" },
+      { "texto": "Pica tomate y lava la lechuga.", "imagen": "img/fuerte/pasos/teriyaki/3 (1).png" },
+      { "texto": "En un bowl mezcla todo y espolvorea queso.", "imagen": null },
+      { "texto": "¡Disfruta!", "imagen": "img/fuerte/pasos/teriyaki/carneysalsa.png" }
+    ],
+    "imagen": "img/fuerte/bowl de teriyaki.png"
+  },
+
+  "papas-pollo-brocoli-alfredo": {
+    "titulo": "Papas Crujientes con Pollo y Brócoli en Salsa Alfredo",
+    "dificultad": "Fácil",
+    "duracion": "35 min",
+    "materiales": [
+      "300 g de pechuga de pollo en cubos",
+      "1 cdta de ajo en polvo, cebolla en polvo y 2 pizcas de sal y pimienta",
+      "2 papas",
+      "Brócoli",
+      "60 ml de crema de leche",
+      "100 g de queso crema",
+      "2 cdas de mantequilla",
+      "2 dientes de ajo triturados",
+      "1 cdta de orégano",
+      "20 g de parmesano"
+    ],
+    "utensilios": [
+      "Sartén con tapa",
+      "1 bowl",
+      "Cuchillo",
+      "Cuchara sopera",
+      "Cuchara de madera",
+      "Freidora de aire"
+    ],
+    "pasos": [
+      { "texto": "Hierve las papas en cubos por 4 min, condimenta y fríelas en airfryer 20 min.", "imagen": "img/fuerte/pasos/papas/1 (2).png" },
+      { "texto": "Corta el pollo en cubos y condiméntalo.", "imagen": "img/fuerte/pasos/papas/2 (2).png" },
+      { "texto": "Cocina el pollo en sartén hasta dorar.", "imagen": null },
+      { "texto": "Hierve el brócoli y añádelo al sartén con pollo.", "imagen": "img/fuerte/pasos/papas/3 (2).png" },
+      { "texto": "Agrega mantequilla, sofríe ajo y orégano. Luego añade crema y quesos.", "imagen": "img/fuerte/pasos/papas/4 (2).png"},
+      { "texto": "Mezcla bien la salsa con el pollo y brócoli.", "imagen": null },
+      { "texto": "Sirve sobre papas crujientes y espolvorea perejil.", "imagen": "img/fuerte/pasos/papas/1 (1).png" }
+    ],
+    "imagen": "img/fuerte/crujientes.png"
+  },
+
+  "arroz-camarones-vegetales": {
+    "titulo": "Arroz Integral con Camarones y Vegetales Salteados",
+    "dificultad": "Media",
+    "duracion": "50 min",
+    "materiales": [
+      "1 taza de arroz integral",
+      "200 g de camarones limpios y pelados",
+      "1 zanahoria mediana",
+      "1 pimiento rojo",
+      "1 taza de brócoli picado",
+      "2 dientes de ajo",
+      "2 cucharadas de aceite de oliva",
+      "Salsa de soya baja en sodio al gusto",
+      "Sal y pimienta al gusto",
+      "Opcional: semillas de sésamo para decorar"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para picar",
+      "Sartén grande",
+      "Olla",
+      "Espátula de madera",
+      "Bowl pequeño"
+    ],
+    "pasos": [
+      { "texto": "Cocina el arroz integral en una olla con agua y sal.", "imagen": "img/fuerte/pasos/camarones/1 (3).png" },
+      { "texto": "Pica zanahoria, pimiento y brócoli.", "imagen": "img/fuerte/pasos/camarones/2 (3).png" },
+      { "texto": "Saltea camarones en sartén con aceite 3-4 min y reserva.", "imagen": null },
+      { "texto": "Saltea ajo, zanahoria, pimiento y brócoli.", "imagen": "img/fuerte/pasos/camarones/3 (3).png" },
+      { "texto": "Añade arroz cocido, camarones y salsa de soya. Mezcla bien.", "imagen": null },
+      { "texto": "Sirve caliente y decora con sésamo.", "imagen": "img/fuerte/pasos/camarones/" }
+    ],
+    "imagen": "img/fuerte/Arroz con camarones.png"
+  },
+
+  "ñoquis-con": {
+  "titulo": "Ñoquis con",
+  "dificultad": "Fácil",
+  "duracion": "1h (incluye tiempo de cocción)",
+  "materiales": [
+    "250g de papa cocida sin cáscara",
+    "50g de maicena",
+    "Medio huevo batido"
+  ],
+  "utensilios": [
+    "Sartén con tapa",
+    "1 bowl",
+    "Cuchillo",
+    "Cuchara sopera",
+    "Cuchara de madera o de goma para revolver"
+  ],
+  "pasos": [
+    { "texto": "Mezcla el puré con la maicena y mezcla hasta activar el almidón de la papa. (Hasta agarrar una textura un poco chicloso).", "imagen": "img/salados/pasos/ñoquis-paso1.png" },
+    { "texto": "Mete las papas en la airfryer a 180 °C por 30 minutos.", "imagen": "img/salados/pasos/ñoquis-paso2.png" },
+    { "texto": "En un sartén pon la carne molida, añade sal y condimentos; cocina a fuego medio. Cuando esté lista, agrégale dos cucharadas de salsa teriyaki.", "imagen": "img/salados/pasos/ñoquis-paso3.png" },
+    { "texto": "Pica el tomate y lava la lechuga.", "imagen": "img/salados/pasos/ñoquis-paso4.png" },
+    { "texto": "Por último, en un bowl añade los ingredientes y espolvorea queso rallado por encima.", "imagen": "img/salados/pasos/ñoquis-paso5.png" },
+    { "texto": "¡Disfruta!", "imagen": null }
+  ],
+  "imagen": "img/fuerte/ñoquis.png"
+}
+
+}

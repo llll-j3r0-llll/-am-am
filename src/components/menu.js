@@ -1,26 +1,25 @@
-// src/components/menu.js
-document.addEventListener("DOMContentLoaded", () => {
-  const menuBtn = document.getElementById("menu-btn");
-  const closeBtn = document.getElementById("close-btn");
-  const sidebar = document.getElementById("sidebar");
-  const submenuToggles = document.querySelectorAll(".submenu > .toggle");
+function moverCarousel(id, direccion) {
+  const carousel = document.getElementById(id);
+  const track = carousel.querySelector(".carousel-track");
+  const slides = track.querySelectorAll("img");
+  const slideWidth = slides[0].clientWidth;
 
-  // Abrir sidebar
-  menuBtn.addEventListener("click", () => {
-    sidebar.classList.add("active");
-  });
+  // Guardar índice actual en dataset (si no existe lo inicializa en 0)
+  let index = parseInt(track.dataset.index) || 0;
 
-  // Cerrar sidebar
-  closeBtn.addEventListener("click", () => {
-    sidebar.classList.remove("active");
-  });
+  // Actualizar índice
+  index += direccion;
 
-  // Abrir / cerrar submenús (varios al mismo tiempo)
-  submenuToggles.forEach(toggle => {
-    toggle.addEventListener("click", (e) => {
-      e.preventDefault();
-      // Solo alterna el actual, no cierra los demás
-      toggle.parentElement.classList.toggle("open");
-    });
-  });
-});
+  // Control de límites (vuelve al inicio/fin como carrusel infinito)
+  if (index < 0) {
+    index = slides.length - 1;
+  } else if (index >= slides.length) {
+    index = 0;
+  }
+
+  // Guardar nuevo índice
+  track.dataset.index = index;
+
+  // Mover el track con transform
+  track.style.transform = `translateX(-${index * slideWidth}px)`;
+}

@@ -130,8 +130,8 @@ body {
 }
 
 .sidebar a .icon {
-  width: 30px;
-  height: 20px;
+  width: 37px;
+  height: 30px;
 }
 
 /* Submenús cerrados por defecto */
@@ -171,54 +171,61 @@ body {
 
 /* ======== CARRUSEL ======== */
 /* Contenedor con imágenes deslizables */
-.carrusel {
-  position: relative;
-  margin: 100px auto 40px auto;
-  max-width: 70%;
-  overflow: hidden;
-  border-radius: 15px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+/* Ajuste del espacio debajo del header/bienvenida */
+section.carrusel {
+  margin-top: 40px; /* aumenta o reduce según prefieras */
 }
 
+/* Hacemos el carrusel más largo */
+.carrusel {
+  position: relative;
+  width: 100%;
+  max-width: 1000px; /* ancho máximo */
+  margin: auto;
+  overflow: hidden;
+  border-radius: 10px;
+  height: 400px; /* aquí controlas la altura */
+}
+
+/* Contenedor de slides */
 .slides {
   display: flex;
   transition: transform 0.5s ease-in-out;
+  height: 100%;
 }
 
+/* Cada slide ocupa el 100% */
 .slide {
   min-width: 100%;
-}
-.slide img {
-  width: 100%;
-  height: 400px;
-  object-fit: cover;
-  border-radius: 15px;
+  height: 100%;
+  display: none;
 }
 
-/* Botones para navegar el carrusel */
-.prev, .next {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(0,0,0,0.5);
-  border: none;
-  color: white;
-  font-size: 2rem;
-  padding: 8px 14px;
-  cursor: pointer;
-  border-radius: 50%;
-  transition: 0.3s;
+.slide.active {
+  display: block;
 }
-.prev { left: 10px; }
-.next { right: 10px; }
-.prev:hover, .next:hover {
-  background: rgba(0,0,0,0.8);
+
+.slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* recorta y ajusta la imagen sin deformarla */
 }
 
 /* ======== BIENVENIDA ======== */
+/* ======== CONTENEDOR DE BIENVENIDA ======== */
+.contenedor-bienvenida {
+  max-width: 800px;        /* Ancho máximo */
+  margin: 30px auto;      /* Centrado horizontal y margen superior */
+  padding: 30px;           /* Espaciado interno */
+  background-color: #ffffff; /* Fondo blanco */
+  border-radius: 25px;     /* Bordes muy redondeados */
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1); /* Sombra suave */
+  text-align: center;      /* Centrado de texto */
+}
+
 .bienvenida {
   text-align: center;
-  margin: 40px auto;
+  margin-top: 100px ;
   padding: 20px;
 }
 .bienvenida h1 {
@@ -228,6 +235,22 @@ body {
 }
 
 /* ======== OBJETIVOS ======== */
+
+
+.objetivos h1 {
+  font-size: 2rem;
+  color: #ff7043;
+  margin-bottom: 30px;
+}
+
+.objetivo-img {
+  width: 100%;
+  height: 225px;     /* puedes ajustar la altura */
+  object-fit: cover; /* recorta sin deformar */
+  border-radius: 8px;
+  margin-top: 10px;  /* separa el texto de la imagen */
+}
+
 .objetivos {
   text-align: center;
   padding: 30px 20px;
@@ -255,6 +278,13 @@ body {
 }
 
 /* ======== RECETAS DESTACADAS ======== */
+
+.recetas-destacadas h1 {
+  font-size: 2rem;
+  color: #ff7043;
+  margin-bottom: 30px;
+}
+
 .recetas-destacadas {
   text-align: center;
   margin: 40px auto;
@@ -321,16 +351,44 @@ body {
 }
 
 /* ======== MISIÓN Y VISIÓN ======== */
-.mision-vision {
-  padding: 60px 20px;
-  background: #f9f9f9;
-  text-align: center;
-}
-.mision-vision h2 {
+
+.container h1 {
   font-size: 2rem;
-  margin-bottom: 40px;
-  color: #333;
+  color: #ff7043;
+  margin-bottom: 30px;
 }
+
+.mision-vision {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.mision-vision h2 {
+  color: #ff7043;
+  margin-bottom: 30px;
+}
+
+.contenedor-mv {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap; /* 🔹 se acomoda en móviles */
+}
+
+.card-mv {
+  background: white;
+  padding: 20px;
+  border-radius: 12px; /* 🔹 esquinas redondeadas */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* 🔹 sombra suave */
+  width: 300px;
+  text-align: left;
+}
+
+.card-mv h3 {
+  color: #ff7043;
+  margin-bottom: 10px;
+}
+
 .mision-vision .content {
   display: flex;
   flex-wrap: wrap;
@@ -352,7 +410,7 @@ body {
 .mision-vision h3 {
   font-size: 1.5rem;
   margin-bottom: 15px;
-  color: #0077b6;
+  color: #ff7043;
 }
 .mision-vision p {
   font-size: 1rem;
@@ -361,6 +419,12 @@ body {
 }
 
 /* ======== TALLERES ======== */
+.talleres h1 {
+  font-size: 2rem;
+  color: #ff7043;
+  margin-bottom: 30px;
+}
+
 .talleres {
   text-align: center;
   padding: 50px 20px;
@@ -392,20 +456,41 @@ body {
   color: #444;
 }
 
+@media (max-width: 1024px) {
+  .tarjeta{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .tarjeta {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Carrusel dentro de talleres */
 .carousel {
   position: relative;
+  width: 100%;
+  max-width: 350px;       /* controla el ancho */
+  margin: auto;
   overflow: hidden;
   border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
+
 .carousel-track {
   display: flex;
   transition: transform 0.5s ease-in-out;
 }
+
 .carousel img {
   width: 100%;
+  height: 220px;          /* 🔹 controla la altura */
+  flex-shrink: 0;
   border-radius: 10px;
+  object-fit: cover;      /* 🔹 recorta proporcionalmente */
 }
+
 .prev, .next {
   position: absolute;
   top: 40%;

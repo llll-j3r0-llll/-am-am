@@ -1,10 +1,11 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
   <html lang="es">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ÑAM ÑAM - Inicio</title>
-    <link rel="stylesheet" href="bebidas/frias/frias.css">
+    <link rel="stylesheet" href="src/menu.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   </head>
   <body>
 
@@ -15,13 +16,7 @@
       <!-- Logo y nombre -->
       <div class="brand">
         <img src="img/inicio/Logo nuevo (1).png" alt="Logo" class="logo">
-        <img src="nombre.png" alt="Nombre Ñam Ñam" class="brand-name">
-      </div>
-
-      <!-- Barra buscadora -->
-      <div class="search-box">
-        <input type="text" placeholder="Buscar recetas...">
-        <button>🔍</button>
+        <img src="img/inicio/Captura de pantalla 2025-09-04 113023-Photoroom.png" alt="Nombre Ñam Ñam" class="brand-name">
       </div>
     </header>
 
@@ -40,91 +35,164 @@
 
   <ul>
     <!-- Inicio -->
-      <li>
+    <li>
       <a href="index.html">
-        <img src="assets/icons/home.png" alt="Inicio" class="icon" /> Inicio
+        <img src="img/inicio/internet.png" alt="Inicio" class="icon" /> Inicio
       </a>
     </li>
 
     <!-- Plato fuerte -->
     <li>
       <a href="plato-fuerte.html">
-        <img src="assets/icons/plato.png" alt="Plato Fuerte" class="icon" /> Plato fuerte
+        <img src="img/inicio/comida (1).png" alt="Plato Fuerte" class="icon" /> Plato fuerte
       </a>
     </li>
 
     <!-- Proteínas -->
     <li>
-      <a href="plato-liviano.html">
-        <img src="assets/icons/proteina.png" alt="plato liviano" class="icon" /> Plato liviano
+      <a href="plato-liviano.html" class="toggle">
+        <img src="img/inicio/comida.png" alt="Proteínas" class="icon" /> Plato liviano
+      </a>
+    </li>
+
+          <li>
+      <a href="desayunos.html" class="toggle">
+        <img src="img/inicio/desayuno.png" alt="Proteínas" class="icon" /> Desayunos
       </a>
     </li>
 
     <!-- Acompañantes -->
     <li>
       <a href="acompañantes.html">
-        <img src="assets/icons/acompanantes.png" alt="Acompañantes" class="icon" /> Acompañantes
+        <img src="img/inicio/tabasco.png" alt="Acompañantes" class="icon" /> Acompañantes
       </a>
     </li>
 
     <!-- Bebidas -->
     <li class="submenu">
       <a href="#" class="toggle">
-        <img src="assets/icons/bebidas.png" alt="Bebidas" class="icon" /> Bebidas
+        <img src="img/inicio/bebida-granizada.png" alt="Bebidas" class="icon" /> Bebidas
         <span class="arrow">▸</span>
       </a>
       <ul class="dropdown">
-        <li><a href="Frias.html"><img src="assets/icons/frias.png" class="icon" /> Frías</a></li>
-        <li><a href="calientes.html"><img src="assets/icons/calientes.png" class="icon" /> Calientes</a></li>
+        <li><a href="frias.html"><img src="img/inicio/bebida-fria.png" class="icon" /> Frías</a></li>
+        <li><a href="calientes.html"><img src="img/inicio/te.png" class="icon" /> Calientes</a></li>
       </ul>
     </li>
 
     <!-- snacks -->
-        <li>
-      <a href="Snacks.html">
-        <img src="assets/icons/postres.png" alt="Snacks" class="icon" />  Snacks
+    <li class="submenu">
+      <a href="#" class="toggle">
+        <img src="img/inicio/postre.png" alt="Snacks" class="icon" /> Snacks
+        <span class="arrow">▸</span>
       </a>
-    </li>
-
-    <!-- Postres -->
-    <li>
-      <a href="postres.html">
-        <img src="assets/icons/postres.png" alt="Postres" class="icon" /> Postres
-      </a>
+      <ul class="dropdown">
+        <li><a href="dulces.html"><img src="img/inicio/postres.png" class="icon" /> Dulces</a></li>
+        <li><a href="salado.html"><img src="img/inicio/magdalenas.png" class="icon" /> Saladas</a></li>
+      </ul>
     </li>
 
     <!-- Sorpréndeme -->
     <li>
       <a href="sorpende.html">
-        <img src="assets/icons/sorprende.png" alt="Sorpréndeme" class="icon" /> Sorprende
+        <img src="img/inicio/globos.png" alt="Sorpréndeme" class="icon" /> Sorprende
       </a>
     </li>
 
-    <!-- Información -->
-    <li>
-      <a href="informacion.html">
-        <img src="assets/icons/info.png" alt="Información" class="icon" /> Información
-      </a>
-    </li>
+
   </ul>
 </nav>
 
+
+
     <!-- Bienvenida -->
     <section class="bienvenida">
-      <h1>Bienvenido a Ñam Ñam</h1>
-      <p>Explora nuestras recetas deliciosas y fáciles de preparar.</p>
+      <div class="contenedor-bienvenida">
+      <h1>🥞Bienvenido a la sección de desayuno🍽️</h1>
+      <p>🌞 Ideas sencillas y nutritivas para empezar el día con energía ✨. Recetas rápidas y prácticas, perfectas para comenzar la mañana con buen sabor y sin complicaciones 🍳☕.</p>
+      </div>
     </section>
 
-    <!-- Carrusel -->
-    <section class="carrusel">
-      <div class="slides" id="slides">
-        <div class="slide active"><img src="img/WhatsApp Image 2025-08-22 at 10.58.38 PM (1).jpeg" alt="Receta 1"></div>
-        <div class="slide"><img src="img/WhatsApp Image 2025-08-22 at 10.58.38 PM.jpeg" alt="Receta 2"></div>
-        <div class="slide"><img src="img/WhatsApp Image 2025-08-22 at 10.58.39 PM.jpeg" alt="Receta 3"></div>
+<!-- Tarjeta de texto (texto unido con 3-4 emojis) -->
+<div class="info-card" role="note" aria-label="Descripción sección bebidas frías">
+  En <strong>Bebidas frías</strong> encontrarás recetas 🥤 refrescantes y llenas de sabor: limonadas 🍋, jugos naturales 🍓, smoothies con frutas y batidos energizantes. Cada preparación incluye tiempo estimado ⏱️ y nivel de dificultad ⭐ para que elijas la que más se ajuste a tu momento. Además, descubrirás variaciones creativas y tips para disfrutar en días soleados o como complemento perfecto de tus comidas.
+</div>
+
+
+
+<!-- Carrusel -->
+<section class="carrusel">
+  <div class="slides" id="slides">
+    <div class="slide active">
+      <img src="img/frias/Gemini_Generated_Image_60e9mt60e9mt60e9.png" alt="Receta 1">
+    </div>
+</section>
+
+ <!-- Tarjetas de recetas -->
+    <section class="recetas-destacadas">
+    <h1>Recetas Destacadas</h1>
+    <div class="recetas-grid">
+
+      <div class="receta-card">
+        <img src="img/frias/jamaica.png" alt="Limonada Fresca">
+        <h3>Limonada de flor de jamaica</h3>
+        <p>30-40 min (incluye reposo y enfriamiento)</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=limonada-flor-jamaica">Ver Receta</a>
       </div>
-      <button class="prev" id="prev">‹</button>
-      <button class="next" id="next">›</button>
-    </section>
+
+      <div class="receta-card">
+        <img src="img/frias/frutos rojos.png" alt="Ensalada Mixta">
+        <h3>Limonada de frutos rojos</h3>
+        <p>Duración: 5-7 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=limonada-frutos-rojos">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/frias/kiwi y sandia.png" alt="Pizza Casera">
+        <h3>Soda de kiwi y sandia</h3>
+        <p>Duración: 10-15 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=soda-kiwi-sandia">Ver Receta</a>
+      </div>
+
+      <!-- Más recetas -->
+      <div class="receta-card">
+        <img src="img/frias/Helado de fresa.png" alt="Limonada Fresca">
+        <h3>Smoothie helado súper cremoso</h3>
+        <p>Duración: Tiempo de preparación: 10min
+Y duración: 3h 10min (refigeración de la gelatina)</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=smoothie-cremoso">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/frias/Hierba buena.png" alt="Ensalada Mixta">
+        <h3>Limonada de hierbabuena</h3>
+        <p>Duración: 5 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=limonada-hierbabuena">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/frias/granizado de café.png" alt="Pizza Casera">
+        <h3>Granizado de café</h3>
+        <p>Duración: 7 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=granizado-cafe">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/frias/soda de maracuya y mango.png" alt="Limonada Fresca">
+        <h3>Soda de mango con maracuyá</h3>
+        <p>Duración: 8-10 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?id=soda-mango-maracuya">Ver Receta</a>
+      </div>  
+
+    </div>
+  </section>
 
 
     <footer class="footer">
@@ -132,38 +200,32 @@
       <!-- Sección 1: Logo y descripción -->
       <div class="footer-section">
         <h2 class="logo">ÑAM ÑAM</h2>
-        <p>Un proyecto para que los jóvenes desarrollen habilidades culinarias conscientes, prácticas y económicas.</p>
+        <p>📚 Un proyecto pensado para que los jóvenes fortalezcan sus estudios a través de la cocina, desarrollando habilidades culinarias conscientes y prácticas. 🔬 Aquí podrán aplicar lo aprendido en clase, experimentar con nuevas técnicas y comprender la importancia de la alimentación saludable. 🍳 Además, tendrán espacios para explorar la creatividad en la preparación de recetas y compartir experiencias con sus compañeros. 🌱</p>
       </div>
 
       <!-- Sección 2: Navegación rápida -->
-      <div class="footer-section">
-        <h3>Enlaces</h3>
-        <ul>
-          <li><a href="#inicio">Inicio</a></li>
-          <li><a href="#objetivos">Objetivos</a></li>
-          <li><a href="#vision">Visión</a></li>
-          <li><a href="#talleres">Talleres</a></li>
-        </ul>
-      </div>
 
       <!-- Sección 3: Contacto -->
       <div class="footer-section">
         <h3>Contacto</h3>
-        <p>Email: contacto@ñamñam.com</p>
-        <p>Tel: +57 300 123 4567</p>
+        <p>Email: Exploracion2025.00@gmail.Com</p>
+        <p>Tel: +57 312 247 2015</p>
         <p>Medellín - Colombia</p>
       </div>
 
-      <!-- Sección 4: Redes sociales -->
-      <div class="footer-section">
+   <div class="footer-section">
         <h3>Síguenos</h3>
         <div class="social-icons">
-          <a href="#"><i class="fab fa-facebook-f"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="URL_DE_TU_PERFIL_DE_TIKTOK"><i class="fab fa-tiktok"></i></a>
+            <a href="https://www.instagram.com/nam_nam11_?igsh=MWw0OWdwam84dTM5Zw=="><i class="fab fa-instagram"></i></a>
         </div>
       </div>
-    </div>
+  </div>
+        </div>
+      </div>
+
+       
+    
 
     <div class="footer-bottom">
       <p>&copy; 2025 ÑAM ÑAM - Todos los derechos reservados</p>
@@ -171,7 +233,13 @@
   </footer>
 
 
-    <script src="src/components/carrusel.js"></script>
+    <script src="src/components/carrousel.js"></script>
     <script src="src/components/menu.js"></script>
+    <script src="src/components/menu-lateral.js"></script>
   </body>   
   </html>
+
+
+
+
+    

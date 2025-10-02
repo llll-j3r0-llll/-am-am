@@ -1,0 +1,272 @@
+{
+  "ensalada-aguacate": {
+    "titulo": "Ensalada de Aguacate para Sánduches o Tortillas",
+    "dificultad": "Fácil",
+    "duracion": "10 min",
+    "materiales": [
+      "1 libra de contramuslo (sin hueso ni piel)",
+      "1 cebolla morada pequeña",
+      "1 aguacate",
+      "1 limón",
+      "Mayonesa casera",
+      "Especias (sal, pimienta negra, laurel)"
+    ],
+    "utensilios": [
+      "Olla con tapa",
+      "Bowl (recipiente)",
+      "Cuchillo",
+      "Tenedor",
+      "Exprimidor"
+    ],
+    "pasos": [
+      { "texto": "Ponle agua a la olla (lo suficiente para cubrir el pollo) y añádele sal, pimienta negra y laurel. Mete el pollo en la olla, tápalo y ponlo a fuego medio.", "imagen": "img/liviano/pasos/aguacate/1 (4).png" },
+      { "texto": "Cuando hierva el agua, retira con cuidado la olla del fuego y deja reposar el pollo durante 15 minutos dentro de la olla.", "imagen": null },
+      { "texto": "Desmecha el pollo con mucho cuidado y déjalo enfriar unos minutos para evitar posibles quemaduras. Resérvalo en un bowl.", "imagen": "img/liviano/pasos/aguacate/2 (4).png" },
+      { "texto": "Pica la cebolla morada en cubos pequeños y parte por la mitad el aguacate.", "imagen": null },
+      { "texto": "En el bowl donde está el pollo, añade la cebolla picada, el aguacate, sal, pimienta negra y mayonesa casera. Revuelve muy bien para integrar todos los ingredientes.", "imagen": "img/liviano/pasos/aguacate/3 (4).png" },
+      { "texto": "Exprime el zumo de limón en la mezcla y vuelve a revolver.", "imagen": null },
+      { "texto": "Acompaña con pan integral, tortillas o arepa.", "imagen": null },
+      { "texto": "Disfruta!!", "imagen": null }
+    ],
+    "imagen": "img/liviano/tortilla con aguacate.png"
+
+  },
+
+  "pizza-peperonni-pollo": {
+    "titulo": "Pizza de Peperonni con Base de Pollo",
+    "dificultad": "Media",
+    "duracion": "1 hora (Incluye tiempo de cocción)",
+    "materiales": [
+      "1 libra de pollo molido",
+      "2 huevos",
+      "Queso parmesano",
+      "Pasta de tomate (sección acompañantes)",
+      "Queso mozzarella",
+      "Pepperoni (tu preferido)",
+      "Esencias (sal, ajo en polvo, pimienta negra)"
+    ],
+    "utensilios": [
+      "Horno",
+      "Bowl (recipiente)",
+      "Bandeja para horno",
+      "Rallador",
+      "Cuchara",
+      "Papel mantequilla"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 400°F (200°C).", "imagen": "img/liviano/pasos/pizza/1 (5).png" },
+      { "texto": "En un bowl grande, combina el pollo molido, los huevos, 2 cucharadas de queso parmesano, el ajo en polvo, la sal y la pimienta. Mezcla bien.", "imagen": "img/liviano/pasos/pizza/4 (2).png" },
+      { "texto": "Sobre una bandeja para hornear, forrada con papel mantequilla, aplana la mezcla de pollo para darle forma de base de pizza.", "imagen": "img/liviano/pasos/pizza/2 (5).png" },
+      { "texto": "Hornea por 25 minutos y deja reposar unos minutos.", "imagen": null },
+      { "texto": "Sube la temperatura del horno a 425°F (220°C). Unta la salsa de pizza sobre la base, luego agrega el queso mozzarella y el pepperoni al gusto.", "imagen": "img/liviano/pasos/pizza/3 (6).png" },
+      { "texto": "Hornea por 10 minutos más y gratina durante los últimos 2 minutos para que el pepperoni quede dorado. ¡Vigila con cuidado y disfruta!", "imagen": null }
+    ],
+    "imagen": "img/liviano/pizza peperoni.png"
+  },
+
+  "tortitas-arroz-atun": {
+    "titulo": "Tortitas de arroz con atún",
+    "dificultad": "Fácil",
+    "duracion": "20 min",
+    "materiales": [
+      "1 lata de atún",
+      "Medio aguacate",
+      "1 taza y media de arroz cocido",
+      "Vinagre",
+      "1 cucharada de miel o panela en polvo",
+      "Verdura de tu preferencia (Tomate, pepino, arvejas…)",
+      "Salsa soya",
+      "Mayonesa"
+    ],
+    "utensilios": [
+      "Wafflera o sanduchera",
+      "Cuchara",
+      "Bowl (recipiente)"
+    ],
+    "pasos": [
+      { "texto": "En un recipiente añade media taza de agua, 2 cucharadas de vinagre, una cucharada de miel y media cucharada de sal.", "imagen": null },
+      { "texto": "Revuelve hasta que se haya disuelto la miel.", "imagen": null },
+      { "texto": "Humedece tus manos limpias con la mezcla anterior y toma una porción del arroz cocido para darle forma de arepita.", "imagen": null },
+      { "texto": "Engrasa la wafflera, coloca la tortita de arroz y cierra la tapa.", "imagen": null },
+      { "texto": "Retira el arroz cuando le veas una costra dorada en la superficie.", "imagen": null },
+      { "texto": "En otro recipiente mezcla el atún, el aguacate y otra verdura de tu elección con salsa soya y mayonesa.", "imagen": null },
+      { "texto": "Coloca la mezcla de atún sobre la tortita de arroz.", "imagen": null },
+      { "texto": "Decora con ajonjolí (opcional).", "imagen": null }
+    ],
+    "imagen": "img/liviano/tortilla con atun.png"
+  },
+
+  "sopa-champinones-pollo": {
+    "titulo": "Sopa con champiñones y pollo",
+    "dificultad": "Fácil",
+    "duracion": "35 min",
+    "materiales": [
+      "3 tazas de caldo de pollo",
+      "Salsa soya",
+      "Pasta de tu preferencia",
+      "Aceite de ajonjolí o de tu preferencia",
+      "Pechuga de pollo",
+      "Champiñones",
+      "Cebollín",
+      "Sal/pimienta"
+    ],
+    "utensilios": [
+      "Olla",
+      "Cuchillo",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "Coloca la pechuga de pollo previamente sazonada con sal y pimienta en la sartén.", "imagen": "img/liviano/pasos/champiñones/1 (6).png" },
+      { "texto": "En una olla coloca agua a hervir para cocinar la pasta, cocina por 10 minutos para que queden al dente.", "imagen": "img/liviano/pasos/champiñones/2 (6).png" },
+      { "texto": "Corta los champiñones en 4.", "imagen": null },
+      { "texto": "Coloca en una cacerola un chorrito de aceite de ajonjolí y agrega los champiñones, luego agrega el caldo de pollo.", "imagen": "img/liviano/pasos/champiñones/3 (7).png" },
+      { "texto": "Agrega la salsa de soya y deja cocinar a fuego bajo.", "imagen": null },
+      { "texto": "Una vez sellada y cocida la pechuga, retira del fuego y corta en julianas gruesas.", "imagen": null },
+      { "texto": "Agrega la pasta al caldo de champiñones y agrega el pollo.", "imagen": "img/liviano/pasos/champiñones/4 (3).png" },
+      { "texto": "Finaliza cortando cebollín para decorar la parte superior.", "imagen": "img/liviano/pasos/champiñones/sopa con pollito y champiñones.png" }
+    ],
+    "imagen": "img/liviano/sopa de champiñones.png"
+  },
+
+  "pasta-con-verduras": {
+    "titulo": "Pasta con verduras",
+    "dificultad": "Fácil",
+    "duracion": "35 min",
+    "materiales": [
+      "Agua",
+      "250g de fideos",
+      "1 cucharadita de aceite de oliva",
+      "1 cebolla",
+      "1 zanahoria",
+      "Brócoli",
+      "Pimiento rojo",
+      "Pimiento verde",
+      "Un pedacito de jengibre",
+      "Sal",
+      "Aceite de oliva",
+      "Salsa teriyaki",
+      "Ajonjolí"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Tenedor",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "En una ollita con agua hirviendo añade los fideos y cocina por 10 minutos a fuego lento, cuela y enjuaga con agua fría. Reserva.", "imagen": null },
+      { "texto": "En un sartén caliente agrega el aceite de oliva, el aceite de ajonjolí y saltea las verduras, añade el jengibre y sazona con sal y pimienta.", "imagen": null },
+      { "texto": "Con ayuda de una espátula forma un círculo con las verduras alrededor del sartén, el aceite de oliva y la pasta soba en el medio.", "imagen": null },
+      { "texto": "Cocina por un par de minutos y añade la salsa yakisoba, cocina hasta tener un color ligeramente oscuro y caramelizado.", "imagen": null },
+      { "texto": "Si sientes que está muy seca la mezcla puedes agregar un poco de agua.", "imagen": null },
+      { "texto": "Sirve caliente en un plato hondo y decora con ajonjolí.", "imagen": null }
+    ],
+    "imagen": "img/liviano/pasta de verduras.png"
+  },
+
+  "gyoza-airfryer": {
+    "titulo": "Gyoza o dumpling en air fryer",
+    "dificultad": "Media",
+    "duracion": "45 min",
+    "materiales": [
+      "Masa para empanadillas",
+      "500g de carne picada",
+      "2 dientes de ajo",
+      "2 zanahorias",
+      "1 cebolla",
+      "2 cucharadas de salsa soja",
+      "1 cucharadita de aceite de oliva",
+      "Comino, sal y pimienta"
+    ],
+    "utensilios": [
+      "Airfryer",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "Ponemos a calentar un sartén a fuego medio con una cucharadita de aceite de oliva.", "imagen": null },
+      { "texto": "Preparamos el relleno mezclando carne picada, zanahoria, cebolla, dientes de ajo, sal, pimienta, comino y salsa de soja.", "imagen": null },
+      { "texto": "Mientras se cocina, preparamos nuestra masa humedeciendo los bordes con un poco de agua.", "imagen": null },
+      { "texto": "Al terminar de cocinar el relleno, agrega con una cuchara a cada masita para empanadilla.", "imagen": null },
+      { "texto": "Precalentamos la airfryer a 190°C (374°F).", "imagen": null },
+      { "texto": "Metemos las gyozas rellenas en la cesta sin que se toquen. Puedes pasarles un poco de aceite de oliva por encima a cada una.", "imagen": null },
+      { "texto": "Configura la freidora a 190°C por 15 minutos.", "imagen": null },
+      { "texto": "A los 10 minutos, abre la cesta y agita las gyozas o voltéalas con una pinza.", "imagen": null },
+      { "texto": "Puedes acompañar con salsa agridulce o soja al gusto.", "imagen": null }
+    ],
+    "imagen": "img/liviano/dumpling.png"
+  },
+
+  "empanada-de-pollo-relleno": {
+    "titulo": "Empanada de pollo relleno",
+    "dificultad": "Fácil",
+    "duracion": "25 min",
+    "materiales": [
+      "Pechuga de pollo",
+      "Queso mozzarella",
+      "Queso parmesano (opcional)",
+      "Jamón",
+      "1 huevo",
+      "Sal y pimienta"
+    ],
+    "utensilios": [
+      "Horno",
+      "Bowl",
+      "Bandeja de horno",
+      "Rallador",
+      "Cuchara",
+      "Papel mantequilla"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 400°F (200°C).", "imagen": null },
+      { "texto": "En un bowl grande, combina el pollo molido, huevo, queso parmesano, ajo en polvo, sal y pimienta. Mezcla bien.", "imagen": null },
+      { "texto": "Sobre una bandeja con papel mantequilla aplana la mezcla de pollo para darle forma.", "imagen": null },
+      { "texto": "Hornea por 25 minutos. Déjala reposar unos minutos.", "imagen": null },
+      { "texto": "Sube la temperatura a 425°F (220°C). Unta salsa de pizza, agrega mozzarella y jamón.", "imagen": null },
+      { "texto": "Hornea por 10 minutos más. Gratina los últimos 2 minutos.", "imagen": null },
+      { "texto": "Sirve caliente.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Empanada de pollo.png"
+  },
+
+  "palitos-de-pan-con-ajo-y-queso": {
+    "titulo": "Palitos de pan con ajo y queso",
+    "dificultad": "Fácil",
+    "duracion": "1 hora (Incluye tiempo de cocción)",
+    "materiales": [
+      "2 tazas de queso mozzarella rallado",
+      "2 oz de queso crema",
+      "1½ tazas de harina de almendra",
+      "1½ cdta de polvo de hornear",
+      "2 cdta de ajo en polvo",
+      "¼ cdta de cebolla en polvo",
+      "2 huevos grandes",
+      "¾ cdta de sal",
+      "4 dientes de ajo picados",
+      "1½ tazas de queso mozzarella rallado",
+      "Perejil fresco"
+    ],
+    "utensilios": [
+      "Horno",
+      "Bowl",
+      "Bandeja de horno",
+      "Rallador",
+      "Cuchara",
+      "Papel mantequilla"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 350°F (175°C). Forra una bandeja con papel pergamino.", "imagen": null },
+      { "texto": "En un bol mediano, mezcla harina de almendra, polvo de hornear, ajo en polvo, cebolla en polvo y sal.", "imagen": null },
+      { "texto": "En un bol grande, derrite mozzarella y queso crema en el microondas hasta suave.", "imagen": null },
+      { "texto": "Añade los huevos y mezcla bien.", "imagen": null },
+      { "texto": "Agrega la mezcla seca poco a poco y forma una masa.", "imagen": null },
+      { "texto": "Extiende la masa en un rectángulo y perfora con tenedor.", "imagen": null },
+      { "texto": "Hornea 15 minutos hasta dorado.", "imagen": null },
+      { "texto": "Agrega ajo picado y más mozzarella encima, hornea 7 minutos más.", "imagen": null },
+      { "texto": "Gratina 1 minuto si quieres más dorado.", "imagen": null },
+      { "texto": "Espolvorea con perejil, deja enfriar y corta en palitos.", "imagen": null }
+    ],
+    "imagen": "img/liviano/palitos de queso.png"
+  
+}
+}
+

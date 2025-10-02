@@ -1,0 +1,252 @@
+  <!DOCTYPE html>
+  <html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÑAM ÑAM - Inicio</title>
+    <link rel="stylesheet" href="src/menu.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  </head>
+  <body>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+      <button class="menu-btn" id="menu-btn">&#9776;</button>
+
+      <!-- Logo y nombre -->
+      <div class="brand">
+        <img src="img/inicio/Logo nuevo (1).png" alt="Logo" class="logo">
+        <img src="img/inicio/Captura de pantalla 2025-09-04 113023-Photoroom.png" alt="Nombre Ñam Ñam" class="brand-name">
+      </div>
+    </header>
+
+    <!-- Menú lateral -->
+<!-- Menú lateral -->
+<div class="overlay" id="overlay"></div> <!-- Fondo oscuro -->
+
+<nav class="sidebar" id="sidebar">
+  <!-- Botón cerrar -->
+  <button class="close-btn" id="close-btn">✖</button>
+
+  <!-- Logo -->
+  <div class="sidebar-logo">
+    <img src="img/inicio/Logo nuevo (1).png" alt="Logo ÑAM ÑAM">
+  </div>
+
+  <ul>
+    <!-- Inicio -->
+    <li>
+      <a href="index.html">
+        <img src="img/inicio/internet.png" alt="Inicio" class="icon" /> Inicio
+      </a>
+    </li>
+
+    <!-- Plato fuerte -->
+    <li>
+      <a href="plato-fuerte.html">
+        <img src="img/inicio/comida (1).png" alt="Plato Fuerte" class="icon" /> Plato fuerte
+      </a>
+    </li>
+
+    <!-- Proteínas -->
+    <li>
+      <a href="plato-liviano.html" class="toggle">
+        <img src="img/inicio/comida.png" alt="Proteínas" class="icon" /> Plato liviano
+      </a>
+    </li>
+
+          <li>
+      <a href="desayunos.html" class="toggle">
+        <img src="img/inicio/desayuno.png" alt="Proteínas" class="icon" /> Desayunos
+      </a>
+    </li>
+
+    <!-- Acompañantes -->
+    <li>
+      <a href="acompañantes.html">
+        <img src="img/inicio/tabasco.png" alt="Acompañantes" class="icon" /> Acompañantes
+      </a>
+    </li>
+
+    <!-- Bebidas -->
+    <li class="submenu">
+      <a href="#" class="toggle">
+        <img src="img/inicio/bebida-granizada.png" alt="Bebidas" class="icon" /> Bebidas
+        <span class="arrow">▸</span>
+      </a>
+      <ul class="dropdown">
+        <li><a href="frias.html"><img src="img/inicio/bebida-fria.png" class="icon" /> Frías</a></li>
+        <li><a href="calientes.html"><img src="img/inicio/te.png" class="icon" /> Calientes</a></li>
+      </ul>
+    </li>
+
+    <!-- snacks -->
+    <li class="submenu">
+      <a href="#" class="toggle">
+        <img src="img/inicio/postre.png" alt="Snacks" class="icon" /> Snacks
+        <span class="arrow">▸</span>
+      </a>
+      <ul class="dropdown">
+        <li><a href="dulces.html"><img src="img/inicio/postres.png" class="icon" /> Dulces</a></li>
+        <li><a href="salado.html"><img src="img/inicio/magdalenas.png" class="icon" /> Saladas</a></li>
+      </ul>
+    </li>
+
+    <!-- Sorpréndeme -->
+    <li>
+      <a href="sorpende.html">
+        <img src="img/inicio/globos.png" alt="Sorpréndeme" class="icon" /> Sorprende
+      </a>
+    </li>
+
+
+  </ul>
+</nav>
+
+
+
+    <!-- Bienvenida -->
+    <section class="bienvenida">
+      <div class="contenedor-bienvenida">
+      <h1>🥞Bienvenido a la sección de desayuno🍽️</h1>
+      <p>🌞 Ideas sencillas y nutritivas para empezar el día con energía ✨. Recetas rápidas y prácticas, perfectas para comenzar la mañana con buen sabor y sin complicaciones 🍳☕.</p>
+      </div>
+    </section>
+
+    <!-- Tarjeta de texto (texto unido con 3-4 emojis) -->
+<div class="info-card" role="note" aria-label="Descripción sección desayuno">
+  En <strong>Desayuno</strong> encontrarás recetas 🥞 fáciles y deliciosas para empezar tu día con energía: pancakes, arepas, huevos 🍳, batidos 🥤 y opciones ligeras o nutritivas. Cada preparación incluye tiempo estimado ⏱️ y nivel de dificultad ⭐ para que sepas cuánto te tomará. Además, descubrirás consejos prácticos y variaciones creativas para disfrutar cada mañana con sabor y bienestar.
+</div>
+
+
+<!-- Carrusel -->
+<section class="carrusel">
+  <div class="slides" id="slides">
+    <div class="slide active">
+      <img src="img/desayunos/Gemini_Generated_Image_wuw9duwuw9duwuw9.png" alt="Receta 1">
+    </div>
+</section>
+
+ <!-- Tarjetas de recetas -->
+    <section class="recetas-destacadas">
+    <h1>Recetas Destacadas</h1>
+    <div class="recetas-grid">
+
+      <div class="receta-card">
+        <img src="img/desayunos/tostadas de aguacate.png" alt="Limonada Fresca">
+        <h3>Tostada agridulce con aguacate y huevo cocido</h3>
+        <p>Duración: 15 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=tostada-agridulce">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/desayunos/arandanos y queso.png" alt="Ensalada Mixta">
+        <h3>Sanduche de arandanos y queso</h3>
+        <p>Duración: 15 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=sanduche-arandanos-queso">Ver Receta</a>
+      </div>
+
+      <div class="receta-card"> 
+        <img src="img/desayunos/wafles de yuca.png" alt="Pizza Casera">
+        <h3>Waffles de pan de yuca</h3>
+        <p>Duración: 15 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=waffles-pan-yuca">Ver Receta</a>
+      </div>
+
+      <!-- Más recetas -->
+      <div class="receta-card">
+        <img src="img/desayunos/tomate relleno.png" alt="Limonada Fresca">
+        <h3>Tomate relleno de huevo y espinaca</h3>
+        <p>Duración: 15-20 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=borde-tomate-relleno">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/desayunos/espinaca royo.png" alt="Ensalada Mixta">
+        <h3>Rollitos verdes</h3>
+        <p>Duración: 25 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=rollitos-verdes">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/desayunos/avena.png" alt="Pizza Casera">
+        <h3>Pancakes de avena</h3>
+        <p>Duración: 25 min</p>
+        <p>Dificultad: Medio</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=pancakes-avena">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/desayunos/kelos.png" alt="Limonada Fresca">
+        <h3>Cereal crispy saludable</h3>
+        <p>Duración: 15 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=cereal-crispy-saludable">Ver Receta</a>
+      </div>  
+
+            <div class="receta-card">
+        <img src="img/desayunos/kelos.png" alt="Limonada Fresca">
+        <h3>empanada de quinoa</h3>
+        <p>Duración: 25 min</p>
+        <p>Dificultad: Facil</p>
+        <a href="plantillas_recetas.html?seccion=desayunos&id=empanada-quinoa">Ver Receta</a>
+      </div> 
+
+    </div>
+  </section>
+
+
+    <footer class="footer">
+    <div class="footer-container">
+      <!-- Sección 1: Logo y descripción -->
+      <div class="footer-section">
+        <h2 class="logo">ÑAM ÑAM</h2>
+        <p>📚 Un proyecto pensado para que los jóvenes fortalezcan sus estudios a través de la cocina, desarrollando habilidades culinarias conscientes y prácticas. 🔬 Aquí podrán aplicar lo aprendido en clase, experimentar con nuevas técnicas y comprender la importancia de la alimentación saludable. 🍳 Además, tendrán espacios para explorar la creatividad en la preparación de recetas y compartir experiencias con sus compañeros. 🌱</p>
+      </div>
+
+      <!-- Sección 2: Navegación rápida -->
+
+      <!-- Sección 3: Contacto -->
+      <div class="footer-section">
+        <h3>Contacto</h3>
+        <p>Email: Exploracion2025.00@gmail.Com</p>
+        <p>Tel: +57 312 247 2015</p>
+        <p>Medellín - Colombia</p>
+      </div>
+
+   <div class="footer-section">
+        <h3>Síguenos</h3>
+        <div class="social-icons">
+            <a href="URL_DE_TU_PERFIL_DE_TIKTOK"><i class="fab fa-tiktok"></i></a>
+            <a href="https://www.instagram.com/nam_nam11_?igsh=MWw0OWdwam84dTM5Zw=="><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+  </div>
+        </div>
+      </div>
+
+       
+    
+
+    <div class="footer-bottom">
+      <p>&copy; 2025 ÑAM ÑAM - Todos los derechos reservados</p>
+    </div>
+  </footer>
+
+
+    <script src="src/components/carrousel.js"></script>
+    <script src="src/components/menu.js"></script>
+    <script src="src/components/menu-lateral.js"></script>
+    <script src="src/components/main.js"></script>
+  </body>   
+  </html>
+
+
+
+
+    

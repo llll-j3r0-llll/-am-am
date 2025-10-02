@@ -1,0 +1,243 @@
+{
+  "tostada-agridulce": {
+    "titulo": "Tostada agridulce con aguacate y huevo cocido",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "Rebanada de pan (idealmente de masa madre, receta en acompañantes)",
+      "Queso para asar",
+      "Miel",
+      "Aguacate",
+      "1 huevo",
+      "Salsa de soya",
+      "Especias (sal, pimienta roja escamada o negra)"
+    ],
+    "utensilios": [
+      "Tabla",
+      "Cuchillo",
+      "Cuchara",
+      "Rallador",
+      "Sartén",
+      "Olla pequeña o recipiente para hervir el agua"
+    ],
+    "pasos": [
+      { "texto": "Coloca a hervir agua, sal y salsa de soya (cantidad suficiente para cubrir el huevo).", "imagen": "img/desayunos/pasos/aguacate/1er paso.png" },
+      { "texto": "Cuando el agua esté en punto de ebullición, añade el huevo con ayuda de una cuchara para no romper la cáscara. Déjalo cocinar de 8 a 9 minutos.", "imagen": "img/desayunos/pasos/aguacate/2do paso.png" },
+      { "texto": "Toma la rebanada de pan y cubre ambas caras con miel.", "imagen": "img/desayunos/pasos/aguacate/3er paso.png" },
+      { "texto": "Ralla y esparce el queso sobre ambas caras de la tostada hasta que queden cubiertas.", "imagen": "img/desayunos/pasos/aguacate/4to paso.png" },
+      { "texto": "Dora ambas caras del pan en un sartén a punto de humo, a fuego medio-alto.", "imagen": null },
+      { "texto": "Rebana medio aguacate y saca el huevo del agua.", "imagen": "img/desayunos/pasos/aguacate/6to paso.png" },
+      { "texto": "Quítale la cáscara al huevo.", "imagen": null },
+      { "texto": "Con la tostada lista, coloca el aguacate, luego el huevo y condimenta.", "imagen": "img/desayunos/pasos/aguacate/Tostada Aguacate y Huevo.png" }
+    ],
+    "imagen": "img/desayunos/tostadas de aguacate.png"
+  },
+
+  "sanduche-arandanos-queso": {
+    "titulo": "Sanduche de arándanos y queso",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "Rebanada de pan (idealmente de masa madre, receta en...)",
+      "Queso provolone o de tu preferencia",
+      "Miel",
+      "Medio limón",
+      "Arándanos",
+      "Aceite, mantequilla o ghee"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchara o miserable"
+    ],
+    "pasos": [
+      { "texto": "En una sartén a fuego bajo, agrega los arándanos, la miel y el jugo de medio limón.", "imagen": "img/desayunos/pasos/arandanos/1paso.png" },
+      { "texto": "Integra periódicamente hasta notar una reducción considerable en el contenido de agua propio de los arándanos y obtener una textura similar a una mermelada rústica.", "imagen": "img/desayunos/pasos/arandanos-paso2.png" },
+      { "texto": "En otra sartén, previamente engrasada, dora las partes internas del pan y agrega el queso en las tapas.", "imagen":  "img/desayunos/pasos/arandanos/2paso.png" },
+      { "texto": "Rellena con los arándanos en el centro y dora las caras exteriores del pan hasta derretir el queso.", "imagen":  "img/desayunos/pasos/arandanos/3paso.png" },
+      { "texto": "¡Disfruta!", "imagen": "img/desayunos/pasos/arandanos/sanduce.png" }
+    ],
+    "imagen": "img/desayunos/arandanos y queso.png"
+  },
+ 
+  "waffles-pan-yuca": {
+    "titulo": "Waffles de pan de yuca",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "250 g de yuca",
+      "Media taza de queso mozzarella rallado",
+      "Sal"
+    ],
+    "utensilios": [
+      "Olla",
+      "Bowl (recipiente)",
+      "Tenedor o machacador",
+      "Wafflera",
+      "Cuchillo"
+    ],
+    "pasos": [
+      { "texto": "Coloca a hervir agua con sal al gusto.", "imagen": null},
+      { "texto": "Cuando el agua esté en punto de ebullición, añade la yuca previamente pelada.", "imagen": null },
+      { "texto": "Cuando la yuca esté blanda, retírala del agua y hazla puré.", "imagen": "img/desayunos/pasos/yuca/paso1yuca.png" },
+      { "texto": "Mezcla en un bowl el puré de yuca y el queso rallado con las manos hasta obtener una masa uniforme.", "imagen": null },
+      { "texto": "Añade sal al gusto y amasa nuevamente.", "imagen": "img/desayunos/pasos/paso2yuca.png" },
+      { "texto": "Haz bolitas con la masa y colócalas en la wafflera; si no tienes wafflera, haz arepitas y dóralas en el sartén.", "imagen": "img/desayunos/pasos/yuca/paso3yuca.png" },
+      { "texto": "Si lo deseas, puedes acompañarlas con alguna de nuestras opciones de proteína (Sección proteínas).", "imagen": null },
+      { "texto": "¡Disfruta!", "imagen":"img/desayunos/pasos/yuca/Waffles de yuca (2).png" }
+    ],
+    "imagen": "img/desayunos/wafles de yuca.png"
+  },
+
+  "borde-tomate-relleno": {
+    "titulo": "Borde tomate relleno",
+    "dificultad": "Fácil",
+    "duracion": "15-20 min",
+    "materiales": [
+      "2 tomates grandes",
+      "2 huevos",
+      "40 g de queso rallado (de tu preferencia)",
+      "2 tajadas de jamón en tiras o cubos (de tu preferencia)",
+      "Especias (sal, pimienta, orégano, albahaca o cilantro)"
+    ],
+    "utensilios": [
+      "Bowl (recipiente)",
+      "Vaso con boca circular",
+      "Tenedor",
+      "Cuchara",
+      "Sartén con tapa"
+    ],
+    "pasos": [
+      { "texto": "Corta los tomates en rebanadas redondas de medio dedo o un dedo de grosor.", "imagen": "img/desayunos/pasos/tomate/paso1tomate_relleno.png" },
+      { "texto": "Haz un orificio presionando la boca de un vaso hacia abajo.", "imagen": null },
+      { "texto": "Reserva los bordes y corta en cubos el contenido del centro del tomate.", "imagen": null },
+      { "texto": "En un bowl añade los cubos de tomate, los dos huevos, el jamón, el queso, sal, pimienta y sal de ajo; mezcla hasta que la yema y la clara del huevo se vean homogéneas.", "imagen": "img/desayunos/pasos/tomate/paso2tomate_relleno.png" },
+      { "texto": "Pon los bordes del tomate en un sartén, rellénalos con la mezcla y tapa el sartén.", "imagen": null },
+      { "texto": "Sirve y decora con cilantro o albahaca.", "imagen": null },
+      { "texto": "¡Disfruta!", "imagen": "img/desayunos/pasos/tomate/Borde tomate relleno.png" }
+    ],
+    "imagen": "img/desayunos/tomate relleno.png"
+  },
+
+  "rollitos-verdes": {
+    "titulo": "Rollitos verdes",
+    "dificultad": "Fácil",
+    "duracion": "25 min",
+    "materiales": [
+      "3 huevos",
+      "2 puñados de espinacas frescas",
+      "Cilantro picado",
+      "Rúcula",
+      "Una lata de atún en agua",
+      "Queso crema",
+      "½ aguacate pequeño",
+      "Especias (sal y pimienta negra)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Sartén con tapa",
+      "Bowl (recipiente)",
+      "Cuchillo",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Licúa los huevos junto con las espinacas, sal y pimienta.", "imagen": "img/desayunos/pasos/rollitos/paso1rollitospng.png" },
+      { "texto": "Engrasa un sartén y llévalo a fuego medio; vierte la mezcla y cocina con tapa hasta que el huevo cuaje (no es necesario voltearlo).", "imagen": "img/desayunos/pasos/rollitos/paso2rollitos.png" },
+      { "texto": "En un bowl pon el atún, dos cucharadas soperas de queso crema, ½ aguacate y el cilantro; mezcla todos los ingredientes, menos la rúcula.", "imagen": "img/desayunos/pasos/rollitos/paso3rollitos.png" },
+      { "texto": "Retira la mezcla de espinaca del sartén y pon sobre ella el relleno; luego añade un poco de rúcula, enrolla como si fuera un sushi y corta.", "imagen": null },
+      { "texto": "Disfruta!!", "imagen": "img/desayunos/pasos/rollitos/Rollitos verdes (1).png"  }
+    ],
+    "imagen": "img/desayunos/espinaca royo.png"
+  },
+
+  "pancakes-avena": {
+    "titulo": "Pancakes de avena",
+    "dificultad": "Medio",
+    "duracion": "25 min",
+    "materiales": [
+      "1 taza de avena en hojuelas (o harina de avena)",
+      "1 taza de leche (de vaca o vegetal)",
+      "1 huevo",
+      "1 cda de miel o sirope (opcional)",
+      "1 cdita de esencia de vainilla",
+      "1 pizca de sal",
+      "½ taza de arándanos frescos (para decorar)",
+      "½ taza de fresas en láminas o picadas (para decorar)",
+      "Aceite de coco o mantequilla para engrasar la sartén"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Bowls",
+      "Batidor de mano o tenedor",
+      "Espátula",
+      "Sartén antiadherente",
+      "Cuchillo",
+      "Tabla para picar",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "Licúa la avena en hojuelas hasta obtener harina fina (si ya tienes harina de avena, omite este paso).", "imagen": null },
+      { "texto": "En un bowl mezcla la harina de avena con la pizca de sal.", "imagen": "img/desayunos/pasos/avena/paso1avena.png"  },
+      { "texto": "En otro recipiente bate el huevo con la leche, la miel y la vainilla.", "imagen": "img/desayunos/pasos/avena/paso2avena.png" },
+      { "texto": "Une los ingredientes líquidos con los secos hasta formar una masa homogénea.", "imagen": null },
+      { "texto": "Calienta una sartén antiadherente a fuego medio y engrásala con aceite de coco o mantequilla.", "imagen": null },
+      { "texto": "Vierte una porción de mezcla y cocina hasta que la superficie se vea firme y los bordes comiencen a dorarse.", "imagen": "img/desayunos/pasos/avena/paso3avena.png" },
+      { "texto": "Voltea con cuidado y cocina 1 a 2 minutos más hasta que esté dorado.", "imagen": null },
+      { "texto": "Repite con el resto de la mezcla.", "imagen": null },
+      { "texto": "Sirve los pancakes apilados y decora con fresas, arándanos y un chorrito de miel o yogur natural.", "imagen": "img/desayunos/pasos/avena/Pancakes de avena.png" }
+    ],
+    "imagen": "img/desayunos/avena.png"
+  },
+
+  "cereal-crispy-saludable": {
+    "titulo": "Cereal crispy saludable",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "4 cucharadas de leche (de tu preferencia)",
+      "½ taza de cocoa en polvo (de tu preferencia)",
+      "½ taza de miel",
+      "2 cucharadas de chocolate semi amargo líquido (opcional)",
+      "2 tostadas de arroz"
+    ],
+    "utensilios": [
+      "Bowl (recipiente)",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "En un bowl agrega 2 cucharadas de miel, ½ taza de cacao en polvo, 2 cucharadas de chocolate semi-amargo líquido (opcional) y 4 cucharadas de leche. Mezcla bien hasta obtener una pasta de chocolate.", "imagen": "img/desayunos/pasos/cereal/paso1cereal.png" },
+      { "texto": "Tritura las tostadas de arroz en trozos pequeños y mézclalos con la pasta de chocolate hasta integrar todo (ya tienes el cereal listo).", "imagen": null },
+      { "texto": "En un bowl agrega leche y el cereal de chocolate.", "imagen": "img/desayunos/pasos/cereal/paso2cereal.png" },
+      { "texto": "¡Disfruta!", "imagen": "img/desayunos/pasos/" }
+    ],
+    "imagen": "img/desayunos/kelos.png"
+  },
+
+  "empanada-quinoa": {
+  "titulo": "Empanada de quinoa",
+  "dificultad": "Fácil",
+  "duracion": "25 min",
+  "materiales": [
+    "1 taza de quinoa",
+    "Media cucharadita de cúrcuma",
+    "Aceite de oliva",
+    "Pechuga de pollo",
+    "1 diente de ajo",
+    "Cebolla",
+    "½ de pimentón",
+    "¼ de zanahoria"
+  ],
+  "utensilios": [
+    "Air Fryer",
+    "Horno"
+  ],
+  "pasos": [
+    { "texto": "En un bowl agrega 2 cucharadas de miel, ½ taza de cacao en polvo, 2 cucharadas de chocolate semi-amargo líquido (opcional) y 4 cucharadas de leche. Mezcla bien hasta obtener una pasta de chocolate.", "imagen": "img/salados/pasos/empanada-paso1.png" },
+    { "texto": "Tritura las tostadas de arroz en trozos pequeños y mézclalos con la pasta de chocolate hasta integrar todo.", "imagen": "img/salados/pasos/empanada-paso2.png" },
+    { "texto": "En un bowl agrega leche y el cereal de chocolate.", "imagen": "img/salados/pasos/empanada-paso3.png" },
+    { "texto": "¡Disfruta!", "imagen": null }
+  ],
+  "imagen": "img/salados/empanada-quinoa.png"
+}
+
+}
+

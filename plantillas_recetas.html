@@ -1,0 +1,151 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>ÑAM ÑAM - Receta</title> 
+  <link rel="stylesheet" href="src/plantilla.css">
+</head> 
+<body> 
+  <!-- NAVBAR --> 
+  <header class="navbar"> 
+    <button class="menu-btn" id="menu-btn">&#9776;</button> 
+    <!-- Logo y nombre --> 
+       <div class="volver-contenedor1">
+    <button onclick="window.history.back()" class="btn-volver">⬅ Volver</button>
+  </div>
+    <div class="brand"> 
+      <img src="img/inicio/Logo nuevo (1).png" alt="Logo" class="logo"> 
+      <img src="img/inicio/Captura de pantalla 2025-09-04 113023-Photoroom.png" alt="Nombre Ñam Ñam" class="brand-name">
+    </div> 
+  </header>
+
+  <!-- Menú lateral --> 
+  <div class="overlay" id="overlay"></div> 
+  <nav class="sidebar" id="sidebar">
+    <button class="close-btn" id="close-btn">✖</button> 
+    <div class="sidebar-logo"> 
+      <img src="img/inicio/Logo nuevo (1).png" alt="Logo ÑAM ÑAM"> 
+    </div> 
+    <ul> 
+      <li><a href="index.html"><img src="img/inicio/internet.png" alt="Inicio" class="icon"> Inicio</a></li>
+      <li><a href="plato-fuerte.html"><img src="img/inicio/comida (1).png" alt="Plato Fuerte" class="icon"> Plato fuerte</a></li>
+      <li><a href="plato-liviano.html"><img src="img/inicio/comida.png" alt="Plato liviano" class="icon"> Plato liviano</a></li>
+      <li><a href="desayunos.html"><img src="img/inicio/desayuno.png" alt="Desayunos" class="icon"> Desayunos</a></li>
+      <li><a href="acompañantes.html"><img src="img/inicio/tabasco.png" alt="Acompañantes" class="icon"> Acompañantes</a></li>
+      <li class="submenu"> 
+        <a href="#" class="toggle"><img src="img/inicio/bebida-granizada.png" alt="Bebidas" class="icon"> Bebidas <span class="arrow">▸</span></a> 
+        <ul class="dropdown"> 
+          <li><a href="frias.html"><img src="img/inicio/bebida-fria.png" class="icon"> Frías</a></li> 
+          <li><a href="calientes.html"><img src="img/inicio/te.png" class="icon"> Calientes</a></li> 
+        </ul> 
+      </li> 
+      <li class="submenu"> 
+        <a href="#" class="toggle"><img src="img/inicio/postre.png" alt="Snacks" class="icon"> Snacks <span class="arrow">▸</span></a> 
+        <ul class="dropdown"> 
+          <li><a href="dulces.html"><img src="img/inicio/postres.png" class="icon"> Dulces</a></li> 
+          <li><a href="salado.html"><img src="img/inicio/magdalenas.png" class="icon"> Saladas</a></li> 
+        </ul> 
+      </li> 
+      <li><a href="sorpende.html"><img src="img/inicio/globos.png" alt="Sorpréndeme" class="icon"> Sorprende</a></li> 
+    </ul> 
+  </nav> 
+            
+ 
+  <main class="receta-contenedor">
+    <!-- Imagen y título -->
+    <h1 id="titulo"></h1>
+    
+    <img id="receta-img" class="receta-imagen" src="" alt="Imagen de la receta">
+    
+
+
+    <!-- Info rápida -->
+    <div class="receta-info">
+      <div class="info-item">
+        <img src="img/plantilla/hora.png" alt="Tiempo" class="info-icon">
+        <span id="duracion"></span>
+      </div>
+      <div class="info-item">
+        <img src="img/plantilla/dificultad.png" alt="Dificultad" class="info-icon">
+        <span id="dificultad"></span>
+      </div>
+    </div>
+
+    <!-- Tarjetas en dos columnas -->
+    <div class="receta-grid">
+      <section class="card">
+        <h2>Ingredientes</h2>
+        <ul id="materiales"></ul>
+      </section>
+
+      <section class="card">
+        <h2>Utensilios</h2>
+        <ul id="receta-utensilios"></ul>
+      </section>
+    </div>
+
+    <!-- Tarjeta grande para pasos -->
+    <section class="card card-pasos">
+      <h2>Paso a paso</h2>
+      <ol id="receta-pasos" class="pasos-lista">
+        <!-- Aquí JS inyecta los pasos:
+        <li>
+          <p>1. Texto del paso</p>
+          <img src="img/pasos/paso1.png" alt="Paso 1" class="paso-img">
+        </li>
+        -->
+        
+      </ol>
+    </section>
+        <div class="volver-contenedor">
+  <button onclick="window.history.back()" class="btn-volver">⬅ Volver</button>
+</div>
+  </main>
+
+
+
+
+  <!-- FOOTER --> 
+  <footer class="footer"> 
+    <div class="footer-container"> 
+      <div class="footer-section"> 
+        <h2 class="logo">ÑAM ÑAM</h2> 
+        <p>Un proyecto para que los jóvenes desarrollen habilidades culinarias conscientes, prácticas y económicas.</p> 
+      </div> 
+      <div class="footer-section"> 
+        <h3>Enlaces</h3> 
+        <ul>
+          <li><a href="index.html">Inicio</a></li> 
+          <li><a href="#objetivos">Objetivos</a></li> 
+          <li><a href="#vision">Visión</a></li> 
+          <li><a href="#talleres">Talleres</a></li> 
+        </ul> 
+      </div> 
+      <div class="footer-section"> 
+        <h3>Contacto</h3> 
+        <p>Email: contacto@ñamñam.com</p> 
+        <p>Tel: +57 300 123 4567</p> 
+        <p>Medellín - Colombia</p> 
+      </div> 
+      <div class="footer-section"> 
+        <h3>Síguenos</h3> 
+        <div class="social-icons"> 
+          <a href="#"><i class="fab fa-facebook-f"></i></a> 
+          <a href="#"><i class="fab fa-instagram"></i></a> 
+          <a href="#"><i class="fab fa-twitter"></i></a> 
+        </div> 
+      </div> 
+    </div> 
+    <div class="footer-bottom"> 
+      <p>&copy; 2025 ÑAM ÑAM - Todos los derechos reservados</p> 
+    </div> 
+  </footer> 
+
+  <!-- Scripts --> 
+  <script src="src/components/menu.js"></script> 
+  <script src="src/components/menu-lateral.js"></script> 
+  <script src="src/plantillas.js"></script> 
+  <script src="src/components/main.js"></script>
+</body> 
+</html>

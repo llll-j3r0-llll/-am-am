@@ -1,10 +1,11 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
   <html lang="es">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ÑAM ÑAM - Inicio</title>
-    <link rel="stylesheet" href="plato-liviano/plato-liviano.css">
+    <link rel="stylesheet" href="src/menu.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   </head>
   <body>
 
@@ -15,14 +16,10 @@
       <!-- Logo y nombre -->
       <div class="brand">
         <img src="img/inicio/Logo nuevo (1).png" alt="Logo" class="logo">
-        <img src="nombre.png" alt="Nombre Ñam Ñam" class="brand-name">
+        <img src="img/inicio/Captura de pantalla 2025-09-04 113023-Photoroom.png" alt="Nombre Ñam Ñam" class="brand-name">
       </div>
 
-      <!-- Barra buscadora -->
-      <div class="search-box">
-        <input type="text" placeholder="Buscar recetas...">
-        <button>🔍</button>
-      </div>
+
     </header>
 
     <!-- Menú lateral -->
@@ -40,130 +37,204 @@
 
   <ul>
     <!-- Inicio -->
-      <li>
+    <li>
       <a href="index.html">
-        <img src="assets/icons/home.png" alt="Inicio" class="icon" /> Inicio
+        <img src="img/inicio/internet.png" alt="Inicio" class="icon" /> Inicio
       </a>
     </li>
 
     <!-- Plato fuerte -->
     <li>
       <a href="plato-fuerte.html">
-        <img src="assets/icons/plato.png" alt="Plato Fuerte" class="icon" /> Plato fuerte
+        <img src="img/inicio/comida (1).png" alt="Plato Fuerte" class="icon" /> Plato fuerte
       </a>
     </li>
 
     <!-- Proteínas -->
     <li>
-      <a href="plato-liviano.html">
-        <img src="assets/icons/proteina.png" alt="plato liviano" class="icon" /> Plato liviano
+      <a href="plato-liviano.html" class="toggle">
+        <img src="img/inicio/comida.png" alt="Proteínas" class="icon" /> Plato liviano
+      </a>
+    </li>
+
+          <li>
+      <a href="desayunos.html" class="toggle">
+        <img src="img/inicio/desayuno.png" alt="Proteínas" class="icon" /> Desayunos
       </a>
     </li>
 
     <!-- Acompañantes -->
     <li>
       <a href="acompañantes.html">
-        <img src="assets/icons/acompanantes.png" alt="Acompañantes" class="icon" /> Acompañantes
+        <img src="img/inicio/tabasco.png" alt="Acompañantes" class="icon" /> Acompañantes
       </a>
     </li>
 
     <!-- Bebidas -->
     <li class="submenu">
       <a href="#" class="toggle">
-        <img src="assets/icons/bebidas.png" alt="Bebidas" class="icon" /> Bebidas
+        <img src="img/inicio/bebida-granizada.png" alt="Bebidas" class="icon" /> Bebidas
         <span class="arrow">▸</span>
       </a>
       <ul class="dropdown">
-        <li><a href="Frias.html"><img src="assets/icons/frias.png" class="icon" /> Frías</a></li>
-        <li><a href="calientes.html"><img src="assets/icons/calientes.png" class="icon" /> Calientes</a></li>
+        <li><a href="frias.html"><img src="img/inicio/bebida-fria.png" class="icon" /> Frías</a></li>
+        <li><a href="calientes.html"><img src="img/inicio/te.png" class="icon" /> Calientes</a></li>
       </ul>
     </li>
 
     <!-- snacks -->
-        <li>
-      <a href="Snacks.html">
-        <img src="assets/icons/postres.png" alt="Snacks" class="icon" />  Snacks
+    <li class="submenu">
+      <a href="#" class="toggle">
+        <img src="img/inicio/postre.png" alt="Snacks" class="icon" /> Snacks
+        <span class="arrow">▸</span>
       </a>
-    </li>
-
-    <!-- Postres -->
-    <li>
-      <a href="postres.html">
-        <img src="assets/icons/postres.png" alt="Postres" class="icon" /> Postres
-      </a>
+      <ul class="dropdown">
+        <li><a href="dulces.html"><img src="img/inicio/postres.png" class="icon" /> Dulces</a></li>
+        <li><a href="salado.html"><img src="img/inicio/magdalenas.png" class="icon" /> Saladas</a></li>
+      </ul>
     </li>
 
     <!-- Sorpréndeme -->
     <li>
       <a href="sorpende.html">
-        <img src="assets/icons/sorprende.png" alt="Sorpréndeme" class="icon" /> Sorprende
+        <img src="img/inicio/globos.png" alt="Sorpréndeme" class="icon" /> Sorprende
       </a>
     </li>
 
-    <!-- Información -->
-    <li>
-      <a href="informacion.html">
-        <img src="assets/icons/info.png" alt="Información" class="icon" /> Información
-      </a>
-    </li>
+
   </ul>
 </nav>
 
+
+
     <!-- Bienvenida -->
     <section class="bienvenida">
-      <h1>Bienvenido a Ñam Ñam</h1>
-      <p>Explora nuestras recetas deliciosas y fáciles de preparar.</p>
-    </section>
-
-    <!-- Carrusel -->
-    <section class="carrusel">
-      <div class="slides" id="slides">
-        <div class="slide active"><img src="img/WhatsApp Image 2025-08-22 at 10.58.38 PM (1).jpeg" alt="Receta 1"></div>
-        <div class="slide"><img src="img/WhatsApp Image 2025-08-22 at 10.58.38 PM.jpeg" alt="Receta 2"></div>
-        <div class="slide"><img src="img/WhatsApp Image 2025-08-22 at 10.58.39 PM.jpeg" alt="Receta 3"></div>
+      <div class="contenedor-bienvenida">
+      <h1>🥞Bienvenido a la sección de plato liviano🍽️</h1>
+      <p>🥗 Recetas ligeras y fáciles de preparar, perfectas para terminar el día con algo rico y sin pesadez 🌙✨. Opciones rápidas y nutritivas para disfrutar de una cena sencilla y deliciosa 🍽️.</p>
       </div>
-      <button class="prev" id="prev">‹</button>
-      <button class="next" id="next">›</button>
     </section>
 
+    <div class="info-card" role="note" aria-label="Descripción sección platos livianos">
+  En <strong>Platos Livianos</strong> descubre opciones saludables 🥗 y deliciosas para cualquier momento del día, perfectas para cenas ligeras o comidas balanceadas. Conoce una variedad de ensaladas frescas 🥕, platos a base de vegetales 🥦, opciones con proteínas magras y ¡mucho más! Cada receta viene con su tiempo de preparación ⏰ y nivel de complejidad para que se ajuste a tu ritmo. Explora tips de nutrición, variantes creativas y consejos prácticos para comer rico y sentirte bien. ✨
+</div>
 
-    <footer class="footer">
+<!-- Carrusel -->
+<section class="carrusel">
+  <div class="slides" id="slides">
+    <div class="slide active">
+      <img src="img/liviano/Gemini_Generated_Image_t1dj3st1dj3st1dj.png" alt="Receta 1">
+    </div>
+</section>
+
+ <!-- Tarjetas de recetas -->
+    <section class="recetas-destacadas">
+    <h1>Recetas Destacadas</h1>
+    <div class="recetas-grid">
+
+      <div class="receta-card">
+        <img src="img/liviano/tortilla con aguacate.png" alt="Limonada Fresca">
+        <h3>Ensalada de aguacate para sanduches o tortillas</h3>
+        <p>Duración: 10 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=ensalada-aguacate">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/liviano/pizza peperoni.png" alt="Ensalada Mixta">
+        <h3>Pizza de peperonni con base de pollo</h3>
+        <p>Duración: 1 hora</p>
+        <p>Dificultad: Media</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=pizza-peperonni-pollo">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/liviano/tortilla con atun.png" alt="Pizza Casera">
+        <h3>tortitas de arroz con atún</h3>
+        <p>Duración: 20 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=tortitas-arroz-atun">Ver Receta</a>
+      </div>
+
+      <!-- Más recetas -->
+      <div class="receta-card">
+        <img src="img/liviano/sopa de champiñones.png" alt="Limonada Fresca">
+        <h3>Sopa con champiñones y pollo.</h3>
+        <p>Duración: 35 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=sopa-champinones-pollo">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/liviano/pasta de verduras.png" alt="Ensalada Mixta">
+        <h3>Pasta con verduras</h3>
+        <p>Duración: 35 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=pasta-con-verduras">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/liviano/dumpling.png" alt="Pizza Casera">
+        <h3>Gyoza o dumpling en air fryer</h3>
+        <p>Duración: 45 min</p>
+        <p>Dificultad: Media</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=gyoza-airfryer">Ver Receta</a>
+      </div>
+
+       <div class="receta-card">
+        <img src="img/liviano/Empanada de pollo.png" alt="Ensalada Mixta">
+        <h3>empanada de pollo relleno</h3>
+        <p>Duración: 25 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=empanada-de-pollo-relleno">Ver Receta</a>
+      </div>
+
+      <div class="receta-card">
+        <img src="img/liviano/palitos de queso.png" alt="Pizza Casera">
+        <h3>Palitos de pan con ajo y queso</h3>
+        <p>Duración: 40 min</p>
+        <p>Dificultad: Fácil</p>
+        <a href="plantillas_recetas.html?seccion=plato_liviano&id=palitos-de-pan-con-ajo-y-queso">Ver Receta</a>
+      </div>
+
+
+
+    </div>
+  </section>
+
+
+  
+  <footer class="footer">
     <div class="footer-container">
       <!-- Sección 1: Logo y descripción -->
       <div class="footer-section">
         <h2 class="logo">ÑAM ÑAM</h2>
-        <p>Un proyecto para que los jóvenes desarrollen habilidades culinarias conscientes, prácticas y económicas.</p>
+        <p>📚 Un proyecto pensado para que los jóvenes fortalezcan sus estudios a través de la cocina, desarrollando habilidades culinarias conscientes y prácticas. 🔬 Aquí podrán aplicar lo aprendido en clase, experimentar con nuevas técnicas y comprender la importancia de la alimentación saludable. 🍳 Además, tendrán espacios para explorar la creatividad en la preparación de recetas y compartir experiencias con sus compañeros. 🌱</p>
       </div>
 
       <!-- Sección 2: Navegación rápida -->
-      <div class="footer-section">
-        <h3>Enlaces</h3>
-        <ul>
-          <li><a href="#inicio">Inicio</a></li>
-          <li><a href="#objetivos">Objetivos</a></li>
-          <li><a href="#vision">Visión</a></li>
-          <li><a href="#talleres">Talleres</a></li>
-        </ul>
-      </div>
 
       <!-- Sección 3: Contacto -->
       <div class="footer-section">
         <h3>Contacto</h3>
-        <p>Email: contacto@ñamñam.com</p>
-        <p>Tel: +57 300 123 4567</p>
+        <p>Email: Exploracion2025.00@gmail.Com</p>
+        <p>Tel: +57 312 247 2015</p>
         <p>Medellín - Colombia</p>
       </div>
 
-      <!-- Sección 4: Redes sociales -->
-      <div class="footer-section">
+   <div class="footer-section">
         <h3>Síguenos</h3>
         <div class="social-icons">
-          <a href="#"><i class="fab fa-facebook-f"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="URL_DE_TU_PERFIL_DE_TIKTOK"><i class="fab fa-tiktok"></i></a>
+            <a href="https://www.instagram.com/nam_nam11_?igsh=MWw0OWdwam84dTM5Zw=="><i class="fab fa-instagram"></i></a>
         </div>
       </div>
-    </div>
+  </div>
+        </div>
+      </div>
+
+       
+    
 
     <div class="footer-bottom">
       <p>&copy; 2025 ÑAM ÑAM - Todos los derechos reservados</p>
@@ -171,7 +242,15 @@
   </footer>
 
 
-    <script src="src/components/carrusel.js"></script>
+    <script src="src/components/carrousel.js"></script>
     <script src="src/components/menu.js"></script>
+    <script src="src/components/menu-lateral.js"></script>
+    <script src="src/cenas.js"></script>
+    <script src="src/main_cenas.js"></script>
   </body>   
   </html>
+
+
+
+
+    
