@@ -1,0 +1,411 @@
+{
+  "snack-yogurt-fresa-chocolate": {
+    "titulo": "Snack de Yogurt Griego, Fresa y Chocolate",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1/2 vaso de yogurt griego",
+      "Miel al gusto",
+      "Esencia de vainilla al gusto",
+      "3 fresas",
+      "1/2 taza de chocolate semi-amargo"
+    ],
+    "utensilios": [
+      "Cuchara",
+      "Cuchillo",
+      "Cubeta para hacer hielos",
+      "Congelador"
+    ],
+    "pasos": [
+      {
+        "texto": "Lava muy bien las fresas y la cubeta de hielo.",
+        "imagen": null
+      },
+      {
+        "texto": "Pon yogurt griego en los huecos de la cubeta de hielo.",
+        "imagen": null
+      },
+      {
+        "texto": "Pica las fresas en pedazos pequeños y añádelas encima del yogurt griego.",
+        "imagen": null
+      },
+      {
+        "texto": "Coloca una capa de chocolate semi-amargo derretido por encima de las fresas.",
+        "imagen": null
+      },
+      {
+        "texto": "Congela por 30 minutos y disfruta de un snack frío, dulce y saludable.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/cubos de yogurt griego y fresa.png"
+  },
+  
+  "postre-limon-fresa": {
+    "titulo": "Postre de Limón y Fresa",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 bolsa pequeña de crema de leche",
+      "3 limones",
+      "Galletas sin azúcar",
+      "Fresas",
+      "Miel"
+    ],
+    "utensilios": [
+      "Batidor manual o eléctrico",
+      "Bowl o recipiente",
+      "Cuchara",
+      "Cuchillo",
+      "Exprimidor",
+      "Rallador",
+      "Vaso para servir"
+    ],
+    "pasos": [
+      {
+        "texto": "Bate la crema de leche hasta lograr punto de nieve (textura espumosa y firme) usando un batidor manual o eléctrico.",
+        "imagen": null
+      },
+      {
+        "texto": "Incorpora la miel con cuidado, usando una cuchara y mezclando de forma envolvente.",
+        "imagen": null
+      },
+      {
+        "texto": "Exprime el jugo de 3 limones y ralla la cáscara de uno de ellos.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega el zumo de limón y la ralladura a la mezcla de crema. Mezcla suavemente hasta obtener una crema homogénea y reserva.",
+        "imagen": null
+      },
+      {
+        "texto": "Tritura las galletas y corta las fresas en cubos pequeños. Reserva ambos ingredientes.",
+        "imagen": null
+      },
+      {
+        "texto": "En un vaso, sirve capas alternadas de galleta triturada, fresas y la mezcla de limón hasta completar.",
+        "imagen": null
+      },
+      {
+        "texto": "Refrigera unos minutos si deseas una textura más firme y disfruta.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/postre de fresa y limón. png"
+  },
+
+  "mousse-limon": {
+    "titulo": "Mousse de Limón",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "100g de leche en polvo (descremada de preferencia)",
+      "50ml de leche o agua",
+      "50ml de jugo de limón",
+      "6 sobres de endulzante en polvo o 6 cucharadas de miel",
+      "Media cucharada de vainilla",
+      "Ralladura de limón"
+    ],
+    "utensilios": [
+      "Licuadora o procesadora",
+      "Recipiente"
+    ],
+    "pasos": [
+      {
+        "texto": "Ralla el limón del que extraerás el jugo y reserva la ralladura.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega en tu licuadora la leche en polvo, la leche, el jugo de limón y el endulzante.",
+        "imagen": null
+      },
+      {
+        "texto": "Licúa hasta obtener una mezcla homogénea.",
+        "imagen": null
+      },
+      {
+        "texto": "Deposita la mezcla en un recipiente apto para la nevera.",
+        "imagen": null
+      },
+      {
+        "texto": "Decora la parte superior con la ralladura.",
+        "imagen": null
+      },
+      {
+        "texto": "Déjalo cuajar durante al menos una hora.",
+        "imagen": null
+      },
+      {
+        "texto": "¡Disfruta!",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/mousse de limón(1).png"
+  },
+
+  "mousse-maracuya": {
+    "titulo": "Mousse de Maracuyá",
+    "dificultad": "Fácil",
+    "duracion": "3h 15min",
+    "materiales": [
+      "1 maracuyá",
+      "1 sobre de gelatina sin sabor",
+      "½ taza de agua",
+      "1 taza de yogurt griego",
+      "Endulzante o miel"
+    ],
+    "utensilios": [
+      "Bowl o recipiente grande",
+      "2 vasos",
+      "Licuadora",
+      "Cuchillo",
+      "Microondas",
+      "Cuchara"
+    ],
+    "pasos": [
+      {
+        "texto": "Parte la maracuyá a la mitad, saca la pulpa y resérvala en un vaso.",
+        "imagen": null
+      },
+      {
+        "texto": "En un vaso con ½ taza de agua a temperatura ambiente, añade el sobre de gelatina sin sabor y revuelve bien. Luego, caliéntala 30 segundos en el microondas o al baño maría hasta que esté totalmente líquida.",
+        "imagen": null
+      },
+      {
+        "texto": "En una licuadora, añade la pulpa de maracuyá, el yogur griego, la miel y la gelatina disuelta. Licúa durante 2 minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "Vierte la mezcla en un bowl y llévala a la nevera hasta que cuaje, como mínimo, 3 horas.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve y ¡disfruta!",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/mousse de maracuya.png"
+  },
+
+  "pudin-mango-oriental": {
+    "titulo": "Pudín de Mango Oriental",
+    "dificultad": "Fácil",
+    "duracion": "4h 20min",
+    "materiales": [
+      "600g de mango picado",
+      "Miel o endulzante de preferencia",
+      "50ml de agua",
+      "1 sobre de gelatina sin sabor",
+      "250g de crema de leche",
+      "Ralladura de limón"
+    ],
+    "utensilios": [
+      "Recipientes para el pudín",
+      "Bowl",
+      "Licuadora",
+      "Sartén"
+    ],
+    "pasos": [
+      {
+        "texto": "Hidrata la gelatina con agua a temperatura ambiente y deja reposar durante 5 minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "Licúa el mango con la miel hasta obtener un jugo espeso y vierte en un bowl.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega la crema de leche al bowl y mezcla suavemente hasta integrar.",
+        "imagen": null
+      },
+      {
+        "texto": "Lleva la gelatina hidratada a fuego bajo en una sartén hasta que se vuelva líquida y homogénea.",
+        "imagen": null
+      },
+      {
+        "texto": "Mezcla una porción de la preparación de mango y crema con la gelatina líquida, luego incorpora al resto y mezcla bien.",
+        "imagen": null
+      },
+      {
+        "texto": "Reparte la mezcla en recipientes individuales y decora con cubitos de mango (opcional).",
+        "imagen": null
+      },
+      {
+        "texto": "Refrigera durante al menos 4 horas o hasta que tome consistencia. ¡Disfruta!",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/pudín de mango.png"
+  },
+
+  "muffins-banano-chocolate": {
+    "titulo": "Muffins de Banano y Chocolate",
+    "dificultad": "Fácil",
+    "duracion": "40min",
+    "materiales": [
+      "2 bananos grandes",
+      "1 zanahoria grande",
+      "2 huevos",
+      "1 cucharadita de polvo de hornear",
+      "100g de harina de avena o trigo",
+      "Chips de chocolate al gusto"
+    ],
+    "utensilios": [
+      "Bowl o recipiente",
+      "Moldes para muffins o recipiente resistente al calor",
+      "Tenedor",
+      "Pelador",
+      "Freidora de aire"
+    ],
+    "pasos": [
+      {
+        "texto": "Con ayuda de un pelador, retira la parte superficial de la zanahoria y córtala en rodajas.",
+        "imagen": null
+      },
+      {
+        "texto": "En una olla pequeña con agua a fuego medio, cocina las rodajas de zanahoria de 5 a 10 minutos hasta que estén blandas.",
+        "imagen": null
+      },
+      {
+        "texto": "En un bowl, añade los bananos pelados y las rodajas de zanahoria cocidas. Machaca con un tenedor hasta obtener una mezcla uniforme.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega los huevos, el polvo de hornear, la harina y los chips de chocolate. Mezcla muy bien hasta integrar todos los ingredientes.",
+        "imagen": null
+      },
+      {
+        "texto": "Vierte la mezcla en moldes para muffins o en un recipiente resistente al calor.",
+        "imagen": null
+      },
+      {
+        "texto": "Cocina en la freidora de aire durante 12–13 minutos a 160 °C hasta que estén dorados.",
+        "imagen": null
+      },
+      {
+        "texto": "Deja enfriar unos minutos, desmolda y ¡disfruta!",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/muffins.png"
+  },
+
+  "galletas-avena-chocolate": {
+    "titulo": "Galletas de Avena y Chips de Chocolate",
+    "dificultad": "Fácil",
+    "duracion": "35min",
+    "materiales": [
+      "1 taza de avena en hojuelas",
+      "½ taza de harina de avena o trigo integral",
+      "½ taza de panela rallada o azúcar morena",
+      "1 huevo",
+      "¼ taza de aceite de coco o mantequilla derretida",
+      "½ cucharadita de esencia de vainilla",
+      "½ cucharadita de polvo de hornear",
+      "½ taza de chips de chocolate oscuro",
+      "1 pizca de sal"
+    ],
+    "utensilios": [
+      "Bowl grande",
+      "Bowl pequeño",
+      "Batidor de mano o espátula",
+      "Bandeja para horno",
+      "Papel para hornear",
+      "Cuchara para porcionar"
+    ],
+    "pasos": [
+      {
+        "texto": "Precalienta el horno a 180 °C y prepara la bandeja con papel para hornear.",
+        "imagen": null
+      },
+      {
+        "texto": "En un bowl grande, mezcla la avena, la harina, el polvo de hornear y la sal.",
+        "imagen": null
+      },
+      {
+        "texto": "En otro bowl, bate el huevo con la panela, el aceite de coco y la vainilla hasta integrar.",
+        "imagen": null
+      },
+      {
+        "texto": "Une las dos mezclas hasta obtener una masa espesa y homogénea.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega los chips de chocolate y mezcla suavemente con una espátula.",
+        "imagen": null
+      },
+      {
+        "texto": "Forma bolitas con ayuda de una cuchara y colócalas en la bandeja, dejando espacio entre cada una.",
+        "imagen": null
+      },
+      {
+        "texto": "Aplasta ligeramente las bolitas con la parte trasera de la cuchara.",
+        "imagen": null
+      },
+      {
+        "texto": "Hornea de 12 a 15 minutos, hasta que los bordes estén dorados.",
+        "imagen": null
+      },
+      {
+        "texto": "Deja enfriar sobre una rejilla antes de servir y disfruta.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/galletas de avena .png"
+  },
+
+  "tanoshi-cupbar": {
+    "titulo": "Tanoshi Cupbar",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "30g de chocolate al 80%",
+      "30g de mantequilla de maní",
+      "3 tostadas de arroz",
+      "10g de maní"
+    ],
+    "utensilios": [
+      "Bowl o recipiente",
+      "Cuchara",
+      "Molde para cupcakes o similar",
+      "Gramera (opcional)",
+      "Microondas",
+      "Refrigerador"
+    ],
+    "pasos": [
+      {
+        "texto": "En un bowl, coloca el chocolate y derrítelo en el microondas por intervalos de 30 segundos hasta que esté completamente líquido.",
+        "imagen": null
+      },
+      {
+        "texto": "En otro bowl, tritura las tostadas de arroz y añade la mantequilla de maní. Mezcla bien hasta integrar y forma pequeñas bolitas.",
+        "imagen": null
+      },
+      {
+        "texto": "Coloca las bolitas en un molde para cupcakes o cualquier otro recipiente similar.",
+        "imagen": null
+      },
+      {
+        "texto": "Cubre las bolitas con el chocolate derretido y agrega maní por encima para decorar.",
+        "imagen": null
+      },
+      {
+        "texto": "Lleva el molde al congelador durante 15 minutos para que endurezcan.",
+        "imagen": null
+      },
+      {
+        "texto": "Retira, deja reposar unos minutos y disfruta de tus tanoshi cupbars.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/dulces/Tanoshi cupbar.PNG"
+  }
+}
+
+
+
+
+
+
+
+

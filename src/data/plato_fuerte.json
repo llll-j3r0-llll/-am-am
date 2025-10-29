@@ -68,7 +68,7 @@
       { "texto": "Corta la pechuga dorada en pedazos.", "imagen": "img/salados/pasos/bechamel-paso8.png" },
       { "texto": "Retira los tomates del horno y condiméntalos con salsa de soya, sal y azúcar.", "imagen": "img/salados/pasos/bechamel-paso9.png" },
       { "texto": "Agrega los tomates a la salsa Bechamel.", "imagen": "img/salados/pasos/bechamel-paso10.png" },
-      { "texto": "¡Disfruta!", "imagen": null }
+      { "texto": "¡Disfruta!", "imagen": "img/fuerte/pasos/p_bechasmel/Pastas bechamel, pollo y tomates.png"  }
     ],
     "imagen": "img/inicio/Bechamel.jpg"
   },
@@ -135,7 +135,7 @@
     { "texto": "Cocina entre 5 a 7 minutos por lado y lado.", "imagen": "img/salados/pasos/okonomiyaki-paso5.png" },
     { "texto": "Una vez cocido, retira el okonomiyaki de la sartén y colócalo en tu plato, decora con la salsa okonomiyaki (receta en sección de acompañantes).", "imagen": "img/salados/pasos/okonomiyaki-paso6.png" },
     { "texto": "Puedes acentuar con un poco de cebollín y mayonesa.", "imagen": "img/salados/pasos/okonomiyaki-paso7.png" },
-    { "texto": "¡Disfruta!", "imagen": null }
+    { "texto": "¡Disfruta!", "imagen": "img/fuerte/pasos/oko/Okonomiyaki.png" }
   ],
   "imagen": "img/fuerte/Okomiyaki.png"
 },
@@ -171,7 +171,7 @@
       { "texto": "Sobre papel film coloca puré de plátano, queso, carne y tomate.", "imagen": "img/salados/pasos/lasana-paso8.png" },
       { "texto": "Haz un rollito y congélalo 10 min.", "imagen": "img/salados/pasos/lasana-paso9.png" },
       { "texto": "Retira el film y sella el rollito en sartén.", "imagen": "img/salados/pasos/lasana-paso10.png" },
-      { "texto": "¡Disfruta! (Puedes cortarlo en lonjas estilo sushi).", "imagen": null }
+      { "texto": "¡Disfruta! (Puedes cortarlo en lonjas estilo sushi).", "imagen": "img/fuerte/pasos/lasagna_ma/maduro lasagna.png" }
     ],
     "imagen": "img/fuerte/lasaña de madurito.png"
   },
@@ -309,36 +309,1448 @@
       { "texto": "Saltea camarones en sartén con aceite 3-4 min y reserva.", "imagen": null },
       { "texto": "Saltea ajo, zanahoria, pimiento y brócoli.", "imagen": "img/fuerte/pasos/camarones/3 (3).png" },
       { "texto": "Añade arroz cocido, camarones y salsa de soya. Mezcla bien.", "imagen": null },
-      { "texto": "Sirve caliente y decora con sésamo.", "imagen": "img/fuerte/pasos/camarones/" }
+      { "texto": "Sirve caliente y decora con sésamo.", "imagen": "img/fuerte/pasos/camarones/Arroz integral con camarones.png" }
     ],
     "imagen": "img/fuerte/Arroz con camarones.png"
   },
 
-  "ñoquis-con": {
-  "titulo": "Ñoquis con",
-  "dificultad": "Fácil",
-  "duracion": "1h (incluye tiempo de cocción)",
-  "materiales": [
-    "250g de papa cocida sin cáscara",
-    "50g de maicena",
-    "Medio huevo batido"
-  ],
-  "utensilios": [
-    "Sartén con tapa",
-    "1 bowl",
-    "Cuchillo",
-    "Cuchara sopera",
-    "Cuchara de madera o de goma para revolver"
-  ],
-  "pasos": [
-    { "texto": "Mezcla el puré con la maicena y mezcla hasta activar el almidón de la papa. (Hasta agarrar una textura un poco chicloso).", "imagen": "img/salados/pasos/ñoquis-paso1.png" },
-    { "texto": "Mete las papas en la airfryer a 180 °C por 30 minutos.", "imagen": "img/salados/pasos/ñoquis-paso2.png" },
-    { "texto": "En un sartén pon la carne molida, añade sal y condimentos; cocina a fuego medio. Cuando esté lista, agrégale dos cucharadas de salsa teriyaki.", "imagen": "img/salados/pasos/ñoquis-paso3.png" },
-    { "texto": "Pica el tomate y lava la lechuga.", "imagen": "img/salados/pasos/ñoquis-paso4.png" },
-    { "texto": "Por último, en un bowl añade los ingredientes y espolvorea queso rallado por encima.", "imagen": "img/salados/pasos/ñoquis-paso5.png" },
-    { "texto": "¡Disfruta!", "imagen": null }
-  ],
-  "imagen": "img/fuerte/ñoquis.png"
+
+  "ñoquis": {
+    "titulo": "Ñoquis",
+    "dificultad": "Fácil",
+    "duracion": "1h (incluye tiempo de cocción)",
+    "materiales": [
+      "250 g de papa",
+      "50 g de maicena",
+      "Medio huevo batido",
+      "Pimienta"
+    ],
+    "utensilios": [
+      "1 bowl (recipiente)",
+      "Cuchillo",
+      "Olla"
+    ],
+    "pasos": [
+      { "texto": "En una olla coloca las papas y ponlas a hervir, retíralas cuando puedas introducir un tenedor con facilidad.", "imagen": null },
+      { "texto": "Machaca la papa hasta hacerla puré e intégrala con un batidor hasta que comience a tomar consistencia de masa.", "imagen": null },
+      { "texto": "Agrega un poco de pimienta e integra el puré con la maicena y mezcla hasta activar el almidón de la papa.", "imagen": null },
+      { "texto": "Agrega el huevo y mezcla hasta obtener una masa homogénea.", "imagen": null },
+      { "texto": "Divide la masa en bolitas y amásalas hasta obtener tiras del grosor de tu dedo pulgar.", "imagen": null },
+      { "texto": "Con un cuchillo corta las tiras en pequeños rectángulos del tamaño de una falange.", "imagen": null },
+      { "texto": "De nuevo coloca agua a hervir y cuando esté a punto de ebullición agrégale sal y pon los ñoquis por tandas. Estarán listos cuando floten.", "imagen": null },
+      { "texto": "Retira del agua y escúrrelos bien.", "imagen": null },
+      { "texto": "Acompáñalos con alguna salsa de tu elección (recomendación: carbonara).", "imagen": null },
+      { "texto": "Lleva los ñoquis a una sartén con un poco de mantequilla o grasa de tu preferencia para dorarlos ligeramente.", "imagen": null },
+      { "texto": "Sirve y disfruta.", "imagen": "img/fuerte/pasos/ñoquis/ñoquis (2).png" }
+    ],
+    "imagen": "img/fuerte/ñoquis (1).png"
+  },
+
+  "wok-camarones": {
+    "titulo": "Wok de Camarones con Brócoli y Salsa de Soya",
+    "dificultad": "Medio",
+    "duracion": "35 min",
+    "materiales": [
+      "250 g de camarones limpios y pelados",
+      "1 taza de brócoli en floretes",
+      "1 zanahoria mediana",
+      "1 pimentón amarillo",
+      "2 dientes de ajo",
+      "2 cucharadas de aceite de oliva o de sésamo",
+      "3 cucharadas de salsa de soya baja en sodio",
+      "1 cucharadita de jengibre rallado",
+      "Sal y pimienta al gusto",
+      "Opcional: semillas de sésamo o cebollín picado para decorar"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para picar",
+      "Sartén grande",
+      "Espátula de madera",
+      "Bowl pequeño"
+    ],
+    "pasos": [
+      { "texto": "Lavar y cortar las verduras en tiras o trozos pequeños.", "imagen": null },
+      { "texto": "Calentar 1 cucharada de aceite en el wok, añadir los camarones, salpimentar y saltear 3 minutos hasta que estén rosados. Retirar y reservar.", "imagen": "img/fuerte/pasos/wok_cam/157 sin título_20251015121448.png" },
+      { "texto": "Añadir otra cucharada de aceite al wok y saltear el ajo y el jengibre durante 1 minuto.", "imagen":  "img/fuerte/pasos/wok_cam/158 sin título_20251015121455.png" },
+      { "texto": "Incorporar la zanahoria, el pimentón y el brócoli, saltear 5 minutos a fuego alto.", "imagen": null },
+      { "texto": "Agregar los camarones de nuevo y verter la salsa de soya, mezclar bien durante 2 minutos más.", "imagen": "img/fuerte/pasos/wok_cam/159 sin título_20251015121502.png" }, 
+      { "texto": "Servir caliente y decorar con semillas de sésamo o cebollín fresco.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/wok de camarones (1) (1).png"
+  },
+
+  
+  "bowl-griego": {
+    "titulo": "Bowl Griego de Queso Alto en Proteína",
+    "dificultad": "Medio",
+    "duracion": "50 min",
+    "materiales": [
+      "1 taza de arroz (rinde 3 tazas cocidas)",
+      "1 cda de aceite de oliva",
+      "2 limones",
+      "2 pan pita cortados en cuartos",
+      "1 pepino",
+      "1 taza de tomates cherry en mitades",
+      "1/4 de cebolla morada en rodajas finas",
+      "1 taza de queso campesino (o fresco sin sal) en láminas",
+      "1/2 cda de orégano seco",
+      "Sal y pimienta al gusto",
+      "1 taza de yogur griego natural",
+      "2 dientes de ajo picados"
+    ],
+    "utensilios": [
+      "Olla mediana con tapa",
+      "Colador",
+      "Sartén antiadherente o parrilla",
+      "Tazón grande",
+      "Tazón pequeño",
+      "Tabla de cortar",
+      "Cuchillo de cocina",
+      "Rallador fino",
+      "Cucharón y tenedor de madera o espátula",
+      "Recipientes o bowls individuales"
+    ],
+    "pasos": [
+      { "texto": "Cocinar el arroz: Enjuagar y cocinar según las instrucciones del paquete. Separar con un tenedor y reservar.", "imagen": null },
+      { "texto": "Preparar la ensalada: En un tazón mezclar pepino, tomates, cebolla y jugo de limón. Aliñar con aceite de oliva, vinagre, orégano, sal y pimienta. Mezclar bien.", "imagen": null },
+      { "texto": "Hacer el tzatziki: Combinar yogur, pepino rallado, ajo, jugo de limón y sal. Refrigerar.", "imagen": null },
+      { "texto": "Cocinar el queso campesino: En una sartén a fuego medio-alto con aceite de oliva, dorar el queso 1-2 minutos por lado hasta que esté dorado y crujiente.", "imagen": null },
+      { "texto": "Armar el bowl: Colocar el arroz como base, añadir queso campesino, ensalada griega, tzatziki, pan pita y un gajo de limón.", "imagen": null },
+      { "texto": "Servir: Decorar con más orégano si deseas.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Bowl griego de queso alto en proteína.png"
+  },
+
+  "pollo-miel-ajo": {
+    "titulo": "Muslos de Pollo con Miel y Ajo con Maíz Asado y Ensalada Griega",
+    "dificultad": "Medio",
+    "duracion": "1h 20min",
+    "materiales": [
+      "Media libra de muslos de pollo",
+      "3 cucharadas de aceite de oliva",
+      "2 cucharadas de miel",
+      "2 cucharadas de salsa de soya",
+      "2 dientes de ajo picados",
+      "1/2 cucharada de vinagre de manzana",
+      "1/2 cucharadita de pimienta negra",
+      "2 mazorcas de maíz, cortadas a la mitad o en tercios",
+      "1 taza de pepino cortado en rodajas finas",
+      "1 taza de tomates cherry cortados a la mitad",
+      "1/2 taza de queso (de tu preferencia) en cubos",
+      "1 cucharada de jugo de limón",
+      "1/2 cucharadita de orégano seco"
+    ],
+    "utensilios": [
+      "Tazón",
+      "Cuchillo",
+      "Tabla de cortar",
+      "Cuchara",
+      "Horno",
+      "Parrilla o sartén",
+      "Espátula o pinzas",
+      "Bowl para ensalada",
+      "Exprimidor de limón",
+      "Platos amplios o bowls para servir"
+    ],
+    "pasos": [
+      { "texto": "Preparar la marinada: En un tazón, bate la miel, la salsa de soya, el ajo, el vinagre, el aceite de oliva, la sal y la pimienta. Añade los muslos de pollo, mezcla bien para cubrir, tapa y marina por al menos 30 minutos.", "imagen": null },
+      { "texto": "Cocinar el pollo: Precalienta el horno a 200 °C (400 °F). Coloca el pollo en una bandeja para hornear forrada, reservando la marinada. Hornea de 35 a 40 minutos, bañando una o dos veces con la marinada reservada, hasta que esté dorado y la temperatura interna alcance 74 °C (165 °F). Al final, gratina 2-3 minutos para caramelizar mejor.", "imagen": null },
+      { "texto": "Asar el maíz: Unta las mazorcas con aceite de oliva, espolvorea con pimienta y sal. Asa a fuego alto de 10 a 12 minutos, hasta que estén ligeramente doradas, unos 1-2 minutos por lado.", "imagen": null },
+      { "texto": "Preparar la ensalada: En un tazón, mezcla pepino, tomates cherry y queso. Baña con aceite de oliva y jugo de limón, sazona con orégano, sal y pimienta, y mezcla bien.", "imagen": null },
+      { "texto": "Servir: Coloca los muslos de pollo con miel y ajo junto con el maíz asado y la ensalada griega de pepino y tomate.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Muslos de Pollo con Miel y Ajo con Maíz Asado y Ensalada Griega.png"
+  },
+
+  
+  "alfredo-pollo-crujiente-tocino": {
+    "titulo": "Alfredo de Pollo Crujiente con Tocino",
+    "dificultad": "Medio",
+    "duracion": "50 min",
+    "materiales": [
+      "450 g de pechuga de pollo sin hueso ni piel",
+      "1/2 taza de pan rallado",
+      "3/4 taza de queso parmesano rallado (1/4 para el pollo + 1/2 para la salsa)",
+      "1 huevo batido",
+      "1/2 cucharadita de ajo en polvo, paprika y pimienta negra",
+      "225 g de pasta alta en proteína (fettuccine de garbanzo o lenteja)",
+      "4 rebanadas de tocino",
+      "1 taza de crema de leche",
+      "1/2 taza de leche (de tu preferencia)",
+      "2 dientes de ajo picados",
+      "1 cucharadita de aceite de oliva",
+      "Perejil fresco picado (para decorar)"
+    ],
+    "utensilios": [
+      "Sartén grande",
+      "Horno",
+      "Tazón o plato hondo",
+      "Vaso",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Cuchara",
+      "Pinzas o espátula",
+      "Olla mediana o grande",
+      "Colador",
+      "Cuchara de madera o espátula de silicona",
+      "Platos hondos o bowls para servir"
+    ],
+    "pasos": [
+      { "texto": "Preparar el tocino: Coloca las rebanadas de tocino en una sartén grande a fuego medio. Cocina de 5 a 7 minutos, volteando ocasionalmente, hasta que estén doradas y crujientes. Retira y colócalas sobre papel absorbente para eliminar el exceso de grasa. Cuando enfríen, desmenúzalas y reserva.", "imagen": null },
+      { "texto": "Preparar el pollo: Precalienta el horno a 200 °C (400 °F). En un plato hondo, mezcla el pan rallado, 1/4 taza de parmesano, ajo en polvo, paprika, sal y pimienta. Pasa las pechugas por el huevo batido y luego cúbrelas con la mezcla de pan rallado. Coloca el pollo en una bandeja para hornear forrada con papel o tapete de silicona, rocía con spray de aceite y hornea 20–25 min o hasta que estén doradas y cocidas por dentro. Corta el pollo en tiras o cubos.", "imagen": null },
+      { "texto": "Cocinar la pasta: Mientras se hornea el pollo, cocina la pasta en agua con sal según las instrucciones del paquete hasta que esté al dente. Escurre y reserva.", "imagen": null },
+      { "texto": "Preparar la salsa Alfredo: En una sartén grande, calienta 1 cucharadita de aceite de oliva y sofríe los dientes de ajo picados durante 1 minuto. Agrega la crema de leche, la leche y 1/2 taza de parmesano. Cocina a fuego medio-bajo, revolviendo, hasta que la salsa esté cremosa. Sazona con sal y pimienta al gusto.", "imagen": null },
+      { "texto": "Armar el plato: Mezcla la pasta con la salsa Alfredo. Sirve en platos hondos y coloca el pollo crujiente encima. Espolvorea el tocino desmenuzado y el perejil picado por encima.", "imagen": null },
+      { "texto": "Servir: Añade un toque extra de parmesano si deseas, ¡y disfruta!", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Alfredo de Pollo Crujiente con Tocino.png"
+  },
+
+  
+  "bowl-res-queso-crema-papa": {
+    "titulo": "Bowl de Res con Queso Crema y Papa",
+    "dificultad": "Medio",
+    "duracion": "50 min",
+    "materiales": [
+      "2 papas medianas peladas y en cubos",
+      "1 cucharada de aceite de oliva",
+      "1/2 cucharadita de paprika, ajo en polvo, sal y pimienta negra al gusto",
+      "450 g de carne molida",
+      "1 taza de queso crema bajo en grasa",
+      "1 aguacate en rebanadas",
+      "1/2 cucharadita de orégano seco",
+      "1 cucharadita de salsa picante (opcional)"
+    ],
+    "utensilios": [
+      "Horno",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Pelador (opcional, para las papas)",
+      "Tazón grande",
+      "Cuchara",
+      "Bandeja para hornear",
+      "Sartén grande",
+      "Espátula o cuchara de madera",
+      "Platos hondos o bowls para servir"
+    ],
+    "pasos": [
+      { "texto": "Asar las papas: Precalienta el horno a 220 °C. Coloca las papas peladas y en cubos en un tazón grande. Agrega el aceite de oliva, la paprika, el ajo en polvo, sal y pimienta. Mezcla bien hasta cubrir todos los trozos y distribúyelos en una bandeja para hornear. Hornea durante 25–30 minutos, o hasta que estén doradas y tiernas.", "imagen": null },
+      { "texto": "Cocinar la carne: En una sartén grande a fuego medio, agrega la carne molida y cocínala durante 6–8 minutos, desmenuzándola con una espátula. Añade el orégano seco, la paprika, el ajo en polvo, sal y pimienta al gusto. Cocina hasta que la carne esté bien dorada y cocida.", "imagen": null },
+      { "texto": "Preparar el queso crema: En un recipiente pequeño, bate ligeramente el queso crema bajo en grasa hasta que esté suave y cremoso (puedes calentarlo unos segundos en microondas si está muy firme).", "imagen": null },
+      { "texto": "Armar el bowl: En cada bowl o plato hondo, coloca una base de papas asadas, agrega por encima la carne molida sazonada y una porción de queso crema. Añade las rebanadas de aguacate al lado.", "imagen": null },
+      { "texto": "Toques finales: Si te gusta un toque picante, puedes añadir un chorrito de salsa picante sobre el queso crema (opcional).", "imagen": null },
+      { "texto": "Servir: Sirve caliente y disfruta de un bowl cremoso, reconfortante y lleno de sabor.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Bowl de Res con Queso Crema y Papa.png"
+  },
+  
+  "bowl-pollo-bang-bang": {
+    "titulo": "Bowl de Pollo Bang Bang Alto en Proteína (versión suave)",
+    "dificultad": "Medio",
+    "duracion": "50min",
+    "materiales": [
+      "680 g de pechuga de pollo en trozos pequeños",
+      "1/2 taza de maicena",
+      "1/2 cucharadita de ajo en polvo",
+      "1/2 cucharadita de sal y pimienta negra",
+      "Spray de aceite de oliva",
+      "1/3 taza de mayonesa ligera",
+      "2 cucharadas de yogur griego natural",
+      "2 cucharadas de salsa de tomate",
+      "1 cucharada de sriracha",
+      "1 cucharada de miel",
+      "2 tazas de arroz integral",
+      "1 aguacate en rebanadas",
+      "1 taza de zanahorias ralladas",
+      "1 taza de repollo morado rallado",
+      "1 pepino en rodajas finas",
+      "1/4 taza de cilantro fresco picado",
+      "2 cebollines picados",
+      "1 cucharada de semillas de sésamo (mezcla blanco y negro)"
+    ],
+    "utensilios": [
+      "Horno",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Tazón grande",
+      "Tazón pequeño",
+      "Cuchara",
+      "Sartén grande antiadherente",
+      "Espátula o cuchara de madera",
+      "Cuchara para servir",
+      "Bowls o platos"
+    ],
+    "pasos": [
+      {"texto": "Preparar el pollo: En un tazón grande, coloca los trozos de pechuga de pollo. Agrega la maicena, el ajo en polvo, la sal y la pimienta negra. Mezcla bien hasta que todos los trozos queden cubiertos de manera uniforme.", "imagen": null},
+      {"texto": "Cocinar el pollo: Calienta una sartén grande antiadherente a fuego medio y rocía con spray de aceite de oliva. Añade el pollo y cocina durante 6–8 minutos, moviendo ocasionalmente, hasta que esté dorado y cocido por dentro (temperatura interna de 74 °C). Retira del fuego y reserva.", "imagen": null},
+      {"texto": "Preparar la salsa Bang Bang: En un tazón pequeño, mezcla la mayonesa ligera, el yogur griego natural, la salsa de tomate, la sriracha y la miel. Revuelve hasta obtener una salsa cremosa y homogénea. Vierte la salsa sobre el pollo cocido y mezcla hasta cubrir completamente.", "imagen": null },
+      {"texto": "Armar el bowl: Coloca una base de arroz integral cocido en cada bowl. Encima, agrega el pollo cubierto con la salsa Bang Bang. Añade las rebanadas de aguacate, las zanahorias ralladas, el repollo morado rallado y el pepino en rodajas.", "imagen": null },
+      {"texto": "Decorar y servir: Espolvorea por encima el cilantro fresco picado, los cebollines y las semillas de sésamo. Sirve de inmediato y disfruta de un bowl colorido, cremoso y lleno de sabor.","imagen": null }
+    ],
+    "imagen": "img/fuerte/Bowl de Pollo Bang Bang Alto en Proteína (versión suave).png"
+  },
+
+  "pollo-mostaza-cebolla": {
+    "titulo": "Pollo en Salsa de Mostaza y Cebolla Caramelizada",
+    "dificultad": "Fácil",
+    "duracion": "40min",
+    "materiales": [
+      "Media libra de contramuslo deshuesado",
+      "1/2 cucharada de aceite de oliva",
+      "1/2 cucharada de paprika",
+      "1/2 cucharada de orégano",
+      "1/2 cucharada de cebolla en polvo",
+      "1/2 cucharada de sal y pimienta",
+      "1/2 cucharada de ajo en polvo",
+      "1 cebolla pequeña",
+      "1 cucharadita de mantequilla o ghee",
+      "80 ml de crema de leche",
+      "1 cucharada de mostaza Dijon (o la que prefieras)",
+      "1/2 cucharada de cilantro picado (para decorar)"
+    ],
+    "utensilios": [
+      "Bowl",
+      "Sartén antiadherente",
+      "Cuchillo",
+      "Tabla para picar",
+      "Cuchara",
+      "Plato"
+    ],
+    "pasos": [
+      {
+        "texto": "En un bowl, pon los contramuslos y añade aceite de oliva, paprika, orégano, cebolla en polvo, sal y pimienta al gusto.",
+        "imagen": null
+      },
+      {
+        "texto": "Pon a precalentar un sartén a fuego medio. Luego cocina los contramuslos a fuego bajo, dorándolos bien por ambos lados (vigila para que no se quemen). Retira del fuego y colócalos en otro recipiente.",
+        "imagen": null
+      },
+      {
+        "texto": "En una tabla de picar, corta la cebolla en cubos pequeños.",
+        "imagen": null
+      },
+      {
+        "texto": "En el mismo sartén donde cocinaste el pollo, agrega la cebolla picada con mantequilla (o ghee), sal y ajo en polvo. Sofríe hasta que esté dorada y caramelizada.",
+        "imagen": null
+      },
+      {
+        "texto": "Añade la crema de leche al sartén con la cebolla, incorpora la cucharada de mostaza y mezcla bien. Vuelve a añadir los contramuslos y cocina a fuego bajo durante 5 minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve el pollo caliente, decora con cilantro picado y acompáñalo con lo que desees.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/Pollo en salsa de mostaza y cebolla caramelizada.png"
+  },
+
+
+  "poke-bowl-atun": {
+    "titulo": "Poke Bowl con Atún, Arroz para Sushi, Pepino Marinado, Zanahoria, Aguacate, Mango y Ajonjolí",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "150 g de atún fresco",
+      "1 taza de arroz para sushi cocido",
+      "1/2 pepino, cortado en tiras finas y marinado en 1 cucharadita de jugo de limón y una pizca de sal",
+      "1/2 zanahoria, rallada o en tiras finas",
+      "1/2 aguacate, cortado en cubos",
+      "1/2 mango, cortado en cubos",
+      "1 cucharadita de ajonjolí tostado",
+      "Salsa de soya o tamari al gusto",
+      "Opcional: unas gotas de aceite de sésamo"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para cortar",
+      "Bowl para servir",
+      "Olla para arroz",
+      "Cucharas para mezclar y servir"
+    ],
+    "pasos": [
+      {
+        "texto": "Preparar el arroz: Cocina el arroz para sushi según las instrucciones del paquete y deja enfriar ligeramente.",
+        "imagen": null
+      },
+      {
+        "texto": "Marinar el pepino: Mezcla las tiras de pepino con jugo de limón y sal. Deja reposar 5 minutos para que se ablanden y tomen sabor.",
+        "imagen": null
+      },
+      {
+        "texto": "Montar el poke bowl: Coloca una base de arroz en un bowl, añade el atún en cubos, el pepino marinado, la zanahoria, el aguacate y el mango distribuidos de forma armoniosa. Espolvorea con ajonjolí tostado.",
+        "imagen": null
+      },
+      {
+        "texto": "Finalizar: Aliña con salsa de soya al gusto y, si deseas, añade unas gotas de aceite de sésamo.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/Poke Bowl con atún, arroz para sushi, pepino marinado, zanahoria, aguacate, mango y ajonjolí.png"
+  },
+
+  "tacos-vegetarianos-frijoles-maiz": {
+    "titulo": "Tacos Vegetarianos de Fríjoles Negros y Maíz",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "2 tortillas integrales o de maíz",
+      "½ taza de fríjoles negros cocidos",
+      "¼ taza de maíz tierno",
+      "¼ taza de pimentón en cubos",
+      "¼ cebolla picada",
+      "1 cdta de aceite de oliva",
+      "1 cdta de comino y paprika",
+      "1 cdta de jugo de limón",
+      "Cilantro fresco al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchara",
+      "Tabla de picar",
+      "Cuchillo"
+    ],
+    "pasos": [
+      {
+        "texto": "En una sartén, sofríe la cebolla y el pimentón con el aceite de oliva hasta que estén tiernos.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega los fríjoles negros y el maíz; sazona con comino, paprika, sal y pimienta al gusto.",
+        "imagen": null
+      },
+      {
+        "texto": "Cocina durante 5 minutos, revolviendo ocasionalmente para integrar los sabores.",
+        "imagen": null
+      },
+      {
+        "texto": "Calienta las tortillas en un sartén o comal y rellénalas con la mezcla de fríjoles y vegetales.",
+        "imagen": null
+      },
+      {
+        "texto": "Añade cilantro fresco picado y un toque de jugo de limón antes de servir.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/tacos vegetarianos.jpg"
+  },
+
+  "tacos-pescado-repollo": {
+    "titulo": "Tacos de Pescado con Repollo y Salsa de Yogur",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "2 tortillas de maíz o integrales",
+      "1 filete de pescado blanco (tilapia, merluza o similar)",
+      "½ taza de repollo rallado",
+      "¼ zanahoria rallada",
+      "2 cucharadas de yogur natural",
+      "Jugo de ½ limón",
+      "1 cucharadita de mostaza o miel (opcional)",
+      "Sal, pimienta y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Sartén o plancha",
+      "Cuchillo",
+      "Tabla",
+      "Bowl pequeño"
+    ],
+    "pasos": [
+      {
+        "texto": "Sazona el pescado con sal, pimienta y ajo en polvo.",
+        "imagen": null
+      },
+      {
+        "texto": "Cocina el pescado a la plancha por 3–4 minutos por cada lado, hasta dorar.",
+        "imagen": null
+      },
+      {
+        "texto": "Mezcla el yogur, el jugo de limón y la mostaza (si deseas) para preparar la salsa.",
+        "imagen": null
+      },
+      {
+        "texto": "Calienta las tortillas y coloca el pescado desmenuzado encima.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega el repollo, la zanahoria y la salsa por encima antes de servir.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/tacos pescado.jpg"
+  },
+  
+  "lasana-berenjena": {
+    "titulo": "Lasaña de Berenjena",
+    "dificultad": "Media",
+    "duracion": "35min",
+    "materiales": [
+      "1 berenjena grande",
+      "1 taza de salsa de tomate natural o casera",
+      "½ taza de queso mozzarella rallado (puede ser light)",
+      "2 cucharadas de queso parmesano (opcional)",
+      "½ taza de ricotta o requesón",
+      "1 diente de ajo picado",
+      "1 cucharada de aceite de oliva",
+      "Sal, pimienta y orégano al gusto",
+      "Hojas de albahaca fresca (opcional, para decorar)"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Sartén",
+      "Bowl",
+      "Molde para horno",
+      "Espátula",
+      "Horno"
+    ],
+    "pasos": [
+      {
+        "texto": "Lava y corta la berenjena en láminas delgadas a lo largo. Colócalas sobre papel absorbente, espolvorea sal y deja reposar 10 minutos para que suelten el amargor. Luego sécalas con papel de cocina.",
+        "imagen": null
+      },
+      {
+        "texto": "En una sartén antiadherente con unas gotas de aceite, dora las láminas de berenjena por ambos lados durante 2–3 minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "En un bowl, mezcla la ricotta con ajo picado, sal, pimienta y un poco de orégano para preparar el relleno.",
+        "imagen": null
+      },
+      {
+        "texto": "En un molde pequeño, agrega una capa de salsa de tomate, luego una de berenjena, otra de mezcla de ricotta y espolvorea mozzarella. Repite hasta usar todos los ingredientes, finalizando con salsa y queso por encima.",
+        "imagen": null
+      },
+      {
+        "texto": "Lleva al horno precalentado a 180 °C durante 20–25 minutos, hasta que el queso se derrita y esté ligeramente dorado.",
+        "imagen": null
+      },
+      {
+        "texto": "Deja reposar 5 minutos antes de servir y decora con hojas de albahaca fresca.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/Lasaña de berenjena .jpg"
+  },
+
+
+  "pollo-agridulce-saludable-crujiente": {
+    "titulo": "Pollo Agridulce Saludable y Crujiente",
+    "dificultad": "Fácil",
+    "duracion": "40min",
+    "materiales": [
+      "600 g de pechuga de pollo cortada en cubos medianos",
+      "1/3 taza de pan rallado integral",
+      "3 cucharadas de maicena",
+      "1 cucharadita de ajo en polvo",
+      "1/2 cucharadita de sal y pimienta negra",
+      "Spray de aceite de oliva",
+      "1/4 taza de kétchup sin azúcar",
+      "3 cucharadas de vinagre blanco",
+      "2 cucharadas de miel",
+      "2 cucharadas de salsa de soya baja en sodio",
+      "2 cucharadas de agua",
+      "Cebollín picado",
+      "Semillas de sésamo"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Sartén",
+      "Bowl",
+      "Tenedor",
+      "Espátula",
+      "Cuchara",
+      "Plato hondo"
+    ],
+    "pasos": [
+      {
+        "texto": "En un bowl, mezcla el pan rallado, la maicena, el ajo en polvo, la sal y la pimienta. Pasa los cubos de pollo por esta mezcla hasta cubrirlos bien.",
+        "imagen": null
+      },
+      {
+        "texto": "Rocía una sartén o freidora de aire con spray de aceite de oliva. Cocina el pollo a 200 °C durante 12–15 minutos (en airfryer) o en sartén a fuego medio durante 8–10 minutos, girando ocasionalmente, hasta que esté dorado.",
+        "imagen": null
+      },
+      {
+        "texto": "En una sartén limpia, mezcla el kétchup, vinagre, miel, salsa de soya y maicena disuelta. Cocina a fuego medio, revolviendo constantemente, hasta que espese y brille (3–5 minutos).",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega el pollo cocido a la sartén con la salsa y mezcla para cubrirlo completamente con el glaseado.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve el pollo sobre arroz integral o quinoa y decora con cebollín picado y semillas de sésamo.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/pollo agridulce.jpg"
+  },
+
+  
+  "pollo-toscana-yogur-coco": {
+    "titulo": "Pollo a la Toscana con Salsa de Yogur y Coco",
+    "dificultad": "Fácil",
+    "duracion": "35–40min",
+    "materiales": [
+      "1 pechuga de pollo pequeña (aprox. 150 g), cortada en cubos medianos",
+      "1 cdta. de aceite de oliva",
+      "1 diente de ajo picado",
+      "6–8 tomates cherry, cortados por la mitad",
+      "½ taza de espinaca fresca picada",
+      "¼ taza de leche de coco (sin azúcar, ligera)",
+      "3 cdas. de yogur natural (griego o vegetal, sin azúcar)",
+      "¼ cdta. de orégano seco",
+      "¼ cdta. de albahaca seca o fresca picada",
+      "Sal y pimienta al gusto",
+      "Opcional: 1 cdta. de queso parmesano o levadura nutricional para topping"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchillo",
+      "Tabla para picar",
+      "Cuchara de madera o espátula",
+      "Plato",
+      "Cuchara"
+    ],
+    "pasos": [
+      {
+        "texto": "Corta el pollo en cubos y sazónalo con sal, pimienta y orégano.",
+        "imagen": null
+      },
+      {
+        "texto": "Calienta el aceite en una sartén a fuego medio y cocina los cubos hasta que estén dorados por todos lados (5–6 minutos). Retira y reserva.",
+        "imagen": null
+      },
+      {
+        "texto": "Sofríe los tomates cherry en la misma sartén, añade el ajo y cocina 2–3 minutos hasta que se ablanden y suelten su jugo.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega la leche de coco y mezcla bien. Cocina 2 minutos más.",
+        "imagen": null
+      },
+      {
+        "texto": "Incorpora el yogur natural poco a poco (fuera del fuego directo) y revuelve hasta obtener una salsa cremosa.",
+        "imagen": null
+      },
+      {
+        "texto": "Añade la albahaca, la espinaca picada y ajusta con sal y pimienta. Cocina 1–2 minutos hasta que la espinaca se ablande.",
+        "imagen": null
+      },
+      {
+        "texto": "Devuelve el pollo a la sartén, mezcla todo y cocina a fuego bajo 3–4 minutos más hasta integrar sabores.",
+        "imagen": null
+      },
+      {
+        "texto": "Acompáñalo con ½ taza de quinoa cocida, pasta integral o ensalada verde fresca.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/pollo toscana.jpg"
+
+  },
+  "crepes-pollo-tocineta-champinones": {
+    "titulo": "Crepes de Pollo, Tocineta y Champiñones",
+    "dificultad": "Fácil",
+    "duracion": "35–40min",
+    "materiales": [
+      "1 taza de harina de avena o integral",
+      "1 taza de leche (vegetal o descremada)",
+      "2 huevos",
+      "1 cdta. de aceite de oliva",
+      "1 pizca de sal",
+      "1 pechuga de pollo (aprox. 200 g), cortada en cubos pequeños o desmenuzada",
+      "3 tiras de tocineta (tradicional o de pavo)",
+      "1 taza de champiñones rebanados",
+      "¼ taza de cebolla finamente picada",
+      "¼ taza de crema de leche ligera o vegetal",
+      "¼ taza de queso mozzarella rallado",
+      "½ cdta. de ajo en polvo",
+      "½ cdta. de orégano seco",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Tazón grande",
+      "Sartén antiadherente",
+      "Espátula",
+      "Cuchillo",
+      "Tabla para picar",
+      "Batidor",
+      "Cucharón",
+      "Bandeja refractaria",
+      "Horno (si gratinas)"
+    ],
+    "pasos": [
+      {
+        "texto": "En un tazón, mezcla la harina, leche, huevos, aceite y sal hasta obtener una masa líquida y sin grumos.",
+        "imagen": null
+      },
+      {
+        "texto": "Calienta una sartén antiadherente a fuego medio y engrásala ligeramente. Vierte ¼ taza de mezcla y gira la sartén para cubrir la superficie. Cocina 1–2 minutos por lado. Repite para formar 4 crepes.",
+        "imagen": null
+      },
+      {
+        "texto": "Cocina la tocineta en una sartén hasta dorarla. Retira y reserva.",
+        "imagen": null
+      },
+      {
+        "texto": "En la misma sartén, sofríe la cebolla con el pollo hasta que esté cocido. Agrega los champiñones y cocina 2–3 minutos más.",
+        "imagen": null
+      },
+      {
+        "texto": "Añade la crema de leche, el queso, las especias, sal y pimienta. Mezcla hasta que la salsa quede cremosa. Incorpora la tocineta picada al final.",
+        "imagen": null
+      },
+      {
+        "texto": "Rellena cada crepe con una porción de la mezcla. Enróllalos o dóblalos a tu gusto. Opcional: gratina 5 minutos a 180 °C.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/crepes de pollo.jpg"
+
+  },
+  "salmon-ajillo-papa-criolla": {
+    "titulo": "Salmón al Ajillo con Papa Criolla y Especias",
+    "dificultad": "Fácil",
+    "duracion": "35–40min",
+    "materiales": [
+      "2 filetes de salmón (aprox. 150 g cada uno)",
+      "10–12 papas criollas pequeñas, lavadas y con cáscara",
+      "3 dientes de ajo finamente picados",
+      "1 cda. de aceite de oliva",
+      "1 cdta. de mantequilla ligera o ghee (opcional)",
+      "½ cdta. de pimentón dulce o paprika",
+      "½ cdta. de orégano seco",
+      "½ cdta. de romero seco o tomillo",
+      "Jugo de ½ limón",
+      "Sal y pimienta negra al gusto",
+      "Opcional: Perejil fresco picado para decorar"
+    ],
+    "utensilios": [
+      "Bandeja para horno",
+      "Papel para hornear",
+      "Tazón",
+      "Cuchillo",
+      "Tabla para picar",
+      "Brocha o cuchara",
+      "Espátula"
+    ],
+    "pasos": [
+      {
+        "texto": "Precalienta el horno a 200 °C.",
+        "imagen": null
+      },
+      {
+        "texto": "Lava y corta las papas criollas por la mitad. Mézclalas con ½ cda. de aceite de oliva, romero, sal y pimienta. Lleva a una bandeja con papel y hornea 15 minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "Mezcla el ajo picado con el resto del aceite, mantequilla (si usas), pimentón, orégano, limón, sal y pimienta.",
+        "imagen": null
+      },
+      {
+        "texto": "Unta esta mezcla sobre los filetes de salmón y deja reposar unos minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega el salmón a la bandeja con las papas y hornea todo junto 15–20 minutos hasta que el salmón esté tierno y las papas doradas.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve caliente y espolvorea con perejil fresco.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/Salmón al ajillo con papa criolla .jpg"
+  },
+
+  "pollo-chipotle-pure-papa-cremoso": {
+    "titulo": "Pollo en Salsa Chipotle con Puré de Papa Cremoso",
+    "dificultad": "Fácil",
+    "duracion": "35–40min",
+    "materiales": [
+      "2 pechugas de pollo pequeñas (aprox. 150 g cada una)",
+      "4 papas medianas",
+      "1–2 chiles chipotle en adobo (según picor)",
+      "2 cdas. de yogur griego natural (para el puré)",
+      "½ taza de yogur griego o leche evaporada ligera (para la salsa)",
+      "1 cdta. de mantequilla ligera o ghee (opcional)",
+      "1 cda. de aceite de oliva",
+      "1 diente de ajo picado",
+      "½ cdta. de pimentón dulce",
+      "½ cdta. de orégano seco",
+      "½ cdta. de ajo en polvo",
+      "1 cdta. de jugo de limón",
+      "1 cdta. de miel o panela rallada (opcional)",
+      "Sal y pimienta al gusto",
+      "Opcional: Perejil o cebollín fresco para decorar"
+    ],
+    "utensilios": [
+      "Sartén con tapa",
+      "Olla",
+      "Licuadora",
+      "Cuchillo",
+      "Tabla para picar",
+      "Tenedor o prensa para puré",
+      "Espátula"
+    ],
+    "pasos": [
+      {
+        "texto": "Pela y corta las papas en trozos medianos. Cocina en agua con sal por 15–20 minutos hasta que estén blandas. Escurre y aplasta con tenedor o prensa.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega el yogur griego (o leche), mantequilla, sal y pimienta al puré y mezcla hasta obtener textura cremosa.",
+        "imagen": null
+      },
+      {
+        "texto": "Sazona las pechugas con sal, pimienta, pimentón y orégano. Calienta el aceite de oliva en una sartén y sofríe el ajo. Agrega el pollo y dora 3–4 minutos por lado.",
+        "imagen": null
+      },
+      {
+        "texto": "Licúa los ingredientes de la salsa chipotle hasta obtener mezcla cremosa. Vierte sobre el pollo, baja el fuego y cocina 10 minutos con tapa hasta que la salsa espese.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve una porción de puré de papa, coloca encima el pollo con salsa chipotle y decora con perejil o cebollín.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/Pollo chipotle .jpg"
+
+  },
+  "ensalada-pasta-pollo-plancha": {
+    "titulo": "Ensalada de Pasta y Pollo a la Plancha",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "1 taza de pasta en espiral (fusilli) integral o de garbanzo",
+      "1 pechuga de pollo (aprox. 200 g)",
+      "½ taza de maíz tierno (maicitos)",
+      "6 tomates cherry cortados por la mitad",
+      "¼ taza de cebolla morada finamente picada",
+      "¼ taza de pimentón rojo o amarillo en cubos",
+      "2 cdas. de yogur griego natural",
+      "1 cdta. de aceite de oliva (para el aderezo)",
+      "1 cdta. de aceite de oliva (para el pollo)",
+      "1 cdta. de jugo de limón",
+      "½ cdta. de ajo en polvo",
+      "½ cdta. de orégano seco",
+      "Sal y pimienta negra al gusto",
+      "Opcional: 1 cda. de queso rallado o en cubos",
+      "Opcional: Perejil o albahaca fresca picada para decorar"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén o plancha",
+      "Cuchillo",
+      "Tabla para picar",
+      "Colador",
+      "Tazones para mezclar",
+      "Espátula"
+    ],
+    "pasos": [
+      {
+        "texto": "Cocina la pasta en agua con sal según instrucciones del paquete. Escurre, enjuaga con agua fría y deja enfriar.",
+        "imagen": null
+      },
+      {
+        "texto": "Sazona el pollo con ajo en polvo, orégano, sal, pimienta y jugo de limón. Cocina en sartén o plancha con 1 cdta. de aceite 4–5 min por lado. Corta en cubos o tiras.",
+        "imagen": null
+      },
+      {
+        "texto": "En un tazón grande, mezcla la pasta fría, maicitos, tomates, cebolla y pimentón.",
+        "imagen": null
+      },
+      {
+        "texto": "Prepara aderezo: mezcla yogur griego, aceite de oliva, limón, sal y pimienta hasta formar salsa cremosa.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega el pollo, vierte el aderezo y mezcla suavemente. Sirve fría o a temperatura ambiente y decora.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/Ensalada de pasta y pollo a la plancha.jpg"
+  },
+  "wok-vegetales-fideos": {
+    "titulo": "Wok de Vegetales con Fideos",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "1 taza de fideos integrales, de arroz o de avena",
+      "½ taza de zanahoria en tiras finas",
+      "½ taza de pimentón rojo o amarillo en tiras",
+      "½ taza de brócoli en ramitos pequeños",
+      "¼ taza de cebolla en plumas",
+      "½ taza de calabacín (zucchini) en tiras",
+      "1 diente de ajo picado",
+      "1 cdta. de aceite de ajonjolí o aceite de oliva",
+      "2 cdas. de salsa soya baja en sodio",
+      "1 cdta. de miel o sirope natural (opcional)",
+      "½ cdta. de jengibre en polvo o rallado fresco",
+      "Jugo de ½ limón",
+      "Semillas de ajonjolí (sésamo) para decorar",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén grande o wok",
+      "Cuchillo",
+      "Tabla para picar",
+      "Colador",
+      "Pinzas o espátula",
+      "Tazón para servir"
+    ],
+    "pasos": [
+      {
+        "texto": "Cocina los fideos según instrucciones del paquete. Escurre y reserva.",
+        "imagen": null
+      },
+      {
+        "texto": "En un wok o sartén grande, calienta el aceite a fuego medio-alto. Agrega ajo y jengibre, saltea unos segundos.",
+        "imagen": null
+      },
+      {
+        "texto": "Añade los vegetales y saltea 4–5 minutos hasta que estén cocidos pero crujientes.",
+        "imagen": null
+      },
+      {
+        "texto": "Incorpora los fideos cocidos, la salsa soya, miel y limón. Mezcla todo 2–3 minutos.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve caliente, decora con semillas de ajonjolí y opcionalmente con más limón o salsa soya.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/wok de vegetales con fideos .png"
+  },
+  "ensalada-jennifer-aniston": {
+    "titulo": "Ensalada de Jennifer Aniston",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "½ taza de quinoa cocida (o bulgur/couscous)",
+      "½ taza de garbanzos cocidos y escurridos",
+      "¼ taza de pepino picado en cubos pequeños",
+      "¼ taza de tomates cherry cortados por la mitad",
+      "¼ taza de cebolla morada finamente picada",
+      "2 cdas. de perejil fresco picado",
+      "1 cda. de menta fresca picada (opcional)",
+      "2 cdas. de queso feta desmenuzado (opcional)",
+      "1 cdta. de aceite de oliva virgen extra",
+      "Jugo de ½ limón",
+      "Sal y pimienta negra al gusto",
+      "Opcional: 1 cdta. de semillas de girasol o pistachos picados"
+    ],
+    "utensilios": [
+      "Olla",
+      "Colador",
+      "Cuchillo",
+      "Tabla para picar",
+      "Tazón grande para mezclar",
+      "Cucharas"
+    ],
+    "pasos": [
+      {
+        "texto": "Cocina la quinoa según instrucciones del paquete. Deja enfriar.",
+        "imagen": null
+      },
+      {
+        "texto": "En un tazón grande, mezcla la quinoa cocida, garbanzos, pepino, tomates, cebolla, perejil y menta.",
+        "imagen": null
+      },
+      {
+        "texto": "Agrega aceite de oliva, jugo de limón, sal y pimienta. Mezcla bien.",
+        "imagen": null
+      },
+      {
+        "texto": "Añade queso feta y semillas/pistachos. Mezcla suavemente y sirve.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/ensalada jennifer lopez.jpg"
+  },
+  "pollo-brocoli": {
+    "titulo": "Pollo con Brócoli",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "1 pechuga de pollo (aprox. 200 g)",
+      "1 taza de brócoli en ramitos pequeños",
+      "¼ cebolla blanca finamente picada",
+      "1 diente de ajo picado o triturado",
+      "½ taza de yogur griego natural sin azúcar (para salsa)",
+      "¼ taza de leche baja en grasa o vegetal",
+      "1 cdta. de aceite de oliva",
+      "½ cdta. de orégano seco",
+      "½ cdta. de ajo en polvo",
+      "Sal y pimienta negra al gusto",
+      "¼ taza de queso mozzarella rallado (light opcional)"
+    ],
+    "utensilios": [
+      "Horno",
+      "Sartén",
+      "Cuchillo",
+      "Tabla para picar",
+      "Recipiente para mezclar",
+      "Recipiente para horno",
+      "Cuchara o espátula"
+    ],
+    "pasos": [
+      {
+        "texto": "Precalienta el horno a 180 °C (350 °F).",
+        "imagen": null
+      },
+      {
+        "texto": "Corta el pollo en cubos medianos y sazónalo con ajo en polvo, orégano, sal y pimienta.",
+        "imagen": null
+      },
+      {
+        "texto": "En sartén, calienta aceite y sofríe cebolla y ajo hasta dorar. Agrega pollo y cocina 5–6 minutos hasta sellar y dorar.",
+        "imagen": null
+      },
+      {
+        "texto": "Incorpora brócoli y cocina 2–3 minutos hasta que esté tierno pero firme.",
+        "imagen": null
+      },
+      {
+        "texto": "Mezcla yogur con leche para formar salsa cremosa. Agrega al pollo y brócoli, cocina 2 minutos más.",
+        "imagen": null
+      },
+      {
+        "texto": "Pasa mezcla a fuente de horno, cubre con queso mozzarella y gratina 10–15 minutos hasta dorar.",
+        "imagen": null
+      },
+      {
+        "texto": "Sirve caliente, acompañado de arroz integral o puré de papa si deseas.",
+        "imagen": null
+      }
+    ],
+    "imagen": "img/fuerte/pollo con brocoli.jpg"
+  },
+
+  "garbanzos-al-curry": {
+    "titulo": "Garbanzos al Curry",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "1 taza de garbanzos cocidos",
+      "½ taza de leche de coco (light opcional)",
+      "¼ cebolla blanca picada finamente",
+      "1 diente de ajo picado o triturado",
+      "½ cdta. de jengibre rallado o en polvo",
+      "1 cdta. de curry en polvo",
+      "½ cdta. de cúrcuma (opcional)",
+      "1 cdta. de aceite de oliva o coco",
+      "¼ taza de tomate picado o puré de tomate natural",
+      "Sal y pimienta negra al gusto",
+      "Opcional: cilantro fresco o perejil",
+      "Opcional: jugo de ½ limón"
+    ],
+    "utensilios": [
+      "Sartén grande",
+      "Cuchillo",
+      "Tabla para picar",
+      "Cuchara de madera o espátula",
+      "Tazón para servir"
+    ],
+    "pasos": [
+      { "texto": "En una sartén grande, calienta el aceite a fuego medio.", "imagen": null },
+      { "texto": "Añade la cebolla, ajo y jengibre, sofríe 2–3 minutos hasta dorar y aromatizar.", "imagen": null },
+      { "texto": "Agrega el curry y la cúrcuma, mezcla unos segundos para liberar aroma.", "imagen": null },
+      { "texto": "Incorpora los tomates picados o puré de tomate y cocina 2 minutos más.", "imagen": null },
+      { "texto": "Añade los garbanzos cocidos y mezcla bien con las especias.", "imagen": null },
+      { "texto": "Vierte la leche de coco, reduce el fuego y cocina 10–12 minutos hasta que la salsa espese.", "imagen": null },
+      { "texto": "Ajusta con sal, pimienta y unas gotas de limón al gusto.", "imagen": null },
+      { "texto": "Sirve caliente decorando con cilantro o perejil fresco.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/garbanzos al curry (1).jpg"
+  },
+
+  "desgranado": {
+    "titulo": "Desgranado",
+    "dificultad": "Fácil",
+    "duracion": "35–40min",
+    "materiales": [
+      "1 pechuga de pollo (aprox. 200 g)",
+      "1 taza de maíz tierno",
+      "2 tiras de tocineta",
+      "¼ taza de yogur griego natural sin azúcar",
+      "¼ taza de leche baja en grasa o vegetal",
+      "¼ taza de queso mozzarella rallado",
+      "1 cdta. de aceite de oliva o mantequilla light",
+      "¼ cebolla blanca finamente picada",
+      "1 diente de ajo picado",
+      "Sal y pimienta negra al gusto",
+      "Opcional: ½ cdta. de orégano seco o pimentón dulce",
+      "Opcional: Queso adicional para gratinar"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Cuchillo",
+      "Tabla para picar",
+      "Espátula",
+      "Colador",
+      "Tazón para mezclar",
+      "Recipiente para horno",
+      "Horno"
+    ],
+    "pasos": [
+      { "texto": "Cocina la pechuga en agua con sal, ajo y orégano 15–20 minutos. Desmenúzala.", "imagen": null },
+      { "texto": "En sartén, cocina la tocineta hasta dorar y crujir. Reserva sobre papel absorbente.", "imagen": null },
+      { "texto": "En la misma sartén, sofríe cebolla y ajo hasta dorar ligeramente.", "imagen": null },
+      { "texto": "Agrega el pollo desmechado, sal, pimienta y orégano. Saltea 3–4 minutos.", "imagen": null },
+      { "texto": "Incorpora el maíz y mezcla bien.", "imagen": null },
+      { "texto": "Mezcla yogur con leche para formar salsa cremosa y vierte sobre la mezcla. Cocina 2–3 minutos.", "imagen": null },
+      { "texto": "Añade la tocineta troceada y el queso mozzarella. Mezcla ligeramente.", "imagen": null },
+      { "texto": "Opcional: coloca en fuente para horno, agrega más queso y gratina 5–10 min a 180 °C.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/desgranado.jpg"
+  },
+
+  "platano-maduro-relleno": {
+    "titulo": "Plátano Maduro Relleno",
+    "dificultad": "Fácil",
+    "duracion": "35–40min",
+    "materiales": [
+      "2 plátanos maduros",
+      "1 pechuga de pollo (aprox. 200 g)",
+      "1 aguacate maduro",
+      "¼ tomate picado finamente",
+      "¼ cebolla blanca picada",
+      "2 cdas. de cebolla morada picada",
+      "1 diente de ajo picado",
+      "¼ taza de yogur griego o leche evaporada light",
+      "Jugo de ½ limón",
+      "1 cdta. de aceite de oliva",
+      "½ cdta. de pimentón dulce o paprika",
+      "Sal y pimienta al gusto",
+      "Opcional: cilantro picado, queso rallado light o ají para decorar"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Horno",
+      "Bandeja para horno",
+      "Cuchillo",
+      "Tabla para picar",
+      "Tenedor",
+      "Espátula",
+      "Tazón para mezclar"
+    ],
+    "pasos": [
+      { "texto": "Cocina el pollo en agua con ajo, sal y pimienta 15–20 min. Desmenúzalo.", "imagen": null },
+      { "texto": "Sofríe cebolla y ajo con aceite, agrega pollo, pimentón, sal y pimienta. Incorpora yogur o leche hasta obtener salsa cremosa.", "imagen": null },
+      { "texto": "Haz un corte longitudinal a los plátanos y hornea a 200 °C por 20–25 min, volteando a la mitad.", "imagen": null },
+      { "texto": "Prepara guacamole con aguacate, limón, tomate, cebolla morada y opcional cilantro o ají.", "imagen": null },
+      { "texto": "Rellena los plátanos con guacamole y encima el pollo en salsa.", "imagen": null },
+      { "texto": "Opcional: decora con queso rallado light o cilantro fresco.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/platano maduro relleno.jpg"
+  },
+
+  "tarta-papa-pollo": {
+    "titulo": "Tarta de Papa con Pollo",
+    "dificultad": "Fácil",
+    "duracion": "45–50min",
+    "materiales": [
+      "3 papas medianas",
+      "1 pechuga de pollo (aprox. 200 g)",
+      "½ taza de champiñones en láminas",
+      "½ tomate picado en cubos",
+      "¼ cebolla blanca picada",
+      "1 diente de ajo picado",
+      "¼ taza de yogur griego o leche evaporada light",
+      "¼ taza de queso mozzarella rallado (light opcional)",
+      "1 cdta. de aceite de oliva",
+      "Sal y pimienta al gusto",
+      "Opcional: orégano seco o pimienta blanca",
+      "Opcional: queso adicional para gratinar"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Horno",
+      "Cuchillo",
+      "Tabla para picar",
+      "Colador",
+      "Molde para horno",
+      "Espátula",
+      "Tazón para mezclar"
+    ],
+    "pasos": [
+      { "texto": "Cocina pollo en agua con sal, ajo y cebolla 15–20 min. Desmenúzalo.", "imagen": null },
+      { "texto": "Cocina papas al vapor o en agua con sal 10–12 min hasta que estén suaves pero firmes.", "imagen": null },
+      { "texto": "Sofríe cebolla y ajo en aceite, agrega champiñones y tomate, cocina 3–4 min.", "imagen": null },
+      { "texto": "Añade pollo, sal, pimienta y orégano. Mezcla con yogur o leche hasta obtener salsa cremosa.", "imagen": null },
+      { "texto": "Arma la tarta: capa de papas, capa de relleno, espolvorea queso. Repite y finaliza con papas y queso encima.", "imagen": null },
+      { "texto": "Hornea a 180 °C por 15–20 min hasta que el queso se derrita y dore.", "imagen": null },
+      { "texto": "Sirve caliente acompañado de ensalada o vegetales.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/tarta de papa y pollo.jpg"
+  },
+
+  "bolitas-sushi": {
+    "titulo": "Bolitas de Sushi",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "1 taza de arroz blanco o integral cocido",
+      "2 cdas. de vinagre de arroz o manzana",
+      "1 cdta. de miel o azúcar de coco (opcional)",
+      "½ cdta. de sal",
+      "½ pechuga de pollo cocida y desmenuzada o 100 g de salmón, atún o aguacate",
+      "¼ pepino picado finamente",
+      "¼ zanahoria rallada",
+      "2 cdas. de yogur griego natural o queso crema light",
+      "1 cdta. de salsa de soya baja en sodio",
+      "1 cdta. de aceite de ajonjolí (opcional)",
+      "Semillas de sésamo",
+      "Tiras de alga nori (opcional)"
+    ],
+    "utensilios": [
+      "Olla o arrocera",
+      "Cuchillo",
+      "Tabla para picar",
+      "Tazón para mezclar",
+      "Cuchara",
+      "Recipiente con agua para humedecer manos"
+    ],
+    "pasos": [
+      { "texto": "Lava arroz hasta que el agua salga clara. Cocina con doble de agua hasta que esté suave y ligeramente pegajoso.", "imagen": null },
+      { "texto": "Si usas arroz integral, puede tardar 10 minutos más. Mezcla arroz con vinagre, miel y sal. Deja enfriar.", "imagen": null },
+      { "texto": "Mezcla pollo o proteína con yogur, salsa de soya, aceite, pepino y zanahoria para el relleno.", "imagen": null },
+      { "texto": "Humedece manos, toma porción de arroz, forma bola, haz hueco, agrega relleno y cierra compactando.", "imagen": null },
+      { "texto": "Repite hasta terminar con todo el arroz y relleno.", "imagen": null },
+      { "texto": "Decora con semillas de sésamo o tira de alga nori.", "imagen": null },
+      { "texto": "Sirve acompañado de salsa de soya o aderezo ligero.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Bolitas de sushi .jpg"
+  },
+ 
+  
+  "crispy-salmon-bowl": {
+    "titulo": "Crispy Salmon Bowl",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "200 g de salmón fresco (sin piel ni espinas, cortado en cubos)",
+      "1 taza de arroz cocido (blanco, integral o de sushi)",
+      "1 cdta. de aceite de oliva o aceite de sésamo",
+      "1 cdta. de salsa de soya baja en sodio",
+      "1 cdta. de miel o sirope de agave",
+      "1 cdta. de vinagre de arroz o limón",
+      "¼ aguacate en láminas",
+      "¼ taza de pepino en rodajas delgadas",
+      "¼ taza de zanahoria rallada o en tiras finas",
+      "1 cdta. de semillas de sésamo (ajonjolí)",
+      "1 cdta. de cebolla verde picada o cebollín",
+      "2 cdas. de yogur griego natural",
+      "1 cdta. de mostaza dijon o mayonesa ligera",
+      "1 cdta. de salsa de soya",
+      "Unas gotas de limón o sriracha (opcional)"
+    ],
+    "utensilios": [
+      "Sartén antiadherente",
+      "Cuchillo",
+      "Tabla para picar",
+      "Tazón para marinar",
+      "Tazón para mezclar la salsa",
+      "Cucharas de medir"
+    ],
+    "pasos": [
+      { "texto": "Mezcla salsa de soya, miel y vinagre en un tazón y marina los cubos de salmón durante 10 minutos.", "imagen": null },
+      { "texto": "Calienta el aceite en una sartén y cocina el salmón 2–3 minutos por lado hasta que esté crujiente y dorado.", "imagen": null },
+      { "texto": "Prepara la salsa cremosa mezclando yogur, mostaza, salsa de soya y unas gotas de limón.", "imagen": null },
+      { "texto": "En un plato hondo, coloca arroz como base y organiza aguacate, pepino, zanahoria y salmón encima.", "imagen": null },
+      { "texto": "Agrega la salsa cremosa, semillas de sésamo, cebolla verde y tiras de alga nori si deseas.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Crispy salmon bowl.jpg"
+  },
+
+  "papas-gratinadas": {
+    "titulo": "Papas Gratinadas",
+    "dificultad": "Fácil",
+    "duracion": "40–45min",
+    "materiales": [
+      "3 papas medianas",
+      "½ taza de leche baja en grasa o vegetal sin azúcar",
+      "¼ taza de yogur griego o crema light",
+      "¼ taza de queso mozzarella rallado (light)",
+      "1 diente de ajo picado",
+      "¼ cebolla blanca picada",
+      "1 cdta. de aceite de oliva o mantequilla light",
+      "Sal y pimienta al gusto",
+      "Nuez moscada u orégano seco (opcional)",
+      "Queso parmesano rallado (opcional)"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Horno",
+      "Cuchillo",
+      "Tabla para picar",
+      "Molde para horno",
+      "Espátula",
+      "Cuchara",
+      "Colador"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 180°C (350°F).", "imagen": null },
+      { "texto": "Cocina las papas peladas y cortadas en rodajas por 8–10 minutos, escúrrelas y reserva.", "imagen": null },
+      { "texto": "Sofríe ajo y cebolla en aceite, agrega leche y yogur, sazona con sal, pimienta y nuez moscada.", "imagen": null },
+      { "texto": "En un molde, alterna capas de papas, salsa y queso hasta terminar.", "imagen": null },
+      { "texto": "Hornea 15–20 minutos hasta que el queso se dore y burbujee. Sirve caliente.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Papas gratinadas.jpg"
+  },
+
+  "pasta-ensalada-cesar": {
+    "titulo": "Pasta de Ensalada César",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "150 g de pasta corta (penne, fusilli o coditos)",
+      "1 pechuga de pollo (200 g)",
+      "1 taza de lechuga romana o espinaca troceada",
+      "¼ taza de queso parmesano rallado",
+      "¼ taza de crutones integrales (opcional)",
+      "1 cdta. de aceite de oliva",
+      "Sal y pimienta al gusto",
+      "3 cdas. de yogur griego natural",
+      "1 cdta. de mostaza dijon",
+      "1 cdta. de jugo de limón",
+      "1 diente de ajo pequeño rallado",
+      "1 cdta. de aceite de oliva extra",
+      "1 cda. de queso parmesano rallado"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Cuchillo",
+      "Tabla para picar",
+      "Colador",
+      "Tazón para mezclar",
+      "Cuchara o espátula"
+    ],
+    "pasos": [
+      { "texto": "Cocina la pasta en agua con sal según instrucciones del empaque, escurre y deja enfriar.", "imagen": null },
+      { "texto": "Sazona el pollo y cocínalo en una sartén hasta dorar. Corta en cubos o tiras.", "imagen": null },
+      { "texto": "Mezcla yogur, mostaza, limón, ajo, aceite y parmesano para hacer el aderezo.", "imagen": null },
+      { "texto": "Combina la pasta con el pollo, la lechuga y el aderezo en un tazón grande.", "imagen": null },
+      { "texto": "Agrega crutones y más parmesano al gusto. Sirve fría o a temperatura ambiente.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Pasta de ensalada César .jpg"
+  },
+
+  "tacos-birria": {
+    "titulo": "Tacos de Birria",
+    "dificultad": "Medio",
+    "duracion": "1h",
+    "materiales": [
+      "500 g de pollo deshuesado",
+      "2 tazas de caldo de pollo",
+      "2 tomates grandes",
+      "½ pimentón rojo",
+      "1 zanahoria pequeña",
+      "2 dientes de ajo",
+      "¼ cebolla",
+      "1 cdta. de pimentón dulce o paprika",
+      "½ cdta. de comino",
+      "½ cdta. de orégano seco",
+      "Sal y pimienta al gusto",
+      "1 cdta. de aceite de oliva",
+      "8 tortillas de maíz o integrales",
+      "½ taza de queso mozzarella light rallado",
+      "½ taza de cebolla picada",
+      "¼ taza de cilantro fresco",
+      "Gajos de limón para acompañar"
+    ],
+    "utensilios": [
+      "Olla",
+      "Sartén",
+      "Licuadora",
+      "Tabla para picar",
+      "Cuchillo",
+      "Espátula",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Licúa tomates, pimentón, zanahoria, ajo, cebolla y especias con ½ taza de caldo hasta obtener una salsa espesa.", "imagen": null },
+      { "texto": "En una olla, sofríe la salsa colada con aceite 5 minutos, añade pollo y el resto del caldo. Cocina 35–40 minutos.", "imagen": null },
+      { "texto": "Desmenuza el pollo dentro de la salsa para que absorba sabor.", "imagen": null },
+      { "texto": "Pasa las tortillas por la salsa y cocínalas con pollo y queso hasta dorar.", "imagen": null },
+      { "texto": "Sirve con cebolla, cilantro y limón. Acompaña con consomé caliente.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/Tacos de birria.jpg"
+  },
+
+  "pollo-cremoso-ajillo": {
+    "titulo": "Pollo Cremoso al Ajillo",
+    "dificultad": "Fácil",
+    "duracion": "40min",
+    "materiales": [
+      "2 pechugas de pollo cortadas en cubos o filetes",
+      "4 dientes de ajo picados",
+      "1 cdta. de aceite de oliva o mantequilla ligera",
+      "½ taza de leche evaporada o descremada",
+      "2 cdas. de yogur griego o queso crema light",
+      "1 cdta. de maicena disuelta en 2 cdas. de agua",
+      "Sal y pimienta al gusto",
+      "½ cdta. de pimentón dulce (opcional)",
+      "Perejil fresco picado",
+      "2 papas medianas peladas y en trozos",
+      "1 cdta. de mantequilla ligera o aceite de oliva",
+      "¼ taza de leche descremada o vegetal"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Olla",
+      "Cuchillo",
+      "Tabla para picar",
+      "Tenedor o prensapapas",
+      "Cuchara o espátula"
+    ],
+    "pasos": [
+      { "texto": "Cocina las papas en agua con sal 15–20 minutos, escúrrelas y haz puré con mantequilla y leche.", "imagen": null },
+      { "texto": "Sazona el pollo con sal, pimienta y paprika.", "imagen": null },
+      { "texto": "Dora el pollo en aceite hasta que esté dorado. Retira y reserva.", "imagen": null },
+      { "texto": "En la misma sartén, sofríe el ajo, añade leche con maicena y cocina hasta espesar.", "imagen": null },
+      { "texto": "Incorpora yogur o queso crema, mezcla y agrega el pollo para cocinar 5 minutos más.", "imagen": null },
+      { "texto": "Sirve con el puré y decora con perejil fresco.", "imagen": null }
+    ],
+    "imagen": "img/fuerte/pollo cremoso al ajillo .jpg"
+  }
 }
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
