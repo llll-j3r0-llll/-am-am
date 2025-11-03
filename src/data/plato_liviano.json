@@ -267,6 +267,757 @@
     ],
     "imagen": "img/liviano/palitos de queso.png"
   
+},
+
+  "tteokbokki-fit": {
+    "titulo": "Tteokbokki (Fit Version)",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "10 papeles de arroz",
+      "Leche (cantidad suficiente para remojar)",
+      "100g de queso para derretir de tu preferencia",
+      "1 cucharada de pasta de tomate",
+      "200ml de caldo de pollo",
+      "1 cucharada de salsa soya",
+      "1 cucharada de escamas de ají picante (opcional)",
+      "Sal, pimienta y sal de ajo al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Recipiente"
+    ],
+    "pasos": [
+      { "texto": "Remoja los papeles de arroz en leche hasta que estén blandos.", "imagen": null },
+      { "texto": "Enrolle la mitad de las láminas enteras como fideos.", "imagen": null },
+      { "texto": "Enrolle las láminas restantes con un palito de queso en su interior.", "imagen": null },
+      { "texto": "Corta cada fideo por la mitad y une las puntas para evitar que se salga el queso.", "imagen": null },
+      { "texto": "Para la salsa, coloca en una sartén el caldo de pollo, la pasta de tomate, la salsa soya y los condimentos.", "imagen": null },
+      { "texto": "Cocina a fuego medio durante 6 minutos hasta que reduzca un poco.", "imagen": null },
+      { "texto": "Agrega los rollitos de arroz y cocina por 2 minutos más con tapa.", "imagen": null },
+      { "texto": "Retira del fuego, sirve y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/liviano/tteokbokki.png"
+  },
+  
+  "taquitos-maicitos": {
+    "titulo": "Taquitos de Maicitos",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "3 puñados de maicitos",
+      "Queso parmesano o mozzarella rallado",
+      "3 hojas de lechuga",
+      "3 rodajas de tomate",
+      "3 tajadas de jamón de pavo o de tu preferencia"
+    ],
+    "utensilios": [
+      "Horno",
+      "Bandeja de horno",
+      "Cuchillo"
+    ],
+    "pasos": [
+      { "texto": "Ubica los maicitos en una bandeja para horno, formando 3 porciones redondeadas y planas.", "imagen": null },
+      { "texto": "Cubre cada porción con queso rallado.", "imagen": null },
+      { "texto": "Hornea durante 20 minutos a 200°C.", "imagen": null },
+      { "texto": "Retira del horno y coloca sobre cada tortilla de maicitos una hoja de lechuga, una tajada de jamón, una rodaja de tomate y más queso.", "imagen": null },
+      { "texto": "Dobla para formar los taquitos y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Taquitos de maicitos.JPG"
+  },
+
+  "burritos-pollo": {
+    "titulo": "Burritos de Pollo",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "Pechuga de pollo (para desmechar)",
+      "1 ramita de cilantro picado",
+      "2 ramitas de cebollín picado",
+      "1 huevo",
+      "2 cucharadas de yogur griego",
+      "Queso mozzarella",
+      "Tortilla integral",
+      "Sal, pimienta, paprika y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Tabla de picar",
+      "Bowl o recipiente",
+      "Cuchara",
+      "Palillos de dientes",
+      "Freidora de aire"
+    ],
+    "pasos": [
+      { "texto": "En un bowl mezcla el pollo desmechado, cilantro, cebollín, yogur, queso y las especias.", "imagen": null },
+      { "texto": "Extiende las tortillas, pon la mezcla al centro y enrolla. Fija con palillos.", "imagen": null },
+      { "texto": "Pinta los burritos con huevo batido y agrega queso encima.", "imagen": null },
+      { "texto": "Llévalos a la freidora de aire por 5 minutos a 180°C hasta gratinar.", "imagen": null },
+      { "texto": "Decora con un poco de queso y cilantro antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Burrito de pollo.png"
+  },
+
+  "rollitos-lechuga-jamon": {
+    "titulo": "Rollitos de Lechuga Rellenos de Jamón de Pavo",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "4 hojas grandes de lechuga romana o repollo tierno",
+      "4 lonchas de jamón de pavo o de tu preferencia",
+      "1 zanahoria rallada",
+      "½ aguacate en tiras",
+      "2 cucharadas de yogur natural o aderezo ligero",
+      "Jugo de ½ limón",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Tabla",
+      "Cuchillo",
+      "Rallador",
+      "Cuchara",
+      "Bowl pequeño",
+      "Palillos (opcional)"
+    ],
+    "pasos": [
+      { "texto": "Lava y seca las hojas de lechuga o repollo.", "imagen": null },
+      { "texto": "Coloca sobre cada hoja una loncha de jamón, zanahoria rallada y tiras de aguacate.", "imagen": null },
+      { "texto": "Agrega una cucharadita de yogur o aderezo sobre el relleno.", "imagen": null },
+      { "texto": "Enrolla con cuidado formando rollitos o dóblalos como tacos.", "imagen": null },
+      { "texto": "Asegura con palillos si es necesario y rocía con jugo de limón antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/liviano/rollos de lechuga.png"
+  },
+
+  "ensalada-mexicana-pollo": {
+    "titulo": "Ensalada Mexicana con Pollo",
+    "dificultad": "Fácil",
+    "duracion": "20-25min",
+    "materiales": [
+      "1 pechuga de pollo cocida o a la plancha, en tiras",
+      "½ taza de maíz tierno",
+      "½ taza de fríjoles negros cocidos",
+      "½ tomate picado",
+      "¼ de aguacate en cubos",
+      "1 cucharadita de aceite de oliva",
+      "Jugo de ½ limón",
+      "Sal, pimienta y comino al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Tabla",
+      "Cuchillo",
+      "Bowl grande",
+      "Tenedor o pinzas"
+    ],
+    "pasos": [
+      { "texto": "Cocina la pechuga de pollo a la plancha con sal y pimienta, y córtala en tiras.", "imagen": null },
+      { "texto": "En un bowl grande mezcla el maíz, los fríjoles, el tomate y el aguacate.", "imagen": null },
+      { "texto": "Agrega el pollo y mezcla suavemente.", "imagen": null },
+      { "texto": "Aliña con aceite de oliva, jugo de limón, sal, pimienta y comino.", "imagen": null },
+      { "texto": "Sirve fresca y acompaña con tortillas integrales si deseas.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Ensalada mexicana.png"
+  },
+
+  "tortilla-espinaca-queso": {
+    "titulo": "Tortilla de Espinaca y Queso",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "2 huevos",
+      "1 taza de espinacas picadas",
+      "1 cucharadita de aceite de oliva",
+      "Queso rallado (de tu preferencia)",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Sartén antiadherente",
+      "Bowl",
+      "Tenedor o batidor",
+      "Espátula",
+      "Rallador"
+    ],
+    "pasos": [
+      { "texto": "Lava y pica la espinaca, y ralla el queso.", "imagen": null },
+      { "texto": "Bate los huevos con sal y pimienta hasta que estén homogéneos.", "imagen": null },
+      { "texto": "Calienta el aceite y saltea la espinaca 1 minuto hasta que se ablande.", "imagen": null },
+      { "texto": "Añade los huevos batidos sobre la espinaca, espolvorea el queso y cocina a fuego medio-bajo 2–3 minutos.", "imagen": null },
+      { "texto": "Dobla o voltea la tortilla y cocina 30–60 segundos más. Sirve caliente.", "imagen": null }
+    ],
+    "imagen": "img/facil/tortilla-espinaca-queso.png"
+  },
+  
+  "cobijitas-jamon": {
+    "titulo": "Cobijitas de Jamón",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "½ taza de queso crema",
+      "1 taza de espinaca picada",
+      "½ taza de queso rallado de tu preferencia",
+      "6 lonjas de jamón de pavo",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Airfryer",
+      "Recipiente",
+      "Tabla"
+    ],
+    "pasos": [
+      { "texto": "En un recipiente mezcla el queso crema, el queso rallado y la espinaca. Condimenta al gusto.", "imagen": null },
+      { "texto": "En una tabla coloca 2 lonjas de jamón una sobre otra y agrega una porción de la mezcla en el centro.", "imagen": null },
+      { "texto": "Dobla los cuatro lados del jamón hacia adentro y luego enrolla hasta formar una cobijita.", "imagen": null },
+      { "texto": "Coloca las cobijitas en la Airfryer con los dobleces hacia abajo. Puedes agregar queso encima.", "imagen": null },
+      { "texto": "Cocina durante 8 minutos a 200°C. Retira, emplata y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/facil/cobijitas-jamon.png"
+  },
+
+  "sopita-tipo-ramen": {
+    "titulo": "Sopita Tipo Ramen",
+    "dificultad": "Medio",
+    "duracion": "20min",
+    "materiales": [
+      "1 diente de ajo picado",
+      "1 cm de jengibre fresco rallado",
+      "2 cucharadas de salsa soya",
+      "2 cucharadas de salsa de tomate",
+      "½ cucharadita de escamas de chile (opcional)",
+      "Ajonjolí al gusto",
+      "2 cucharadas de aceite de oliva",
+      "200 ml de caldo de pollo o vegetal",
+      "50 ml de leche de tu preferencia",
+      "½ cucharada de vinagre",
+      "2 huevos cocidos",
+      "80 g de fideos instantáneos",
+      "Jamón o tocineta en cubitos",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Airfryer",
+      "Plato hondo o para sopa",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "En un plato hondo añade el ajo, jengibre, chile, sal y pimienta.", "imagen": null },
+      { "texto": "Calienta el aceite de oliva en una sartén hasta que humee y viértelo sobre las especias del plato.", "imagen": null },
+      { "texto": "Hierve el caldo junto a la salsa soya, salsa de tomate y vinagre. Cuando burbujee, agrégalo al plato.", "imagen": null },
+      { "texto": "Añade los fideos instantáneos y tapa por 5 minutos.", "imagen": null },
+      { "texto": "Agrega la leche, los huevos partidos y el jamón o tocineta cocido. Decora con ajonjolí y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/medio/sopita-tipo-ramen.png"
+  },
+
+  "croquetas-atun-crocantes": {
+    "titulo": "Croquetas de Atún Crocantes con Salsa",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 lata de atún",
+      "3 huevos",
+      "100 g de hojuelas naturales de maíz",
+      "Sal y pimienta al gusto",
+      "120 g de yogur natural",
+      "Jugo de ½ limón",
+      "1 chorrito de aceite de oliva",
+      "1 cucharada de ajo en polvo",
+      "1 cucharada de perejil"
+    ],
+    "utensilios": [
+      "4 bowls",
+      "Tenedor o batidor",
+      "Airfryer"
+    ],
+    "pasos": [
+      { "texto": "Escurre el atún y mézclalo con 2 huevos hasta formar una masa homogénea.", "imagen": null },
+      { "texto": "Tritura las hojuelas de maíz en otro bowl y agrega especias al gusto.", "imagen": null },
+      { "texto": "Bate un huevo con sal y pimienta en un recipiente pequeño.", "imagen": null },
+      { "texto": "Forma bolitas con la mezcla de atún, pásalas por el huevo y luego por las hojuelas trituradas.", "imagen": null },
+      { "texto": "Cocina en la Airfryer 10 minutos a 200°C. Prepara la salsa mezclando yogur, limón, aceite, ajo y perejil. Sirve y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/facil/croquetas-atun-crocantes.png"
+  },
+
+  "salmon-horno-papas-esparragos": {
+    "titulo": "Salmón al Horno con Papas y Espárragos",
+    "dificultad": "Medio",
+    "duracion": "25-30min",
+    "materiales": [
+      "2 filetes de salmón (150 g c/u)",
+      "2 papas medianas en rodajas finas",
+      "8 espárragos frescos",
+      "2 cucharadas de aceite de oliva",
+      "Jugo de ½ limón",
+      "Sal, pimienta y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Horno",
+      "Bandeja",
+      "Papel aluminio",
+      "Espátula"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 200°C y forra una bandeja con papel aluminio.", "imagen": null },
+      { "texto": "Corta las papas en rodajas finas, sazónalas y hornéalas 10 minutos.", "imagen": null },
+      { "texto": "Sazona el salmón con sal, pimienta, ajo en polvo y limón.", "imagen": null },
+      { "texto": "Agrega los espárragos y coloca el salmón sobre las papas. Hornea 12–15 minutos más.", "imagen": null },
+      { "texto": "Retira del horno, añade más limón y sirve caliente.", "imagen": null }
+    ],
+    "imagen": "img/medio/salmon-horno-papas-esparragos.png"
+  },
+
+  "arepa-yuca-rellena": {
+    "titulo": "Arepa de Yuca Rellena",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "2 tazas de yuca pelada y picada",
+      "1 cucharada de mantequilla o aceite de coco",
+      "½ cucharadita de sal",
+      "2 cucharadas de fécula de maíz o harina de avena (opcional)",
+      "½ taza de queso mozzarella rallado o relleno de tu preferencia"
+    ],
+    "utensilios": [
+      "Olla mediana",
+      "Cuchillo y tabla de picar",
+      "Tazón grande",
+      "Cuchara o tenedor",
+      "Sartén o plancha antiadherente",
+      "Espátula"
+    ],
+    "pasos": [
+      { "texto": "Cocina la yuca con sal durante 20–25 minutos hasta que esté blanda.", "imagen": null },
+      { "texto": "Escurre y machaca hasta formar un puré. Agrega mantequilla y mezcla.", "imagen": null },
+      { "texto": "Añade fécula o harina si la masa está muy húmeda.", "imagen": null },
+      { "texto": "Forma porciones, aplánalas, rellena y sella los bordes.", "imagen": null },
+      { "texto": "Cocina las arepas a fuego medio por 5–6 minutos por cada lado hasta dorar. Sirve caliente.", "imagen": null }
+    ],
+    "imagen": "img/facil/arepa-yuca-rellena.png"
+  },
+
+  "lasana-sanduche": {
+    "titulo": "Lasaña de Sánduche",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "3 tajadas de pan (puede ser focaccia o pan de masa madre)",
+      "4 tajadas de jamón de tu preferencia",
+      "Bechamel (receta en acompañantes)",
+      "Mozzarella rallada",
+      "Champiñones en láminas salteados"
+    ],
+    "utensilios": [
+      "Airfryer",
+      "Tapete de Airfryer",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Coloca una tajada de pan en la Airfryer por 5 minutos.", "imagen": null },
+      { "texto": "Agrega 2 tajadas de jamón, queso, champiñones y una capa de bechamel. Cubre con otra tajada de pan y cocina 5 minutos más.", "imagen": null },
+      { "texto": "Repite el proceso para la siguiente capa.", "imagen": null },
+      { "texto": "Añade bechamel y queso encima, y deja 2 minutos más en la Airfryer.", "imagen": null },
+      { "texto": "Retira, sirve y disfruta caliente.", "imagen": null }
+    ],
+    "imagen": "img/facil/lasana-sanduche.png"
+  },
+  
+  "wrap-integral-huevo-aguacate": {
+    "titulo": "Wrap Integral de Huevo y Aguacate",
+    "dificultad": "Fácil",
+    "duracion": "8-10min",
+    "materiales": [
+      "1 tortilla integral grande",
+      "2 huevos duros o revueltos",
+      "½ aguacate en láminas",
+      "2 hojas de lechuga",
+      "1 cucharadita de yogur griego o mostaza",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Sartén (si haces el huevo revuelto)",
+      "Olla pequeña (si lo haces duro)"
+    ],
+    "pasos": [
+      { "texto": "Hierve los huevos 8–10 min y pélalos, o bátelos y cocínalos 2–3 min en sartén si prefieres revueltos.", "imagen": null },
+      { "texto": "Calienta la tortilla 20–30 s por cada lado para que sea más maleable.", "imagen": null },
+      { "texto": "Coloca la lechuga, el huevo, el aguacate y una cucharadita de yogur o mostaza. Añade sal y pimienta.", "imagen": null },
+      { "texto": "Enrolla el wrap apretando y corta por la mitad.", "imagen": null }
+    ],
+    "imagen": "img/facil/wrap-integral-huevo-aguacate.png"
+  },
+
+  "tortitas-zanahoria": {
+    "titulo": "Tortitas de Zanahoria",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "2 zanahorias pequeñas",
+      "1 huevo",
+      "Bolitas de queso burrata",
+      "Tomates cherry",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Sartén",
+      "Rallador",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Ralla las zanahorias y mézclalas en un bowl con el huevo.", "imagen": null },
+      { "texto": "Condimenta la mezcla con sal y pimienta.", "imagen": null },
+      { "texto": "En una sartén con aceite de oliva, coloca 4 porciones y dales forma redonda.", "imagen": null },
+      { "texto": "Dora por ambos lados durante 5 minutos por lado.", "imagen": null },
+      { "texto": "Coloca una bolita de burrata sobre cada tortita y tapa por 2 minutos.", "imagen": null },
+      { "texto": "Decora con tomates cherry y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/facil/tortitas-zanahoria.png"
+  },
+
+  "canastas-papa-rellenas": {
+    "titulo": "Canastas de Papa Rellenas",
+    "dificultad": "Fácil",
+    "duracion": "35min",
+    "materiales": [
+      "3 papas grandes",
+      "500g de carne de res molida o para boloñesa",
+      "½ cebolla blanca",
+      "½ taza de pasta de tomate",
+      "Salsa bechamel",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Sartén",
+      "Horno",
+      "Recipiente para horno"
+    ],
+    "pasos": [
+      { "texto": "Hierve las papas con cáscara en agua con sal hasta que estén blandas.", "imagen": null },
+      { "texto": "Sofríe la cebolla picada con un chorrito de aceite hasta que esté transparente.", "imagen": null },
+      { "texto": "Agrega ajo picado, mezcla y añade la carne. Cocina con tapa 5 minutos.", "imagen": null },
+      { "texto": "Añade la salsa de tomate, mezcla y apaga el fuego.", "imagen": null },
+      { "texto": "Vacía el interior de las papas dejando bordes gruesos.", "imagen": null },
+      { "texto": "Agrega el excedente de papa a la carne y mezcla.", "imagen": null },
+      { "texto": "Rellena las papas con la carne y hornea 10 minutos a 200°C.", "imagen": null },
+      { "texto": "Opcional: añade queso encima al servir.", "imagen": null }
+    ],
+    "imagen": "img/facil/canastas-papa-rellenas.png"
+  },
+
+  "nuggets-lentejas-horno": {
+    "titulo": "Nuggets de Lentejas al Horno",
+    "dificultad": "Fácil",
+    "duracion": "20-25min",
+    "materiales": [
+      "1 taza de lentejas cocidas y escurridas",
+      "¼ cebolla picada",
+      "1 diente de ajo",
+      "2 cucharadas de pan rallado",
+      "1 huevo o mezcla de linaza (1 cda linaza + 3 cdas agua)",
+      "½ cucharadita de comino",
+      "Sal y pimienta al gusto",
+      "Aceite para pincelar"
+    ],
+    "utensilios": [
+      "Procesador o tenedor",
+      "Bowl",
+      "Horno",
+      "Bandeja",
+      "Papel de hornear"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 180°C y prepara una bandeja con papel de hornear.", "imagen": null },
+      { "texto": "Sofríe la cebolla y el ajo en aceite hasta que estén transparentes.", "imagen": null },
+      { "texto": "Procesa las lentejas con la cebolla y ajo hasta obtener una masa con textura.", "imagen": null },
+      { "texto": "Agrega pan rallado, huevo (o linaza), comino, sal y pimienta.", "imagen": null },
+      { "texto": "Forma bolitas o mini hamburguesas y colócalas en la bandeja. Pincela con aceite.", "imagen": null },
+      { "texto": "Hornea 18–25 min, volteando a mitad de cocción.", "imagen": null },
+      { "texto": "Sirve acompañadas de ensalada o tu salsa favorita.", "imagen": null }
+    ],
+    "imagen": "img/facil/nuggets-lentejas-horno.png"
+  },
+
+  "sopa-tomate-albahaca": {
+    "titulo": "Sopa de Tomate y Albahaca",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "4 tomates medianos o 2 tazas de tomate en lata",
+      "½ cebolla picada",
+      "1 diente de ajo",
+      "2 tazas de caldo de verduras",
+      "2 cucharadas de crema o yogur griego",
+      "4 hojas de albahaca fresca",
+      "1 cucharadita de aceite",
+      "Sal y pimienta"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla",
+      "Olla",
+      "Licuadora",
+      "Cuchara de madera"
+    ],
+    "pasos": [
+      { "texto": "Pica la cebolla, el ajo y los tomates.", "imagen": null },
+      { "texto": "Sofríe la cebolla en aceite 4–5 min y añade el ajo 30 s.", "imagen": null },
+      { "texto": "Agrega los tomates y cocina 8–10 min hasta que se deshagan.", "imagen": null },
+      { "texto": "Vierte el caldo y deja hervir 5–8 min más.", "imagen": null },
+      { "texto": "Licúa la mezcla hasta obtener una crema homogénea.", "imagen": null },
+      { "texto": "Devuelve a la olla, añade crema o yogur, sal, pimienta y albahaca. Calienta sin hervir.", "imagen": null },
+      { "texto": "Sirve con una hoja de albahaca y un chorrito de aceite.", "imagen": null }
+    ],
+    "imagen": "img/facil/sopa-tomate-albahaca.png"
+  },
+  "nuggets-de-garbanzos": {
+    "titulo": "Nuggets de Garbanzos",
+    "dificultad": "Fácil",
+    "duracion": "35min",
+    "materiales": [
+      "1 taza de garbanzos cocidos (bien escurridos y secos)",
+      "1 huevo (o 1 cda. de linaza molida + 3 cdas. de agua, versión vegana)",
+      "¼ taza de avena molida o harina de avena",
+      "¼ taza de queso rallado (opcional)",
+      "1 diente de ajo picado o ½ cdta. de ajo en polvo",
+      "¼ cdta. de cebolla en polvo",
+      "½ cdta. de sal marina",
+      "¼ cdta. de pimienta negra",
+      "1 cdta. de aceite de oliva o coco",
+      "Perejil, orégano o cúrcuma (opcional)"
+    ],
+    "utensilios": [
+      "Licuadora o procesador de alimentos",
+      "Sartén o freidora de aire",
+      "Espátula",
+      "Cuchara",
+      "Bandeja o plato"
+    ],
+    "pasos": [
+      { "texto": "Agrega todos los ingredientes a la licuadora o procesador y mezcla hasta formar una masa espesa.", "imagen": null },
+      { "texto": "Si la masa está seca, añade 1 cda. de agua o leche vegetal.", "imagen": null },
+      { "texto": "Forma pequeñas porciones ovaladas o de pepita y colócalas en una bandeja.", "imagen": null },
+      { "texto": "En sartén: cocina con poco aceite 3–4 minutos por lado.", "imagen": null },
+      { "texto": "En horno o airfryer: cocina a 200 °C durante 15–20 minutos, volteando a mitad del tiempo.", "imagen": null },
+      { "texto": "Sirve con salsa de yogur, mostaza y miel o guacamole.", "imagen": null }
+    ],
+    "imagen": "img/facil/nuggets-de-garbanzos.png"
+  },
+
+  "sopa-de-lentejas-ligera": {
+    "titulo": "Sopa de Lentejas Ligera",
+    "dificultad": "Fácil",
+    "duracion": "35-40min",
+    "materiales": [
+      "½ taza de lentejas secas",
+      "3 tazas de agua o caldo de verduras",
+      "½ zanahoria picada en cubos pequeños",
+      "¼ pimentón rojo picado",
+      "¼ cebolla blanca picada",
+      "1 diente de ajo picado",
+      "1 cdta. de aceite de oliva",
+      "½ cdta. de comino",
+      "½ cdta. de cúrcuma o paprika dulce (opcional)",
+      "Sal y pimienta al gusto",
+      "Cilantro o perejil fresco (opcional)"
+    ],
+    "utensilios": [
+      "Olla mediana",
+      "Cuchillo",
+      "Tabla de picar",
+      "Cuchara de madera",
+      "Licuadora (opcional)"
+    ],
+    "pasos": [
+      { "texto": "Calienta el aceite en una olla y sofríe cebolla, ajo, pimentón y zanahoria 3–4 minutos.", "imagen": null },
+      { "texto": "Agrega las lentejas, agua o caldo, comino, cúrcuma, sal y pimienta.", "imagen": null },
+      { "texto": "Hierve y cocina tapado a fuego bajo por 25–30 minutos.", "imagen": null },
+      { "texto": "Si prefieres textura cremosa, tritura parcialmente con licuadora.", "imagen": null },
+      { "texto": "Sirve caliente y decora con cilantro o perejil fresco.", "imagen": null }
+    ],
+    "imagen": "img/facil/sopa-de-lentejas-ligera.png"
+  },
+
+  "arepa-de-remolacha-rellena": {
+    "titulo": "Arepa de Remolacha Rellena",
+    "dificultad": "Fácil",
+    "duracion": "35-40min",
+    "materiales": [
+      "1 taza de harina de maíz precocida",
+      "1 remolacha mediana cocida y pelada",
+      "¾ taza de agua tibia",
+      "½ cdta. de sal",
+      "1 cda. de aceite de oliva",
+      "½ taza de pollo desmenuzado cocido",
+      "2 cdas. de cebolla y pimentón salteados",
+      "1 cda. de yogur griego o mayonesa light"
+    ],
+    "utensilios": [
+      "Licuadora o procesador",
+      "Bowl grande",
+      "Cuchillo y tabla de picar",
+      "Espátula",
+      "Sartén o plancha antiadherente"
+    ],
+    "pasos": [
+      { "texto": "Licúa la remolacha cocida con ½ taza de agua tibia hasta obtener un puré.", "imagen": null },
+      { "texto": "Mezcla la harina PAN con sal y agrega el puré poco a poco.", "imagen": null },
+      { "texto": "Añade el aceite y amasa hasta lograr textura suave y moldeable.", "imagen": null },
+      { "texto": "Forma 6 arepas y cocina 5–6 minutos por lado hasta dorar.", "imagen": null },
+      { "texto": "Saltea cebolla y pimentón, agrega pollo y yogur para el relleno.", "imagen": null },
+      { "texto": "Abre las arepas y rellénalas con la mezcla de pollo.", "imagen": null }
+    ],
+    "imagen": "img/facil/arepa-de-remolacha-rellena.png"
+  },
+
+  "flautas-de-pollo-y-queso": {
+    "titulo": "Flautas de Pollo y Queso",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "6 tortillas pequeñas de maíz o integral",
+      "1 taza de pollo desmenuzado cocido",
+      "½ taza de queso mozzarella rallado",
+      "2 cdas. de cebolla picada",
+      "1 diente de ajo picado",
+      "1 cdta. de aceite de oliva",
+      "Sal, pimienta y orégano al gusto",
+      "2 cdas. de yogur griego o crema ligera (opcional)",
+      "Aceite en spray o 1 cda. de aceite para dorar"
+    ],
+    "utensilios": [
+      "Sartén mediana",
+      "Bowl pequeño",
+      "Cuchillo y tabla de picar",
+      "Cuchara o espátula",
+      "Horno o airfryer",
+      "Papel parafinado o tapete de silicona"
+    ],
+    "pasos": [
+      { "texto": "Sofríe cebolla y ajo en aceite 2–3 minutos.", "imagen": null },
+      { "texto": "Agrega el pollo, sal, pimienta y orégano, cocina 3–4 minutos más.", "imagen": null },
+      { "texto": "Mezcla con queso rallado y yogur si deseas textura cremosa.", "imagen": null },
+      { "texto": "Rellena las tortillas y enróllalas firmemente.", "imagen": null },
+      { "texto": "Hornéalas a 200 °C por 15–20 minutos o en airfryer a 190 °C por 10–12 minutos.", "imagen": null },
+      { "texto": "Sirve doradas y crujientes con tu salsa preferida.", "imagen": null }
+    ],
+    "imagen": "img/facil/flautas-de-pollo-y-queso.png"
+  },
+
+  "tacos-de-zanahoria": {
+    "titulo": "Tacos de Zanahoria",
+    "dificultad": "Fácil",
+    "duracion": "35-40min",
+    "materiales": [
+      "2 zanahorias medianas ralladas",
+      "2 huevos",
+      "½ cdta. de sal",
+      "1 cda. de queso rallado o linaza (opcional)",
+      "250 g de posta o sobrebarriga de res",
+      "½ cebolla blanca",
+      "1 diente de ajo",
+      "1 hoja de laurel",
+      "½ cebolla, ½ pimentón y 1 ajo (picados)",
+      "1 cdta. de aceite de oliva",
+      "2 cdas. de puré de tomate",
+      "Sal, pimienta y comino al gusto",
+      "1 cda. de yogur griego o crema ligera (opcional)",
+      "Guacamole, cilantro y limón para acompañar"
+    ],
+    "utensilios": [
+      "Rallador o procesador",
+      "Olla pequeña",
+      "Sartén antiadherente",
+      "Bowl mediano",
+      "Paño limpio",
+      "Cuchillo, tabla y espátula"
+    ],
+    "pasos": [
+      { "texto": "Cocina la carne con cebolla, ajo, laurel y sal por 40–50 minutos, desmecha y reserva.", "imagen": null },
+      { "texto": "Sofríe cebolla, pimentón y ajo; agrega la carne y puré de tomate, cocina 5 minutos.", "imagen": null },
+      { "texto": "Saltea zanahoria rallada 3 minutos, exprime el agua y mézclala con huevos, sal y queso.", "imagen": null },
+      { "texto": "Cocina porciones 2–3 minutos por lado para formar las tortillas de zanahoria.", "imagen": null },
+      { "texto": "Rellena con la carne, añade guacamole, cilantro y limón.", "imagen": null }
+    ],
+    "imagen": "img/facil/tacos-de-zanahoria.png"
+  },
+
+  "sushi-keto-de-pepino": {
+    "titulo": "Sushi Keto de Pepino",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 pepino grande",
+      "80 g de salmón ahumado o atún en agua",
+      "½ aguacate en tiras",
+      "2 cdas. de queso crema light o yogur griego",
+      "1 cda. de ajonjolí tostado (opcional)",
+      "Sal, pimienta y jugo de limón al gusto",
+      "Hojas de alga nori (opcional)"
+    ],
+    "utensilios": [
+      "Cuchillo afilado",
+      "Tabla de picar",
+      "Pelador o mandolina",
+      "Bowl pequeño",
+      "Papel absorbente",
+      "Palillos o pinzas"
+    ],
+    "pasos": [
+      { "texto": "Corta láminas finas de pepino con pelador o mandolina y sécalas con papel.", "imagen": null },
+      { "texto": "Mezcla el pescado con queso crema, sal, pimienta y limón.", "imagen": null },
+      { "texto": "Coloca el relleno sobre las láminas y añade una tira de aguacate.", "imagen": null },
+      { "texto": "Enrolla con cuidado y asegura con alga o palillo.", "imagen": null },
+      { "texto": "Espolvorea ajonjolí y acompaña con salsa de soya baja en sodio o salsa de yogur.", "imagen": null }
+    ],
+    "imagen": "img/facil/sushi-keto-de-pepino.png"
+  },
+
+  "pinchos-de-pollo-con-salsa-de-ajo-y-parmesano": {
+    "titulo": "Pinchos de Pollo con Salsa de Ajo y Queso Parmesano",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "400 g de pechuga de pollo en cubos",
+      "1 cda. de aceite de oliva",
+      "½ cdta. de sal",
+      "½ cdta. de pimienta",
+      "½ cdta. de paprika o pimentón dulce",
+      "1 cdta. de ajo en polvo o 1 ajo picado",
+      "2 cdas. de queso parmesano rallado",
+      "3 cdas. de yogur griego",
+      "1 diente de ajo machacado",
+      "1 cdta. de jugo de limón",
+      "1 cdta. de perejil fresco picado"
+    ],
+    "utensilios": [
+      "Cuchillo y tabla de picar",
+      "Pinchos de madera o metal",
+      "Sartén o parrilla",
+      "Bowl pequeño",
+      "Cuchara o pinzas"
+    ],
+    "pasos": [
+      { "texto": "Marina los cubos de pollo con aceite, sal, pimienta, paprika y ajo por 10 minutos.", "imagen": null },
+      { "texto": "Inserta en los pinchos y cocina 10–12 minutos, girando ocasionalmente.", "imagen": null },
+      { "texto": "Mezcla yogur, ajo, limón, parmesano y perejil para la salsa.", "imagen": null },
+      { "texto": "Sirve los pinchos con la salsa encima o aparte.", "imagen": null },
+      { "texto": "Espolvorea parmesano adicional si deseas.", "imagen": null }
+    ],
+    "imagen": "img/facil/pinchos-de-pollo-con-salsa-de-ajo-y-parmesano.png"
+  }
 }
-}
+
+
+
+
+
 
