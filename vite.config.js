@@ -2,15 +2,11 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
+  base: './', // 🔥 esto es crucial para que las rutas funcionen en producción (Vercel)
+  build: {
+    outDir: 'dist', // carpeta que Vercel va a servir
+  },
   server: {
     port: 3000,
-    strictPort: true,
-    allowedHosts: [
-      'localhost',
-      'e47c1ee6d55a.ngrok-free.app', // permite cualquier subdominio de ngrok
-    ],
-    hmr: {
-      protocol: 'wss', // importante si usas ngrok HTTPS
-    }
-  }
+  },
 })

@@ -399,13 +399,341 @@
       }
     ],
     "imagen": "img/dulces/Tanoshi cupbar.PNG"
+  },
+  
+  "masmello-de-fresa": {
+    "titulo": "Masmello de Fresa",
+    "dificultad": "Fácil",
+    "duracion": "30min (incluye refrigeración)",
+    "materiales": [
+      "500ml de leche",
+      "2 sobres de gelatina de fresa sin azúcar (o tu sabor favorito)"
+    ],
+    "utensilios": [
+      "Bowl (recipiente)",
+      "Cuchara",
+      "Molde (cupcakes)",
+      "Gramera (opcional)",
+      "Microondas",
+      "Refrigerador"
+    ],
+    "pasos": [
+      { "texto": "Lleva a punto de ebullición la mitad de la leche y agrégale ambos sobres de gelatina.", "imagen": null },
+      { "texto": "Mezcla hasta que la gelatina se haya disuelto por completo.", "imagen": null },
+      { "texto": "Vierte la mezcla en un recipiente apto para batidora y añade la otra mitad de la leche fría.", "imagen": null },
+      { "texto": "Bate hasta que notes un cambio de textura a cremosa.", "imagen": null },
+      { "texto": "Coloca la mezcla en un recipiente que puedas meter a la nevera.", "imagen": null },
+      { "texto": "Deja cuajar durante 3 horas.", "imagen": null },
+      { "texto": "Parte en cubos y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/dulces/masmellos.png"
+  },
+
+  "barritas-de-arroz-con-chocolate-y-moras": {
+    "titulo": "Barritas de Arroz con Chocolate y Moras",
+    "dificultad": "Fácil",
+    "duracion": "50min (incluye refrigeración)",
+    "materiales": [
+      "1 paquete de tostadas de arroz",
+      "Yogur griego de tu preferencia",
+      "1 banano muy maduro",
+      "1 cucharada de mantequilla de almendras",
+      "1 cucharadita de coco rallado",
+      "50g de moras",
+      "Endulzante o miel de tu preferencia",
+      "Chocolate amargo derretido"
+    ],
+    "utensilios": [
+      "Cuchara",
+      "Tabla para picar",
+      "Refrigerador",
+      "Espátula de madera",
+      "Bowl grande",
+      "Molde",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "En un bowl tritura las tostadas de arroz y agrega el yogur, el banano, la mantequilla de almendras y mezcla bien.", "imagen": null },
+      { "texto": "Pasa la mezcla a un molde, aplánala en el fondo y llévala al refrigerador por 15 minutos.", "imagen": null },
+      { "texto": "En una sartén pon las moras y el endulzante, mezcla durante 10 minutos para crear una mermelada casera.", "imagen": null },
+      { "texto": "Agrega sobre la mezcla de arroz una capa de mermelada y luego una capa de chocolate amargo derretido.", "imagen": null },
+      { "texto": "Decora con coco rallado y refrigera por 15 minutos más.", "imagen": null },
+      { "texto": "Desmolda, corta en barritas y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/dulces/Barritas de arroz con chocolate y moras.png"
+  },
+
+  "cinnamon-rolls-fit": {
+    "titulo": "Cinnamon Rolls Fit",
+    "dificultad": "Medio",
+    "duracion": "35–40min",
+    "materiales": [
+      "1 taza de harina de avena",
+      "½ taza de yogur griego natural o vegetal sin azúcar",
+      "4 cdas. de miel o sirope natural",
+      "½ cdta. de bicarbonato de sodio",
+      "1 cdta. de jugo de limón o vinagre de manzana",
+      "2 cdta. de esencia de vainilla",
+      "1 pizca de sal",
+      "½ cda. de canela en polvo",
+      "1 cda. de aceite de coco derretido",
+      "2 cdas. de yogur griego para el glaseado"
+    ],
+    "utensilios": [
+      "Horno o sartén con tapa",
+      "Recipiente mediano",
+      "Cuchara",
+      "Rodillo",
+      "Cuchillo",
+      "Espátula",
+      "Frasco para el glaseado"
+    ],
+    "pasos": [
+      { "texto": "Mezcla harina, bicarbonato y sal. Agrega yogur, miel, limón y vainilla hasta formar una masa suave.", "imagen": null },
+      { "texto": "Estira la masa sobre una superficie con un poco de harina hasta formar un rectángulo.", "imagen": null },
+      { "texto": "Unta una mezcla de canela, endulzante y aceite de coco sobre la masa.", "imagen": null },
+      { "texto": "Enrolla la masa y corta en rollitos de 2–3 cm.", "imagen": null },
+      { "texto": "Cocina en horno a 180 °C por 20–25 minutos o en sartén con tapa 10–12 minutos por lado.", "imagen": null },
+      { "texto": "Agrega el glaseado cuando los rollitos estén tibios.", "imagen": null }
+    ],
+    "imagen": "img/dulces/cinnamon rolls.png"
+  },
+
+  "granola-cups": {
+    "titulo": "Granola Cups",
+    "dificultad": "Fácil",
+    "duracion": "25–30min",
+    "materiales": [
+      "½ taza de avena en hojuelas",
+      "¼ taza de miel",
+      "2 cdas. de aceite de coco derretido o mantequilla de maní/almendra",
+      "1 cdta. de esencia de vainilla",
+      "1 pizca de sal",
+      "2 cdas. de semillas o nueces picadas (opcional)",
+      "½ taza de yogur griego natural o vegetal",
+      "Frutas frescas (fresas, arándanos, banano, kiwi, mango, etc.)"
+    ],
+    "utensilios": [
+      "Recipiente grande",
+      "Horno o refrigerador",
+      "Cuchara",
+      "Molde para muffins (de silicona o metal)",
+      "Cuchillo pequeño",
+      "Tabla para cortar",
+      "Espátula"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 180 °C o prepara el refrigerador si usarás la versión sin horno.", "imagen": null },
+      { "texto": "Mezcla avena, miel, aceite, vainilla, sal y semillas hasta formar una mezcla pegajosa.", "imagen": null },
+      { "texto": "Coloca 1–2 cucharadas en moldes de muffins presionando bien al fondo y bordes.", "imagen": null },
+      { "texto": "Hornea 10–12 minutos o refrigera por 2–3 horas hasta que estén firmes.", "imagen": null },
+      { "texto": "Deja enfriar completamente y rellena con yogur.", "imagen": null },
+      { "texto": "Decora con frutas frescas y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/dulces/granola cups.png"
+  },
+
+  "fresas-con-crema-fit": {
+    "titulo": "Fresas con Crema Fit",
+    "dificultad": "Fácil",
+    "duracion": "10–15min",
+    "materiales": [
+      "1 taza de fresas frescas (lavadas y cortadas en mitades)",
+      "½ taza de yogur griego natural sin azúcar o vegetal",
+      "1 cdta. de miel o stevia al gusto",
+      "1 cdta. de esencia natural de vainilla (opcional)",
+      "1 cda. de semillas de chía o linaza molida (opcional)",
+      "1 cdta. de ralladura de limón (opcional)"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para picar",
+      "Tazón para mezclar",
+      "Cuchara",
+      "Copas o vasos para servir"
+    ],
+    "pasos": [
+      { "texto": "Lava y corta las fresas en mitades o cuartos.", "imagen": null },
+      { "texto": "Mezcla el yogur con miel y vainilla hasta obtener una crema suave.", "imagen": null },
+      { "texto": "Coloca capas de fresas y crema de yogur en copas o vasos.", "imagen": null },
+      { "texto": "Agrega semillas de chía y ralladura de limón encima.", "imagen": null },
+      { "texto": "Refrigera unos minutos antes de servir.", "imagen": null },
+      { "texto": "Puedes añadir granola sin azúcar para dar textura crujiente (opcional).", "imagen": null }
+    ],
+    "imagen": "img/dulces/fresas con crema.png"
+  },
+  
+  "helado-de-mango-y-banano-cremoso": {
+    "titulo": "Helado de Mango y Banano (Cremoso)",
+    "dificultad": "Fácil",
+    "duracion": "10min + 3 horas de congelación",
+    "materiales": [
+      "1 mango maduro",
+      "1 banano congelado",
+      "½ taza de leche vegetal (almendra, coco o avena)",
+      "Miel al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para picar",
+      "Tazón para mezclar",
+      "Cuchara",
+      "Copas o vasos para servir"
+    ],
+    "pasos": [
+      { "texto": "Corta el mango y el banano.", "imagen": null },
+      { "texto": "Licúa con la leche hasta obtener una mezcla cremosa.", "imagen": null },
+      { "texto": "Vierte en moldes o recipientes y congela por 2–3 horas.", "imagen": null }
+    ],
+    "imagen": "img/dulces/helado de mango y banano.png"
+  },
+
+  "helado-de-fresa-y-yogur": {
+    "titulo": "Helado de Fresa y Yogur",
+    "dificultad": "Fácil",
+    "duracion": "10min + 3 horas de congelación",
+    "materiales": [
+      "1 taza de fresas",
+      "½ taza de yogur griego natural",
+      "1 cdta. de miel o sirope natural"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Tabla",
+      "Moldes o recipiente"
+    ],
+    "pasos": [
+      { "texto": "Lava y corta las fresas a la mitad.", "imagen": null },
+      { "texto": "Licúa las fresas con el yogur y la miel.", "imagen": null },
+      { "texto": "Vierte en moldes o recipiente y congela por 2–3 horas.", "imagen": null }
+    ],
+    "imagen": "img/dulces/helado de fresa (1).png"
+  },
+
+  "helado-de-chocolate-saludable": {
+    "titulo": "Helado de Chocolate Saludable",
+    "dificultad": "Fácil",
+    "duracion": "10min + 3 horas de congelación",
+    "materiales": [
+      "2 bananos congelados",
+      "1 cdta. de cacao puro",
+      "1 cdta. de mantequilla de almendra o maní",
+      "½ cdta. de esencia de vainilla"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Tabla",
+      "Moldes o recipiente"
+    ],
+    "pasos": [
+      { "texto": "Licúa todos los ingredientes hasta obtener una textura cremosa.", "imagen": null },
+      { "texto": "Vierte en moldes o recipiente y congela por 2–3 horas.", "imagen": null }
+    ],
+    "imagen": "img/dulces/helado de chocolate.png"
+  },
+
+  "helado-de-coco-y-pina": {
+    "titulo": "Helado de Coco y Piña (Tipo Piña Colada)",
+    "dificultad": "Fácil",
+    "duracion": "10min + 3 horas de congelación",
+    "materiales": [
+      "1 taza de piña congelada",
+      "½ taza de leche de coco",
+      "1 cdta. de miel o sirope natural",
+      "Coco rallado para decorar"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Tabla",
+      "Moldes o recipiente"
+    ],
+    "pasos": [
+      { "texto": "Corta la piña en pedazos pequeños.", "imagen": null },
+      { "texto": "Licúa la piña con la leche de coco y la miel hasta obtener una textura cremosa.", "imagen": null },
+      { "texto": "Vierte en moldes o recipiente y congela por 2–3 horas.", "imagen": null },
+      { "texto": "Sirve con coco rallado encima.", "imagen": null }
+    ],
+    "imagen": "img/dulces/helado de piña.png"
+  },
+
+  "helado-de-frutos-rojos": {
+    "titulo": "Helado de Frutos Rojos",
+    "dificultad": "Fácil",
+    "duracion": "10min + 3 horas de congelación",
+    "materiales": [
+      "1 taza de frutos rojos (fresas, moras, arándanos)",
+      "1 banano congelado",
+      "½ taza de leche vegetal o yogur",
+      "1 cdta. de miel o sirope natural (opcional)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Tabla",
+      "Moldes o recipiente"
+    ],
+    "pasos": [
+      { "texto": "Lava y corta las frutas.", "imagen": null },
+      { "texto": "Licúa todos los ingredientes hasta lograr una textura cremosa.", "imagen": null },
+      { "texto": "Vierte en moldes o recipiente y congela por 2–3 horas.", "imagen": null }
+    ],
+    "imagen": "img/dulces/helado de frutos rojos.png"
+  },
+
+  "helado-de-vainilla": {
+    "titulo": "Helado de Vainilla",
+    "dificultad": "Fácil",
+    "duracion": "5min + 3 horas de congelación",
+    "materiales": [
+      "2 bananos congelados",
+      "½ taza de yogur griego natural o vegetal",
+      "1 cdta. de esencia de vainilla",
+      "1 cdta. de miel o stevia (opcional)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Tabla",
+      "Moldes o recipiente"
+    ],
+    "pasos": [
+      { "texto": "Corta los bananos.", "imagen": null },
+      { "texto": "Licúa todos los ingredientes hasta obtener una mezcla cremosa.", "imagen": null },
+      { "texto": "Vierte en moldes o recipiente y congela por 2–3 horas.", "imagen": null }
+    ],
+    "imagen": "img/facil/helado-de-vainilla.png"
+  },
+  
+  "sandwich-helado": {
+    "titulo": "Sándwich Helado",
+    "dificultad": "Fácil",
+    "duracion": "10min de elaboración + 4h 30min de congelación",
+    "materiales": [
+      "Galletas dulces sin sellos de tu preferencia",
+      "Yogur griego",
+      "Almendras (laminadas o en trozos)",
+      "Endulzante de tu preferencia",
+      "Chocolate al porcentaje de tu preferencia"
+    ],
+    "utensilios": [
+      "Bowl o recipiente",
+      "Cuchara",
+      "Molde",
+      "Congelador"
+    ],
+    "pasos": [
+      { "texto": "En un bowl, mezcla el yogur griego con el endulzante según tu gusto.", "imagen": null },
+      { "texto": "Tritura un poco del chocolate y añádelo al yogur.", "imagen": null },
+      { "texto": "En un molde, coloca una capa de galleta, luego una de la mezcla de yogur y termina con otra de galleta.", "imagen": null },
+      { "texto": "Congela por al menos 4 horas.", "imagen": null },
+      { "texto": "Derrite el chocolate y mézclalo con las almendras.", "imagen": null },
+      { "texto": "Retira el molde del congelador, corta en rectángulos y baña medio sándwich en el chocolate con almendras.", "imagen": null },
+      { "texto": "Congela nuevamente por 30 minutos y disfruta. Puedes conservarlos hasta una semana.", "imagen": null }
+    ],
+    "imagen": "img/dulces/sandwich helado.png"
   }
 }
-
-
-
-
-
-
-
 

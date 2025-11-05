@@ -417,36 +417,7 @@
       { "texto": "Sirve fresca y acompaña con tortillas integrales si deseas.", "imagen": null }
     ],
     "imagen": "img/liviano/Ensalada mexicana.png"
-  },
-
-  "tortilla-espinaca-queso": {
-    "titulo": "Tortilla de Espinaca y Queso",
-    "dificultad": "Fácil",
-    "duracion": "10min",
-    "materiales": [
-      "2 huevos",
-      "1 taza de espinacas picadas",
-      "1 cucharadita de aceite de oliva",
-      "Queso rallado (de tu preferencia)",
-      "Sal y pimienta al gusto"
-    ],
-    "utensilios": [
-      "Sartén antiadherente",
-      "Bowl",
-      "Tenedor o batidor",
-      "Espátula",
-      "Rallador"
-    ],
-    "pasos": [
-      { "texto": "Lava y pica la espinaca, y ralla el queso.", "imagen": null },
-      { "texto": "Bate los huevos con sal y pimienta hasta que estén homogéneos.", "imagen": null },
-      { "texto": "Calienta el aceite y saltea la espinaca 1 minuto hasta que se ablande.", "imagen": null },
-      { "texto": "Añade los huevos batidos sobre la espinaca, espolvorea el queso y cocina a fuego medio-bajo 2–3 minutos.", "imagen": null },
-      { "texto": "Dobla o voltea la tortilla y cocina 30–60 segundos más. Sirve caliente.", "imagen": null }
-    ],
-    "imagen": "img/facil/tortilla-espinaca-queso.png"
-  },
-  
+  },  
   "cobijitas-jamon": {
     "titulo": "Cobijitas de Jamón",
     "dificultad": "Fácil",
@@ -470,7 +441,7 @@
       { "texto": "Coloca las cobijitas en la Airfryer con los dobleces hacia abajo. Puedes agregar queso encima.", "imagen": null },
       { "texto": "Cocina durante 8 minutos a 200°C. Retira, emplata y disfruta.", "imagen": null }
     ],
-    "imagen": "img/facil/cobijitas-jamon.png"
+    "imagen": "img/liviano/Cobijitas de jamón .JPG"
   },
 
   "sopita-tipo-ramen": {
@@ -505,7 +476,7 @@
       { "texto": "Añade los fideos instantáneos y tapa por 5 minutos.", "imagen": null },
       { "texto": "Agrega la leche, los huevos partidos y el jamón o tocineta cocido. Decora con ajonjolí y disfruta.", "imagen": null }
     ],
-    "imagen": "img/medio/sopita-tipo-ramen.png"
+    "imagen": "img/liviano/Sopa tipo ramen .JPG"
   },
 
   "croquetas-atun-crocantes": {
@@ -535,7 +506,7 @@
       { "texto": "Forma bolitas con la mezcla de atún, pásalas por el huevo y luego por las hojuelas trituradas.", "imagen": null },
       { "texto": "Cocina en la Airfryer 10 minutos a 200°C. Prepara la salsa mezclando yogur, limón, aceite, ajo y perejil. Sirve y disfruta.", "imagen": null }
     ],
-    "imagen": "img/facil/croquetas-atun-crocantes.png"
+    "imagen": "img/liviano/Croquetas de atún.JPG"
   },
 
   "salmon-horno-papas-esparragos": {
@@ -565,7 +536,7 @@
       { "texto": "Agrega los espárragos y coloca el salmón sobre las papas. Hornea 12–15 minutos más.", "imagen": null },
       { "texto": "Retira del horno, añade más limón y sirve caliente.", "imagen": null }
     ],
-    "imagen": "img/medio/salmon-horno-papas-esparragos.png"
+    "imagen": "img/liviano/Salmón al horno.JPG"
   },
 
   "arepa-yuca-rellena": {
@@ -594,7 +565,7 @@
       { "texto": "Forma porciones, aplánalas, rellena y sella los bordes.", "imagen": null },
       { "texto": "Cocina las arepas a fuego medio por 5–6 minutos por cada lado hasta dorar. Sirve caliente.", "imagen": null }
     ],
-    "imagen": "img/facil/arepa-yuca-rellena.png"
+    "imagen": "img/liviano/Arepa de yuca rellena .JPG"
   },
 
   "lasana-sanduche": {
@@ -620,7 +591,7 @@
       { "texto": "Añade bechamel y queso encima, y deja 2 minutos más en la Airfryer.", "imagen": null },
       { "texto": "Retira, sirve y disfruta caliente.", "imagen": null }
     ],
-    "imagen": "img/facil/lasana-sanduche.png"
+    "imagen": "img/liviano/Sanduche lasaña.JPG"
   },
   
   "wrap-integral-huevo-aguacate": {
@@ -647,7 +618,7 @@
       { "texto": "Coloca la lechuga, el huevo, el aguacate y una cucharadita de yogur o mostaza. Añade sal y pimienta.", "imagen": null },
       { "texto": "Enrolla el wrap apretando y corta por la mitad.", "imagen": null }
     ],
-    "imagen": "img/facil/wrap-integral-huevo-aguacate.png"
+    "imagen": "img/liviano/Wrap integral de huevo y aguacate .JPG"
   },
 
   "tortitas-zanahoria": {
@@ -677,7 +648,7 @@
       { "texto": "Coloca una bolita de burrata sobre cada tortita y tapa por 2 minutos.", "imagen": null },
       { "texto": "Decora con tomates cherry y disfruta.", "imagen": null }
     ],
-    "imagen": "img/facil/tortitas-zanahoria.png"
+    "imagen": "img/liviano/Tortitas de zanahoria con queso búfala .JPG"
   },
 
   "canastas-papa-rellenas": {
@@ -710,9 +681,43 @@
       { "texto": "Rellena las papas con la carne y hornea 10 minutos a 200°C.", "imagen": null },
       { "texto": "Opcional: añade queso encima al servir.", "imagen": null }
     ],
-    "imagen": "img/facil/canastas-papa-rellenas.png"
+    "imagen": "img/liviano/Canastas de papa .JPG"
   },
 
+  "pasta-de-brocoli": {
+  "titulo": "Pasta de Brócoli",
+  "dificultad": "Fácil",
+  "duracion": "20min",
+  "materiales": [
+    "500 g de brócoli cocido",
+    "½ taza de harina de trigo o almidón de papa",
+    "¼ de cebolla",
+    "2 cabezas de ajo",
+    "½ taza de tomates cherry",
+    "½ taza de yogur griego o queso crema",
+    "Sal y pimienta al gusto",
+    "Aceite de oliva"
+  ],
+  "utensilios": [
+    "Cuchillo",
+    "Tabla de picar",
+    "Sartén",
+    "Procesadora",
+    "Olla"
+  ],
+  "pasos": [
+    { "texto": "En la procesadora añade el brócoli, un chorrito de aceite, los condimentos y la harina. Procesa hasta obtener una masa homogénea.", "imagen": null },
+    { "texto": "Coloca a hervir agua con sal en una olla.", "imagen": null },
+    { "texto": "Con las manos forma cilindros con la masa y corta con tijeras en forma similar a los ñoquis. Agrega al agua hirviendo.", "imagen": null },
+    { "texto": "Deja hervir hasta que floten, luego retira.", "imagen": null },
+    { "texto": "En una sartén, calienta 2 cucharadas de aceite de oliva y sofríe la cebolla y el ajo picados en cubitos.", "imagen": null },
+    { "texto": "Cuando la cebolla esté transparente, añade los tomates cherry partidos a la mitad y cocina hasta que estén blandos.", "imagen": null },
+    { "texto": "Agrega el yogur griego, mezcla y condimenta al gusto.", "imagen": null },
+    { "texto": "Incorpora la pasta con un poco del agua de cocción y mezcla bien.", "imagen": null },
+    { "texto": "Cocina durante 5 minutos con tapa, emplata y disfruta.", "imagen": null }
+  ],
+  "imagen": "img/liviano/Pastas brócoli.JPG"
+  },
   "nuggets-lentejas-horno": {
     "titulo": "Nuggets de Lentejas al Horno",
     "dificultad": "Fácil",
@@ -743,7 +748,7 @@
       { "texto": "Hornea 18–25 min, volteando a mitad de cocción.", "imagen": null },
       { "texto": "Sirve acompañadas de ensalada o tu salsa favorita.", "imagen": null }
     ],
-    "imagen": "img/facil/nuggets-lentejas-horno.png"
+    "imagen": "img/liviano/Nuggets de lentejas.JPG"
   },
 
   "sopa-tomate-albahaca": {
@@ -776,7 +781,7 @@
       { "texto": "Devuelve a la olla, añade crema o yogur, sal, pimienta y albahaca. Calienta sin hervir.", "imagen": null },
       { "texto": "Sirve con una hoja de albahaca y un chorrito de aceite.", "imagen": null }
     ],
-    "imagen": "img/facil/sopa-tomate-albahaca.png"
+    "imagen": "img/liviano/Sopa de tomate.JPG"
   },
   "nuggets-de-garbanzos": {
     "titulo": "Nuggets de Garbanzos",
@@ -809,7 +814,7 @@
       { "texto": "En horno o airfryer: cocina a 200 °C durante 15–20 minutos, volteando a mitad del tiempo.", "imagen": null },
       { "texto": "Sirve con salsa de yogur, mostaza y miel o guacamole.", "imagen": null }
     ],
-    "imagen": "img/facil/nuggets-de-garbanzos.png"
+    "imagen": "img/liviano/Nuggets de garbanzos.JPG"
   },
 
   "sopa-de-lentejas-ligera": {
@@ -843,7 +848,7 @@
       { "texto": "Si prefieres textura cremosa, tritura parcialmente con licuadora.", "imagen": null },
       { "texto": "Sirve caliente y decora con cilantro o perejil fresco.", "imagen": null }
     ],
-    "imagen": "img/facil/sopa-de-lentejas-ligera.png"
+    "imagen": "img/liviano/Lentejas.JPG"
   },
 
   "arepa-de-remolacha-rellena": {
@@ -875,7 +880,7 @@
       { "texto": "Saltea cebolla y pimentón, agrega pollo y yogur para el relleno.", "imagen": null },
       { "texto": "Abre las arepas y rellénalas con la mezcla de pollo.", "imagen": null }
     ],
-    "imagen": "img/facil/arepa-de-remolacha-rellena.png"
+    "imagen": "img/liviano/Arepa de remolacha .JPG"
   },
 
   "flautas-de-pollo-y-queso": {
@@ -909,7 +914,7 @@
       { "texto": "Hornéalas a 200 °C por 15–20 minutos o en airfryer a 190 °C por 10–12 minutos.", "imagen": null },
       { "texto": "Sirve doradas y crujientes con tu salsa preferida.", "imagen": null }
     ],
-    "imagen": "img/facil/flautas-de-pollo-y-queso.png"
+    "imagen": "img/liviano/Flautas de pollo y queso.JPG"
   },
 
   "tacos-de-zanahoria": {
@@ -947,7 +952,7 @@
       { "texto": "Cocina porciones 2–3 minutos por lado para formar las tortillas de zanahoria.", "imagen": null },
       { "texto": "Rellena con la carne, añade guacamole, cilantro y limón.", "imagen": null }
     ],
-    "imagen": "img/facil/tacos-de-zanahoria.png"
+    "imagen": "img/liviano/Tacos de zanahoria .JPG"
   },
 
   "sushi-keto-de-pepino": {
@@ -978,7 +983,7 @@
       { "texto": "Enrolla con cuidado y asegura con alga o palillo.", "imagen": null },
       { "texto": "Espolvorea ajonjolí y acompaña con salsa de soya baja en sodio o salsa de yogur.", "imagen": null }
     ],
-    "imagen": "img/facil/sushi-keto-de-pepino.png"
+    "imagen": "img/liviano/Sushi keto.JPG"
   },
 
   "pinchos-de-pollo-con-salsa-de-ajo-y-parmesano": {
@@ -1012,9 +1017,235 @@
       { "texto": "Sirve los pinchos con la salsa encima o aparte.", "imagen": null },
       { "texto": "Espolvorea parmesano adicional si deseas.", "imagen": null }
     ],
-    "imagen": "img/facil/pinchos-de-pollo-con-salsa-de-ajo-y-parmesano.png"
+    "imagen": "img/liviano/Pincho de pollo.JPG"
+  },
+  "tortillas-de-papa": {
+    "titulo": "Tortillas de Papa",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "350 g de papa",
+      "2 cucharadas de maicena",
+      "Sal y ajo en polvo al gusto",
+      "Queso para asar rallado",
+      "1 cucharadita de aceite de oliva"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Sartén",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Ralla las papas y el queso con ayuda de un rallador.", "imagen": null },
+      { "texto": "Condimenta la papa rallada con sal y ajo en polvo.", "imagen": null },
+      { "texto": "Calienta una sartén con una cucharadita de aceite de oliva.", "imagen": null },
+      { "texto": "Coloca la mezcla de papa y queso en tres porciones redondeadas y dora por ambos lados.", "imagen": null },
+      { "texto": "Acompaña con jamón, pollo desmenuzado o salchicha de pollo.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Tortillas de papa.JPG"
+  },
+
+  "pinchos-de-calabacin": {
+    "titulo": "Pinchos de Calabacín",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 calabacín cortado de forma horizontal",
+      "3 lonchas de queso",
+      "500 g de carne picada",
+      "½ cebolla morada",
+      "½ pimentón rojo",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Airfryer",
+      "Palos de chuzo"
+    ],
+    "pasos": [
+      { "texto": "Corta el calabacín en láminas horizontales de 1 cm de grosor.", "imagen": null },
+      { "texto": "Lleva las láminas a la Airfryer durante 5 minutos a 180 °C.", "imagen": null },
+      { "texto": "Mezcla la carne picada con la cebolla y el pimentón cortados en cubitos pequeños. Condimenta con sal y pimienta.", "imagen": null },
+      { "texto": "Sobre una tabla, coloca una lámina de calabacín, una de queso y una capa de carne. Repite el proceso.", "imagen": null },
+      { "texto": "Clava 4 palos de pincho, corta en porciones y lleva a la Airfryer durante 10 minutos.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Pinchos de calabacín .JPG"
+  },
+
+  "sanduches-de-pollo-gratinados": {
+    "titulo": "Sánduches de Pollo Gratinados",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "2 panes tipo sándwich integral o artesanal",
+      "200 g de pechuga de pollo en filetes delgados o desmenuzada",
+      "½ taza de queso mozzarella o bajo en grasa rallado",
+      "2 cucharadas de yogur griego natural o crema de leche ligera",
+      "1 cucharada de mostaza dijon o tradicional",
+      "1 cucharada de cebolla finamente picada",
+      "1 diente de ajo picado",
+      "1 cucharada de aceite de oliva o de coco",
+      "1 tomate en rodajas",
+      "Hojas de espinaca o lechuga al gusto",
+      "Sal, pimienta y orégano al gusto"
+    ],
+    "utensilios": [
+      "Sartén o plancha",
+      "Cuchillo y tabla de picar",
+      "Cucharas y espátula",
+      "Bowl pequeño",
+      "Bandeja (si se gratinan en horno o airfryer)"
+    ],
+    "pasos": [
+      { "texto": "Corta la pechuga en cubos, sazona con sal, pimienta y ajo.", "imagen": null },
+      { "texto": "Cocina el pollo en una sartén con aceite hasta que esté dorado y bien cocido.", "imagen": null },
+      { "texto": "Agrega la cebolla y cocina 2 minutos más.", "imagen": null },
+      { "texto": "En un bowl, mezcla el pollo con el yogur, la mostaza y el orégano.", "imagen": null },
+      { "texto": "Coloca sobre una rebanada de pan una capa de espinaca, el relleno de pollo, tomate y queso.", "imagen": null },
+      { "texto": "Cubre con la otra rebanada y cocina en sartén 2–3 minutos por lado o gratina en horno/airfryer 5 minutos a 180 °C.", "imagen": null },
+      { "texto": "Corta por la mitad y acompaña con ensalada o papas al horno.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Sanduche gratinado .JPG"
+  },
+
+  "enchiladas-suizas": {
+    "titulo": "Enchiladas Suizas",
+    "dificultad": "Media",
+    "duracion": "40min",
+    "materiales": [
+      "2 pechugas de pollo cocidas y desmechadas",
+      "½ cebolla blanca picada",
+      "2 dientes de ajo picado",
+      "2 cucharadas de aceite de oliva",
+      "6 tomates verdes o tomatillos",
+      "1 taza de cilantro fresco",
+      "½ cebolla adicional",
+      "1 ají dulce o pimentón verde",
+      "3 cucharadas de yogur griego natural",
+      "Sal y pimienta al gusto",
+      "8 tortillas de maíz o integrales pequeñas",
+      "½ taza de queso mozzarella o bajo en grasa rallado"
+    ],
+    "utensilios": [
+      "Olla pequeña",
+      "Sartén o plancha",
+      "Licuadora",
+      "Cuchillo y tabla de picar",
+      "Fuente para horno o airfryer",
+      "Cucharón y espátula"
+    ],
+    "pasos": [
+      { "texto": "Cocina las pechugas en agua con sal por 15–20 minutos y desmenúzalas.", "imagen": null },
+      { "texto": "Sofríe la cebolla y el ajo en aceite por 2 minutos, añade el pollo y cocina 3 minutos más.", "imagen": null },
+      { "texto": "Hierve los tomates con cebolla y ajo por 5 minutos.", "imagen": null },
+      { "texto": "Licúa los tomates con cilantro, ají y yogur hasta obtener una salsa cremosa. Agrega sal y pimienta.", "imagen": null },
+      { "texto": "Calienta las tortillas, rellénalas con pollo, enrolla y colócalas en una fuente.", "imagen": null },
+      { "texto": "Cubre con salsa verde y queso. Hornea o lleva a airfryer 10 minutos a 180 °C.", "imagen": null },
+      { "texto": "Decora con cilantro fresco o rodajas de aguacate.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Enchiladas suizas.JPG"
+  },
+
+  "crispy-beef-tacos": {
+    "titulo": "Crispy Beef Tacos",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "300 g de carne molida magra de res",
+      "½ cebolla blanca picada",
+      "1 diente de ajo picado",
+      "½ pimentón rojo o verde picado",
+      "1 cucharada de aceite de oliva",
+      "½ cucharadita de comino en polvo",
+      "½ cucharadita de paprika o pimentón ahumado",
+      "Sal y pimienta al gusto",
+      "6 tortillas de maíz o integrales pequeñas",
+      "½ taza de queso mozzarella rallado",
+      "Lechuga picada, tomate en cubos y aguacate para servir",
+      "3 cucharadas de yogur griego natural",
+      "1 cucharadita de jugo de limón",
+      "1 pizca de sal y ajo en polvo"
+    ],
+    "utensilios": [
+      "Sartén grande o plancha",
+      "Espátula o cuchara de madera",
+      "Bowl mediano",
+      "Cuchillo y tabla de picar",
+      "Airfryer o bandeja para horno"
+    ],
+    "pasos": [
+      { "texto": "Sofríe la cebolla y el ajo en aceite durante 2 minutos.", "imagen": null },
+      { "texto": "Agrega la carne molida y cocina hasta que esté dorada y suelta.", "imagen": null },
+      { "texto": "Incorpora pimentón, comino, paprika, sal y pimienta. Cocina 5 minutos más.", "imagen": null },
+      { "texto": "Calienta las tortillas y rellénalas con carne y queso. Dóblalas a la mitad.", "imagen": null },
+      { "texto": "Cocina en airfryer 8–10 minutos a 180 °C o en sartén hasta que estén crujientes.", "imagen": null },
+      { "texto": "Acompaña con salsa de yogur, lechuga, tomate y aguacate.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Crispy beef tacos .JPG"
+  },
+
+  "mega-roll-de-jamon-y-queso": {
+    "titulo": "Mega Roll de Jamón y Queso",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "4 rebanadas grandes de pan tajado integral o blanco sin borde",
+      "4 lonchas de jamón",
+      "4 lonchas de queso mozzarella o bajo en grasa",
+      "2 cucharadas de queso rallado adicional",
+      "1 huevo batido",
+      "1 cucharada de mantequilla o aceite de oliva",
+      "Orégano y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Sartén grande con tapa",
+      "Cuchillo y tabla de picar",
+      "Rodillo o botella limpia",
+      "Brocha o pincel de cocina",
+      "Espátula"
+    ],
+    "pasos": [
+      { "texto": "Aplana las rebanadas de pan con un rodillo hasta que queden delgadas.", "imagen": null },
+      { "texto": "Forma una lámina larga uniendo los bordes con huevo batido.", "imagen": null },
+      { "texto": "Coloca jamón, queso y espolvorea orégano o ajo en polvo.", "imagen": null },
+      { "texto": "Enrolla formando un cilindro y sella los bordes con huevo.", "imagen": null },
+      { "texto": "Dora en sartén a fuego medio-bajo girando para cocinar todos los lados.", "imagen": null },
+      { "texto": "Agrega queso rallado por encima y gratina 2 minutos más.", "imagen": null },
+      { "texto": "Corta en rodajas y sirve con salsa de tomate o mezcla de yogur y mostaza.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Mega roll de jamón y queso.JPG"
+  },
+
+  "tortilla-de-espinaca-y-queso": {
+    "titulo": "Tortilla de Espinaca y Queso",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "2 huevos",
+      "1 taza de espinacas picadas",
+      "1 cucharadita de aceite de oliva",
+      "Queso rallado al gusto",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Sartén antiadherente",
+      "Bowl",
+      "Tenedor o batidor",
+      "Espátula",
+      "Rallador"
+    ],
+    "pasos": [
+      { "texto": "Lava y pica la espinaca, ralla el queso.", "imagen": null },
+      { "texto": "Bate los huevos con sal y pimienta hasta que estén homogéneos.", "imagen": null },
+      { "texto": "Saltea la espinaca en aceite 1 minuto para que se ablande.", "imagen": null },
+      { "texto": "Añade los huevos sobre la espinaca y espolvorea el queso encima.", "imagen": null },
+      { "texto": "Cocina 2–3 minutos hasta que los bordes estén firmes. Dobla o voltea con ayuda de un plato y cocina 1 minuto más.", "imagen": null },
+      { "texto": "Sirve caliente con pan o ensalada.", "imagen": null }
+    ],
+    "imagen": "img/liviano/Tortilla de espinaca y queso.JPG"
   }
 }
+
 
 
 

@@ -1,0 +1,1180 @@
+{
+  "miel-picante": {
+    "titulo": "Miel Picante",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "Miel",
+      "Especias picantes (chiles)",
+      "Salsa picante (tu favorita)",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Recipiente con tapa (preferiblemente de vidrio)",
+      "Cuchara para revolver"
+    ],
+    "pasos": [
+      { "texto": "En un sartén a fuego bajo añade miel, especias picantes, salsa picante y sal al gusto.", "imagen": null },
+      { "texto": "Revuelve bien y deja cocinar 5 minutos.", "imagen": null },
+      { "texto": "Envasa en tu recipiente y deja enfriar.", "imagen": null },
+      { "texto": "Disfruta acompañando tus comidas favoritas.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/mielpicante.png"
+  },
+
+  "chips-de-zanahoria": {
+    "titulo": "Chips de Zanahoria",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 zanahoria",
+      "1 cda. de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Pelador",
+      "Recipiente resistente al calor",
+      "Air Fryer"
+    ],
+    "pasos": [
+      { "texto": "Lava y pela la zanahoria.", "imagen": null },
+      { "texto": "Con ayuda del pelador, saca láminas delgadas de zanahoria.", "imagen": null },
+      { "texto": "Coloca las láminas en un recipiente, añade aceite y sal, y mezcla bien.", "imagen": null },
+      { "texto": "Lleva las láminas a la Air Fryer durante 20 minutos a 180°C, moviendo ocasionalmente.", "imagen": null },
+      { "texto": "Saca las más doradas y deja enfriar. ¡Disfruta!", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Zanahoria.png"
+  },
+
+  "mayonesa-proteica": {
+    "titulo": "Mayonesa Proteica",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "2 huevos",
+      "1 cdta. de sal",
+      "½ limón pequeño",
+      "5 cdas. de aceite",
+      "3 cdas. de agua"
+    ],
+    "utensilios": [
+      "Olla",
+      "Licuadora",
+      "Cuchara",
+      "Recipiente para reservar"
+    ],
+    "pasos": [
+      { "texto": "Cocer los huevos durante 10 minutos a fuego medio desde que el agua hierve.", "imagen": null },
+      { "texto": "Retira los huevos y deja enfriar. Pela y colócalos en la licuadora.", "imagen": null },
+      { "texto": "Agrega sal, limón, agua y aceite. Licúa hasta obtener una textura cremosa.", "imagen": null },
+      { "texto": "Si está muy espesa, añade un poco más de agua y mezcla.", "imagen": null },
+      { "texto": "Guarda en un recipiente y disfruta con tus comidas.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/proteica.png"
+  },
+
+  "tostadas-de-papa": {
+    "titulo": "Tostadas de Papa",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "2 papas",
+      "Queso rallado al gusto",
+      "Ghee o mantequilla",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Sanduchera o wafflera",
+      "Olla"
+    ],
+    "pasos": [
+      { "texto": "Coloca a hervir agua y, al alcanzar ebullición, añade las papas.", "imagen": null },
+      { "texto": "Cuando estén cocidas (al pinchar con tenedor sin resistencia), retíralas y escúrrelas.", "imagen": null },
+      { "texto": "Engrasa la sanduchera, coloca las papas y condimenta con sal y especias.", "imagen": null },
+      { "texto": "Añade queso rallado encima y cierra para aplastar ligeramente.", "imagen": null },
+      { "texto": "Retira cuando estén doradas y aprovecha el calor para añadir más queso. ¡Disfruta!", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/tostadas de papa.png"
+  },
+
+  "pesto": {
+    "titulo": "Pesto Casero",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "100g de hojas de albahaca fresca",
+      "Hielo",
+      "Queso parmesano",
+      "Fruto seco al gusto (nuez, maní, almendra, etc.)",
+      "1 diente de ajo",
+      "Aceite de oliva",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Bowl con agua y hielo",
+      "Licuadora",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "Lava y separa las hojas de albahaca.", "imagen": null },
+      { "texto": "Hierve agua, agrega la albahaca 1 minuto y pásala inmediatamente a agua con hielo.", "imagen": null },
+      { "texto": "Tuesta los frutos secos sin aceite hasta dorar.", "imagen": null },
+      { "texto": "Lleva a la licuadora la albahaca, los frutos secos, el ajo, el aceite y una pizca de sal.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla homogénea. Guarda y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/pesto.png"
+  },
+
+  "salsa-big-mac": {
+    "titulo": "Salsa Big Mac",
+    "dificultad": "Fácil",
+    "duracion": "5min",
+    "materiales": [
+      "2 cdas. de yogur griego",
+      "1 cda. de mayonesa",
+      "½ cdta. de mostaza",
+      "1 cdta. de cebolla en polvo",
+      "1 cdta. de vinagre de manzana",
+      "2 cdas. de pepinillos en vinagre picados",
+      "1 cda. de líquido de pepinillos",
+      "Miel al gusto"
+    ],
+    "utensilios": [
+      "Bowl con tapa",
+      "Procesadora o licuadora",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Agrega todos los ingredientes en la licuadora o procesadora.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla homogénea.", "imagen": null },
+      { "texto": "Sirve en un bowl con tapa y refrigera.", "imagen": null },
+      { "texto": "Disfruta con tus comidas favoritas.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/big mac.png"
+  },
+
+  "salsa-de-cilantro": {
+    "titulo": "Salsa de Cilantro",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "2 limones",
+      "4 dientes de ajo",
+      "1 taza de cilantro fresco",
+      "1 taza de yogur griego",
+      "1 cda. de sal"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchara",
+      "Recipiente para almacenar",
+      "Exprimidor"
+    ],
+    "pasos": [
+      { "texto": "Ralla la cáscara de los limones y exprímelos para obtener el jugo.", "imagen": null },
+      { "texto": "Agrega en la licuadora el yogur, cilantro, ajo, sal y jugo de limón.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla cremosa y homogénea.", "imagen": null },
+      { "texto": "Sirve en un recipiente y refrigera hasta usar.", "imagen": null },
+      { "texto": "Disfruta acompañando carnes, papas o ensaladas.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/salsa de cilantro.png"
+  },
+  
+  "masa-madre-para-pan": {
+    "titulo": "Masa Madre para Pan",
+    "dificultad": "Medio",
+    "duracion": "6 a 7 días (fermentación y alimentación)",
+    "materiales": [
+      "100 g de harina de trigo integral (1 taza)",
+      "100 ml de agua filtrada o hervida y fría (½ taza)",
+      "Harina y agua adicionales para las alimentaciones diarias"
+    ],
+    "utensilios": [
+      "Frasco de vidrio grande con tapa (rosca o hermética)",
+      "Cuchara o espátula de madera/plástico",
+      "Báscula de cocina o tazas medidoras",
+      "Paño limpio de cocina"
+    ],
+    "pasos": [
+      { "texto": "Día 1: Mezcla en un frasco 100 g de harina integral con 100 ml de agua hasta formar una pasta espesa y homogénea.", "imagen": null },
+      { "texto": "Cubre el frasco con tapa floja o paño y deja reposar a temperatura ambiente (20–25 °C).", "imagen": null },
+      { "texto": "Día 2: Abre el frasco, mezcla nuevamente y añade 50 g de harina y 50 ml de agua. Revuelve y cubre.", "imagen": null },
+      { "texto": "Días 3 a 5: Alimenta la masa madre cada día con 50 g de harina y 50 ml de agua. Mezcla, tapa y deja reposar.", "imagen": null },
+      { "texto": "A partir del día 3 notarás burbujas, olor ácido y aumento de volumen.", "imagen": null },
+      { "texto": "Día 6 o 7: Estará lista cuando duplique su volumen en 4–6 horas después de alimentarla y tenga aroma ácido agradable.", "imagen": null },
+      { "texto": "Guárdala en refrigerador si no la usarás a diario, alimentando al menos una vez por semana.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/masa madre.png"
+  },
+
+  "aros-de-cebolla": {
+    "titulo": "Aros de Cebolla",
+    "dificultad": "Fácil",
+    "duracion": "35-40min",
+    "materiales": [
+      "1 cebolla blanca",
+      "Harina de avena o de trigo",
+      "1–2 huevos",
+      "Tostadas molidas (al gusto)",
+      "Sal, pimienta y ajo al gusto"
+    ],
+    "utensilios": [
+      "3 bowls (recipientes)",
+      "Cuchara",
+      "Cuchillo",
+      "Tabla para picar",
+      "Freidora de aire"
+    ],
+    "pasos": [
+      { "texto": "Pela y enjuaga la cebolla, luego córtala en rodajas para formar los aros.", "imagen": null },
+      { "texto": "En un bowl, bate los huevos con sal, pimienta y ajo.", "imagen": null },
+      { "texto": "En otro bowl, mezcla la harina con las tostadas trituradas.", "imagen": null },
+      { "texto": "Pasa cada aro por el huevo y luego por la mezcla de harina y tostadas hasta cubrirlo completamente.", "imagen": null },
+      { "texto": "Lleva los aros a la freidora de aire a 180°C por 15 minutos o hasta dorar.", "imagen": null },
+      { "texto": "Sirve calientes y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Aros de cebolla (1). png"
+  },
+
+  "salsa-bechamel": {
+    "titulo": "Salsa Bechamel",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "60 g de mantequilla",
+      "45 g de harina de trigo",
+      "400 ml de leche (600 ml si no se usa crema de leche)",
+      "300 ml de crema de leche (opcional)",
+      "½ cebolla pequeña",
+      "Sal y pimienta al gusto",
+      "Nuez moscada al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Globo batidor",
+      "Licuadora"
+    ],
+    "pasos": [
+      { "texto": "Licúa la cebolla junto con el ajo hasta obtener un puré fino.", "imagen": null },
+      { "texto": "En una olla a fuego medio, derrite la mantequilla y añade el puré de cebolla.", "imagen": null },
+      { "texto": "Agrega la harina y mezcla constantemente hasta formar una pasta.", "imagen": null },
+      { "texto": "Vierte poco a poco la leche sin dejar de remover hasta obtener una mezcla suave.", "imagen": null },
+      { "texto": "Agrega la crema de leche, condimenta y cocina hasta espesar.", "imagen": null },
+      { "texto": "Añade nuez moscada rallada y mezcla antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa bechamel.png"
+  },
+
+  "caldo-de-pollo": {
+    "titulo": "Caldo de Pollo",
+    "dificultad": "Fácil",
+    "duracion": "40min",
+    "materiales": [
+      "Carcasa o huesos de pollo",
+      "2 alitas (opcional)",
+      "1 zanahoria",
+      "½ cebolla pequeña",
+      "Puerro o cebolla de tu preferencia",
+      "Sal y pimienta al gusto",
+      "Orégano (opcional)"
+    ],
+    "utensilios": [
+      "Olla grande",
+      "Horno o sartén para tostar",
+      "Cuchillo",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Tuesta los huesos y alitas en el horno o séllalos en una sartén.", "imagen": null },
+      { "texto": "Coloca todo en una olla con 3 litros de agua y hierve 45 minutos a fuego medio.", "imagen": null },
+      { "texto": "Aplasta los huesos, añade las verduras y condimentos, y cocina 30 minutos más.", "imagen": null },
+      { "texto": "Cuela el caldo y vuelve a hervir 15 minutos para reducirlo.", "imagen": null },
+      { "texto": "Deja enfriar, guarda en recipientes y congela si deseas conservarlo.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/caldo de pollo.png"
+  },
+
+  "salsa-okonomiyaki": {
+    "titulo": "Salsa Okonomiyaki",
+    "dificultad": "Fácil",
+    "duracion": "8min",
+    "materiales": [
+      "4 cdas. de salsa de tomate tipo kétchup",
+      "2 cdas. de salsa de soya",
+      "1 cda. de vinagre de manzana o blanco suave",
+      "1 cda. de miel",
+      "1 pizca de ajo en polvo (opcional)"
+    ],
+    "utensilios": [
+      "Bowl pequeño",
+      "Cuchara medidora",
+      "Cuchara para mezclar"
+    ],
+    "pasos": [
+      { "texto": "Coloca en un bowl el kétchup, salsa de soya, vinagre, miel y ajo en polvo.", "imagen": null },
+      { "texto": "Mezcla bien hasta obtener una textura uniforme.", "imagen": null },
+      { "texto": "Ajusta al gusto: más miel (dulce), más soya (intenso) o más vinagre (ácido).", "imagen": null },
+      { "texto": "Usa inmediatamente o guarda en frasco hermético por hasta 1 semana.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/salsa okonomiyaki .png"
+  },
+  "salsa-carbonara": {
+    "titulo": "Salsa Carbonara",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "230 g de tocineta o panceta",
+      "3 huevos o 4 yemas",
+      "150 g de queso parmesano",
+      "Sal al gusto",
+      "Pimienta al gusto",
+      "1/2 taza de agua de cocción de pasta"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Bowl",
+      "Cuchara para revolver"
+    ],
+    "pasos": [
+      { "texto": "Corta la tocineta en tiras o cuadraditos.", "imagen": null },
+      { "texto": "En el sartén a fuego medio, cocina la tocineta hasta que suelte grasa y esté crocante.", "imagen": null },
+      { "texto": "En un bowl mezcla los huevos, 100 g de parmesano y pimienta al gusto.", "imagen": null },
+      { "texto": "En una sartén a fuego muy bajo, integra la mezcla con media taza del agua de cocción de la pasta.", "imagen": null },
+      { "texto": "Mezcla con la pasta por 3 minutos sin dejar que el huevo cuaje.", "imagen": null },
+      { "texto": "Agrega la tocineta y un poco de su grasa, sirve y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa carbonara.png"
+  },
+
+  "salsa-veloute": {
+    "titulo": "Salsa Velouté",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "250 g de caldo de pollo",
+      "25 g de mantequilla",
+      "25 g de harina de trigo",
+      "Sal al gusto",
+      "Pimienta molida al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Globo batidor",
+      "Sartén"
+    ],
+    "pasos": [
+      { "texto": "Lleva el caldo de pollo a ebullición.", "imagen": null },
+      { "texto": "En otra olla derrite la mantequilla.", "imagen": null },
+      { "texto": "Agrega la harina y tuéstala durante 2 minutos removiendo constantemente.", "imagen": null },
+      { "texto": "Deja enfriar 15 minutos y añade el caldo poco a poco mientras mezclas.", "imagen": null },
+      { "texto": "Deja cocinar por 10 minutos a fuego medio-bajo hasta espesar.", "imagen": null },
+      { "texto": "Usa como base para otras salsas o sirve de inmediato.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa Velouté.png"
+  },
+
+  "salsa-espanola": {
+    "titulo": "Salsa Española",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "800 ml de caldo de carne concentrado",
+      "45 g de mantequilla",
+      "40 g de harina de trigo",
+      "Sal al gusto",
+      "Pimienta molida al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Globo batidor",
+      "Colador"
+    ],
+    "pasos": [
+      { "texto": "En una olla derrite la mantequilla y agrega la harina hasta formar una pasta.", "imagen": null },
+      { "texto": "Añade el caldo poco a poco sin dejar de remover para evitar grumos.", "imagen": null },
+      { "texto": "Deja cocinar a fuego medio-bajo hasta espesar.", "imagen": null },
+      { "texto": "Cuela la salsa antes de usar.", "imagen": null },
+      { "texto": "Usa como base para otras salsas o sirve de inmediato.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa española .png"
+  },
+  
+  "salsa-de-tomate": {
+    "titulo": "Salsa de Tomate",
+    "dificultad": "Fácil",
+    "duracion": "40-45min",
+    "materiales": [
+      "1.5 kg de tomate maduro",
+      "1 cebolla pequeña",
+      "1 diente de ajo",
+      "¼ de pimentón rojo",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva",
+      "3 cucharadas de miel"
+    ],
+    "utensilios": [
+      "Olla",
+      "Globo batidor",
+      "Licuadora"
+    ],
+    "pasos": [
+      { "texto": "Calienta en una olla a fuego medio-alto un chorro de aceite de oliva y sofríe el ajo picado finamente.", "imagen": null },
+      { "texto": "Cuando el ajo tome color, añade la cebolla cortada delgada.", "imagen": null },
+      { "texto": "Agrega el pimentón cortado en bastones delgados y condimenta con sal y pimienta.", "imagen": null },
+      { "texto": "Deja cocinar las verduras durante 7 minutos revolviendo de vez en cuando.", "imagen": null },
+      { "texto": "Agrega el tomate picado en cubos y cocina tapado 20 minutos.", "imagen": null },
+      { "texto": "Retira la tapa y deja cocinar 10 minutos más a fuego medio-bajo.", "imagen": null },
+      { "texto": "Lleva la mezcla a la licuadora, añade la miel y licúa 1 minuto.", "imagen": null },
+      { "texto": "Regresa a la olla y reduce 15 minutos a fuego bajo. Ajusta sal o miel al gusto.", "imagen": null },
+      { "texto": "Usa como base para otras salsas o sirve de inmediato.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa de tomate.png"
+  },
+
+  "salsa-holandesa": {
+    "titulo": "Salsa Holandesa",
+    "dificultad": "Alta",
+    "duracion": "35min",
+    "materiales": [
+      "2 yemas de huevo",
+      "260 g de mantequilla clarificada",
+      "3 cucharadas de jugo de limón",
+      "1 cucharada de agua fría",
+      "2 cucharadas de vino blanco",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Globo batidor",
+      "Bowl",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Reduce el agua y el vino en una olla hasta que se reduzcan a la mitad. Deja enfriar.", "imagen": null },
+      { "texto": "En un bowl agrega la reducción, las yemas y una cucharada de jugo de limón.", "imagen": null },
+      { "texto": "Coloca el bowl a baño maría y bate sin parar hasta obtener una mezcla espumosa y sedosa.", "imagen": null },
+      { "texto": "Agrega la mantequilla poco a poco sin dejar de batir.", "imagen": null },
+      { "texto": "Cuando la mantequilla esté incorporada, añade el resto del jugo de limón, sal y pimienta.", "imagen": null },
+      { "texto": "Mezcla una última vez, retira del baño maría y sirve de inmediato.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa holandesa.png"
+  },
+
+  "pan-de-molde-casero": {
+    "titulo": "Pan de Molde Casero",
+    "dificultad": "Fácil",
+    "duracion": "1h 20min",
+    "materiales": [
+      "660 g de harina",
+      "10 g de sal",
+      "15 g de azúcar",
+      "200 ml de leche",
+      "200 ml de agua tibia",
+      "20 g de levadura",
+      "30 g de mantequilla o ghee"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para picar",
+      "Horno",
+      "Espátula de madera",
+      "Bowl grande",
+      "Molde resistente al calor",
+      "Rodillo",
+      "Vaso"
+    ],
+    "pasos": [
+      { "texto": "En un bowl mezcla la harina, sal y azúcar.", "imagen": null },
+      { "texto": "Disuelve la levadura en la leche y agrégala junto con el agua tibia a la mezcla.", "imagen": null },
+      { "texto": "Amasa hasta que no se pegue en tus manos y añade la mantequilla.", "imagen": null },
+      { "texto": "Deja reposar 1 hora hasta que doble su tamaño.", "imagen": null },
+      { "texto": "Coloca en un molde y hornea a 190°C durante 35 minutos.", "imagen": null },
+      { "texto": "Deja enfriar, desmolda y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/pan de molde.png"
+  },
+
+  "sal-de-limon": {
+    "titulo": "Sal Limón",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "½ taza de sal marina gruesa o sal rosada",
+      "2 limones (ralladura y jugo)",
+      "1 cdta de ralladura extra (opcional)",
+      "½ cdta de chile en polvo o paprika (opcional)"
+    ],
+    "utensilios": [
+      "Horno",
+      "Rallador fino",
+      "Exprimidor",
+      "Tazón pequeño",
+      "Cuchara",
+      "Bandeja con papel para hornear",
+      "Frasco de vidrio con tapa"
+    ],
+    "pasos": [
+      { "texto": "Ralla los limones evitando la parte blanca.", "imagen": null },
+      { "texto": "Exprime el jugo y mézclalo con la sal y la ralladura hasta humedecer ligeramente.", "imagen": null },
+      { "texto": "Extiende la mezcla en una bandeja y seca al aire 24h o al horno 20-30min a 60-80°C.", "imagen": null },
+      { "texto": "Si la sal queda grumosa, licúala 2 minutos para soltarla.", "imagen": null },
+      { "texto": "Guarda en un frasco hermético y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/sal de limón.png"
+  },
+  "bolitas-de-papa-crujientes": {
+    "titulo": "Bolitas de Papa Crujientes",
+    "dificultad": "Fácil",
+    "duracion": "30 min",
+    "materiales": [
+      "3 papas cocidas sin piel",
+      "½ taza de leche de tu preferencia",
+      "Sal, pimienta y nuez moscada al gusto",
+      "2 cucharadas de levadura nutricional",
+      "500 g de almidón de yuca",
+      "Ajonjolí para decorar",
+      "Aceite de oliva"
+    ],
+    "utensilios": [
+      "Bowl",
+      "AirFrier",
+      "Tenedor"
+    ],
+    "pasos": [
+      { "texto": "Machaca las papas con la leche y un chorrito de aceite de oliva hasta formar un puré rústico.", "imagen": null },
+      { "texto": "Condimenta con sal, pimienta y nuez moscada.", "imagen": null },
+      { "texto": "Añade la levadura y el almidón poco a poco mientras amasas con las manos.", "imagen": null },
+      { "texto": "Amasa hasta que la masa no se pegue a las manos.", "imagen": null },
+      { "texto": "Forma bolitas del tamaño que prefieras.", "imagen": null },
+      { "texto": "Pasa las bolitas por ajonjolí y rocía con aceite de oliva.", "imagen": null },
+      { "texto": "Lleva a la freidora de aire a 200°C hasta que estén doradas.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Bolitas de queso.JPG"
+  },
+
+  "yogurt-griego-casero": {
+    "titulo": "Yogurt Griego Casero",
+    "dificultad": "Media",
+    "duracion": "15 min + 8–12 h fermentación + 2–3 h colado",
+    "materiales": [
+      "1 litro de leche entera o semidescremada",
+      "2 cdas de yogur natural con cultivos activos"
+    ],
+    "utensilios": [
+      "Olla",
+      "Cuchara o espátula",
+      "Termómetro (opcional)",
+      "Bowl",
+      "Colador",
+      "Paño de algodón o filtro",
+      "Frasco con tapa"
+    ],
+    "pasos": [
+      { "texto": "Calienta la leche a unos 85°C (sin hervir) hasta que empiece a humear.", "imagen": null },
+      { "texto": "Deja enfriar hasta que esté tibia (aprox. 45°C).", "imagen": null },
+      { "texto": "Mezcla el yogur iniciador con un poco de leche tibia y agrégalo al resto.", "imagen": null },
+      { "texto": "Cubre y deja reposar en un lugar cálido 8–12 horas para fermentar.", "imagen": null },
+      { "texto": "Cuela con un paño o filtro por 2–3 horas en la nevera.", "imagen": null },
+      { "texto": "Guarda el yogur griego en un frasco con tapa hasta por 7 días.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Yogurt griego casero .JPG"
+  },
+
+  "salsa-de-pimenton": {
+    "titulo": "Salsa de Pimentón",
+    "dificultad": "Fácil",
+    "duracion": "20–25 min",
+    "materiales": [
+      "2 pimentones rojos grandes",
+      "1 diente de ajo",
+      "1 cucharada de aceite de oliva",
+      "¼ taza de agua",
+      "1 cucharada de vinagre de manzana o jugo de limón",
+      "1 cucharadita de miel o sirope de agave (opcional)",
+      "Sal y pimienta negra al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para cortar",
+      "Sartén o cacerola pequeña",
+      "Espátula o cuchara de madera",
+      "Licuadora",
+      "Bowl mediano",
+      "Cuchara",
+      "Frasco o recipiente hermético"
+    ],
+    "pasos": [
+      { "texto": "Asa los pimentones durante 8–10 min hasta que la piel esté tostada.", "imagen": null },
+      { "texto": "Cúbrelos 5 min para que suden, luego retira piel y semillas.", "imagen": null },
+      { "texto": "Licúa los pimentones pelados con ajo, aceite, agua, vinagre, miel, sal y pimienta.", "imagen": null },
+      { "texto": "Ajusta la textura con más agua si es necesario y guarda en frasco.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa de pimentón .JPG"
+  },
+
+  "salsa-de-ajo": {
+    "titulo": "Salsa de Ajo",
+    "dificultad": "Fácil",
+    "duracion": "10–15 min",
+    "materiales": [
+      "4 dientes de ajo medianos",
+      "½ taza de yogur griego natural sin azúcar",
+      "2 cucharadas de mayonesa ligera (opcional)",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de jugo de limón o vinagre blanco",
+      "Sal y pimienta negra al gusto",
+      "Perejil o cilantro picado (opcional)"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para cortar",
+      "Sartén pequeña",
+      "Licuadora",
+      "Bowl mediano",
+      "Cuchara",
+      "Frasco hermético"
+    ],
+    "pasos": [
+      { "texto": "Pela los ajos y suavízalos hirviéndolos o asándolos 2 min.", "imagen": null },
+      { "texto": "Licúa ajos, yogur, mayonesa, aceite, jugo de limón, sal y pimienta.", "imagen": null },
+      { "texto": "Ajusta con agua si la quieres más líquida.", "imagen": null },
+      { "texto": "Guarda en frasco hermético en la nevera hasta 7 días.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa de ajo.JPG"
+  },
+
+  "ensalada-de-repollo-cremosa": {
+    "titulo": "Ensalada de Repollo Cremosa (Coleslaw Casera)",
+    "dificultad": "Fácil",
+    "duracion": "15 min + 30 min refrigeración",
+    "materiales": [
+      "3 tazas de repollo blanco rallado",
+      "1 taza de repollo morado rallado (opcional)",
+      "1 taza de zanahoria rallada",
+      "¼ taza de cebolla blanca picada (opcional)",
+      "½ taza de mayonesa ligera",
+      "2 cucharadas de yogur griego o crema baja en grasa",
+      "1 cucharada de vinagre blanco o de manzana",
+      "1 cucharadita de mostaza",
+      "1 cucharadita de miel o azúcar (opcional)",
+      "Sal y pimienta negra al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para cortar",
+      "Rallador",
+      "Recipiente grande para mezclar",
+      "Recipiente pequeño para aderezo",
+      "Cuchara o espátula"
+    ],
+    "pasos": [
+      { "texto": "Ralla los vegetales y colócalos en un tazón grande.", "imagen": null },
+      { "texto": "Mezcla los ingredientes del aderezo hasta que quede homogéneo.", "imagen": null },
+      { "texto": "Vierte el aderezo sobre los vegetales y mezcla bien.", "imagen": null },
+      { "texto": "Refrigera 30 min antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ensalada de repollo.JPG"
+  },
+
+  "ensalada-frutas-vegetales": {
+    "titulo": "Ensalada de Frutas y Vegetales Fresca",
+    "dificultad": "Fácil",
+    "duracion": "15–20 min",
+    "materiales": [
+      "2 tazas de lechuga o espinaca baby",
+      "1 taza de pepino en rodajas",
+      "1 taza de zanahoria rallada",
+      "1 taza de mango en cubos",
+      "1 manzana verde en cubos",
+      "½ taza de fresas en rodajas",
+      "¼ taza de cebolla morada picada (opcional)",
+      "¼ taza de nueces o semillas",
+      "¼ taza de queso fresco desmenuzado (opcional)",
+      "Aderezo: 2 cdas aceite de oliva, 1 cda miel, 1 cda jugo de limón, 1 cdta vinagre balsámico, sal y pimienta"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para cortar",
+      "Recipiente grande para mezclar",
+      "Recipiente pequeño para aderezo",
+      "Cuchara o pinzas",
+      "Exprimidor"
+    ],
+    "pasos": [
+      { "texto": "Lava y corta todos los ingredientes.", "imagen": null },
+      { "texto": "Mezcla los vegetales y frutas en un tazón grande.", "imagen": null },
+      { "texto": "Prepara el aderezo y agrégalo justo antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ensalada de frutas.JPG"
+  },
+
+  "dip-pollo-maicitos": {
+    "titulo": "Dip de Pollo con Maicitos, Tocineta, Cilantro y Queso",
+    "dificultad": "Fácil",
+    "duracion": "15–20 min",
+    "materiales": [
+      "1 pechuga de pollo cocida y desmenuzada (200 g)",
+      "½ taza de maíz tierno",
+      "3 tiras de tocineta cocidas y picadas",
+      "¼ taza de queso crema bajo en grasa",
+      "¼ taza de queso mozzarella rallado (opcional)",
+      "2 cucharadas de cilantro picado",
+      "Sal y pimienta negra al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Tazón mediano",
+      "Espátula o cuchara",
+      "Horno o AirFrier (opcional)"
+    ],
+    "pasos": [
+      { "texto": "Cocina la tocineta hasta dorar y pícalas.", "imagen": null },
+      { "texto": "Cocina y desmenuza la pechuga de pollo.", "imagen": null },
+      { "texto": "Mezcla pollo, maíz, tocineta, cilantro y queso crema.", "imagen": null },
+      { "texto": "Agrega sal y pimienta al gusto. Gratina si deseas.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Dip de maicitos y pollo.JPG"
+  },
+
+  "dip-pollo-tocineta-pimenton": {
+    "titulo": "Dip de Pollo con Tocineta, Pimentón y Miel",
+    "dificultad": "Fácil",
+    "duracion": "15–20 min",
+    "materiales": [
+      "1 pechuga de pollo cocida y desmenuzada (200 g)",
+      "3 tiras de tocineta cocidas y picadas",
+      "¼ taza de pimentón rojo picado",
+      "2 cucharadas de mayonesa ligera o yogur griego",
+      "1 cucharadita de miel",
+      "¼ cucharadita de ajo en polvo",
+      "Sal y pimienta negra al gusto"
+    ],
+    "utensilios": [
+      "Sartén mediano",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Recipiente mediano",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Cocina la tocineta hasta dorar y pícalas.", "imagen": null },
+      { "texto": "Cocina y desmenuza la pechuga de pollo.", "imagen": null },
+      { "texto": "Mezcla pollo, pimentón, tocineta, mayonesa, miel y ajo.", "imagen": null },
+      { "texto": "Agrega sal y pimienta. Sirve frío o tibio.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Dip de tocineta pollo y miel .JPG"
+  },
+
+  "dip-pollo-aguacate": {
+    "titulo": "Dip de Pollo con Aguacate y Cebolla",
+    "dificultad": "Fácil",
+    "duracion": "15–20 min",
+    "materiales": [
+      "1 pechuga de pollo cocida y desmenuzada (200 g)",
+      "1 aguacate maduro",
+      "2 cucharadas de cebolla blanca picada",
+      "2 cucharadas de yogur griego o mayonesa ligera",
+      "1 cucharada de jugo de limón",
+      "2 cucharadas de cilantro picado",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Olla pequeña",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Tazón mediano",
+      "Tenedor o machacador",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Cocina y desmenuza la pechuga de pollo.", "imagen": null },
+      { "texto": "Machaca el aguacate con limón hasta formar una crema.", "imagen": null },
+      { "texto": "Agrega el pollo, cebolla, yogur y cilantro.", "imagen": null },
+      { "texto": "Condimenta y mezcla bien antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Dip de pollo y aguacate.JPG"
+  },
+
+  "ensalada-de-pepino": {
+    "titulo": "Ensalada de Pepino",
+    "dificultad": "Fácil",
+    "duracion": "10 min",
+    "materiales": [
+      "1 pepino grande en rodajas finas",
+      "¼ de cebolla morada en julianas",
+      "¼ taza de maíz dulce",
+      "3 cdas de yogur griego natural",
+      "1 cdta de jugo de limón",
+      "Sal y pimienta al gusto",
+      "Eneldo o perejil fresco picado (opcional)"
+    ],
+    "utensilios": [
+      "Tazón grande",
+      "Cuchillo",
+      "Tabla para picar",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Mezcla el yogur, el jugo de limón, la sal y la pimienta.", "imagen": null },
+      { "texto": "Agrega el pepino, la cebolla y el maíz.", "imagen": null },
+      { "texto": "Revuelve hasta cubrir bien y sirve fría.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ensalada de pepino.JPG"
+  },
+  "cremosa-salsa-de-pollo-con-cebollin-y-yogurt-griego": {
+    "titulo": "Cremosa salsa de pollo con cebollín y yogurt griego",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "350 g de pechuga de pollo cortada en cubos o tiras",
+      "1 cdta de aceite de oliva",
+      "1 diente de ajo picado",
+      "½ taza de cebollín finamente picado (parte blanca y verde)",
+      "Sal y pimienta al gusto",
+      "½ cdta de paprika o cúrcuma (opcional, para color)",
+      "½ taza de yogur griego natural",
+      "¼ taza de leche o bebida vegetal sin azúcar",
+      "2 cdas de queso parmesano rallado (opcional)",
+      "Jugo de ½ limón"
+    ],
+    "utensilios": [
+      "Sartén antiadherente",
+      "Cuchillo y tabla de picar",
+      "Bowl pequeño",
+      "Espátula o cuchara de madera"
+    ],
+    "pasos": [
+      { "texto": "Corta la pechuga en cubos medianos y sazona con sal, pimienta y paprika.", "imagen": null },
+      { "texto": "Calienta el aceite en la sartén a fuego medio y cocina el pollo 6–8 minutos hasta que esté dorado y bien cocido. Retira y reserva.", "imagen": null },
+      { "texto": "En la misma sartén, agrega el ajo y el cebollín. Sofríe 1–2 minutos hasta que estén suaves y fragantes.", "imagen": null },
+      { "texto": "Reduce el fuego. Añade el yogur griego, la leche y el queso parmesano. Mezcla sin dejar que hierva.", "imagen": null },
+      { "texto": "Vuelve a agregar el pollo y cocina 2–3 minutos más hasta que esté bien cubierto y cremoso.", "imagen": null },
+      { "texto": "Exprime el limón justo antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Salsa cremosa de pollo.JPG"
+  },
+
+  "ensalada-de-pollo": {
+    "titulo": "Ensalada de Pollo",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "250 g de pechuga de pollo",
+      "1 cdta de aceite de oliva",
+      "Sal, pimienta y ajo en polvo al gusto",
+      "1 taza de lechuga picada",
+      "½ taza de tomate cherry cortado en mitades",
+      "¼ taza de maíz dulce",
+      "¼ aguacate en cubos",
+      "2 cdas de yogur griego natural",
+      "1 cdta de jugo de limón",
+      "½ cdta de miel o mostaza Dijon (opcional)",
+      "1 cda de queso rallado"
+    ],
+    "utensilios": [
+      "Sartén o plancha",
+      "Cuchillo y tabla de picar",
+      "Bowl grande para mezclar",
+      "Cuchara o pinzas para servir"
+    ],
+    "pasos": [
+      { "texto": "Corta la pechuga en tiras o cubos y cocínala 6–8 minutos con sal, pimienta y ajo en polvo.", "imagen": null },
+      { "texto": "Mezcla la lechuga, los tomates cherry, el maíz y el aguacate en un bowl.", "imagen": null },
+      { "texto": "En otro recipiente, combina el yogur, el limón y la miel o mostaza para hacer el aderezo.", "imagen": null },
+      { "texto": "Agrega el pollo a la ensalada, vierte el aderezo y mezcla suavemente.", "imagen": null },
+      { "texto": "Espolvorea queso rallado encima antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ensalada de pollo.JPG"
+  },
+
+  "patacones-con-guacamole": {
+    "titulo": "Patacones con Guacamole",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 plátano verde grande",
+      "1 cda de aceite de coco o de oliva",
+      "1 aguacate maduro",
+      "½ tomate picado en cubos pequeños",
+      "¼ de cebolla roja picada fina",
+      "Jugo de ½ limón",
+      "Sal y pimienta al gusto",
+      "Cilantro picado (opcional)"
+    ],
+    "utensilios": [
+      "Sartén o freidora de aire",
+      "Cuchillo y tabla de picar",
+      "Tenedor",
+      "Tazón para preparar el guacamole",
+      "Cuchara",
+      "Papel de cocina o toalla absorbente"
+    ],
+    "pasos": [
+      { "texto": "Pela el plátano y córtalo en rodajas gruesas de unos 2 cm.", "imagen": null },
+      { "texto": "Fríe las rodajas hasta que estén suaves y ligeramente doradas. Retira y aplánalas con un vaso.", "imagen": null },
+      { "texto": "Vuelve a dorarlas 1–2 minutos por cada lado hasta que estén crujientes.", "imagen": null },
+      { "texto": "Machaca el aguacate con el tomate, cebolla, limón, sal, pimienta y cilantro.", "imagen": null },
+      { "texto": "Sirve los patacones con el guacamole encima o al lado para dippear.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Patacones.JPG"
+  },
+
+  "pan-de-ajo-crocante": {
+    "titulo": "Pan de Ajo Crocante",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "1 pan baguette integral o tradicional",
+      "2 cdas de aceite de oliva o mantequilla derretida",
+      "2 dientes de ajo finamente picados",
+      "2 cdas de queso mozzarella o parmesano rallado (opcional)",
+      "1 cda de perejil fresco picado",
+      "½ cdta de orégano o albahaca seca",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo y tabla de picar",
+      "Bowl pequeño",
+      "Cuchara",
+      "Bandeja para horno o airfryer",
+      "Papel parafinado o tapete de silicona",
+      "Rallador de ajo (opcional)"
+    ],
+    "pasos": [
+      { "texto": "Corta la baguette en rebanadas diagonales y colócalas en una bandeja.", "imagen": null },
+      { "texto": "Mezcla aceite, ajo, perejil, orégano, sal y pimienta en un bowl.", "imagen": null },
+      { "texto": "Pincela las rebanadas con la mezcla y agrega queso si deseas.", "imagen": null },
+      { "texto": "Hornea a 200°C por 8–10 min o en airfryer 180°C por 5–6 min.", "imagen": null },
+      { "texto": "Sirve caliente con salsa o acompañamiento.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Pan de ajo.JPG"
+  },
+
+  "papa-gratinada-con-queso-y-cebollin": {
+    "titulo": "Papa Gratinada con Queso Cheddar, Tocineta y Cebollín",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "2 papas medianas",
+      "¼ taza de queso cheddar rallado",
+      "2 tiras de tocineta",
+      "1 cda de cebollín fresco picado",
+      "1 cda de yogur griego o crema ligera",
+      "1 cdta de aceite de oliva o mantequilla",
+      "Sal, pimienta y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Sartén con tapa o airfryer",
+      "Cuchillo y tabla de picar",
+      "Bowl pequeño",
+      "Espátula o cuchara",
+      "Olla pequeña"
+    ],
+    "pasos": [
+      { "texto": "Cocina las papas en agua con sal 8–10 min hasta que estén suaves.", "imagen": null },
+      { "texto": "Dora la tocineta hasta que quede crujiente y trocéala.", "imagen": null },
+      { "texto": "Coloca capas de papa, queso y tocineta en la sartén.", "imagen": null },
+      { "texto": "Agrega el yogur diluido encima y cocina 5–7 min con tapa.", "imagen": null },
+      { "texto": "Sirve con cebollín fresco picado.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Papas gratinadas (1).JPG"
+  },
+
+  "ensalada-de-papa": {
+    "titulo": "Ensalada de Papa",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "3 papas medianas en cubos",
+      "¼ taza de yogur griego natural",
+      "1 cda de mostaza Dijon",
+      "1 huevo duro picado (opcional)",
+      "2 cdas de cebolla morada picada",
+      "2 cdas de cebollín fresco picado",
+      "¼ taza de zanahoria rallada",
+      "1 cda de aceite de oliva",
+      "Sal, pimienta y ajo en polvo al gusto",
+      "1 pepinillo o ½ cdta de vinagre (opcional)"
+    ],
+    "utensilios": [
+      "Olla mediana",
+      "Bowl grande",
+      "Cuchillo y tabla de picar",
+      "Cuchara o espátula",
+      "Colador"
+    ],
+    "pasos": [
+      { "texto": "Cocina las papas con sal 10–12 minutos hasta que estén suaves.", "imagen": null },
+      { "texto": "Mezcla el yogur, mostaza, aceite, sal y vinagre para el aderezo.", "imagen": null },
+      { "texto": "Combina las papas frías con cebolla, zanahoria, cebollín y huevo.", "imagen": null },
+      { "texto": "Agrega el aderezo y mezcla suavemente.", "imagen": null },
+      { "texto": "Refrigera 15 minutos antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ensalada de papa.JPG"
+  },
+
+  "pan-de-banano-saludable": {
+    "titulo": "Pan de Banano Saludable",
+    "dificultad": "Fácil",
+    "duracion": "40-45min",
+    "materiales": [
+      "2 bananos maduros",
+      "2 huevos",
+      "1 taza de harina de avena",
+      "1 cda de miel o panela rallada",
+      "1 cdta de polvo de hornear",
+      "1 cdta de canela en polvo",
+      "1 cda de aceite de coco o mantequilla derretida",
+      "1 pizca de sal",
+      "Chips de chocolate, nueces o semillas (opcional)"
+    ],
+    "utensilios": [
+      "Bowl grande",
+      "Tenedor o machacador",
+      "Cuchara o espátula",
+      "Molde para horno o sartén",
+      "Taza y cucharas medidoras"
+    ],
+    "pasos": [
+      { "texto": "Machaca los bananos y mezcla con huevos, aceite y miel.", "imagen": null },
+      { "texto": "Añade harina, polvo de hornear, canela y sal. Mezcla bien.", "imagen": null },
+      { "texto": "Agrega nueces o chips si deseas.", "imagen": null },
+      { "texto": "Hornea a 180°C por 30–35 min o cocina en sartén a fuego bajo 20–25 min.", "imagen": null },
+      { "texto": "Deja enfriar antes de cortar.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Pan de banano y chocolate .JPG"
+  },
+
+  "pan-fit-de-avena": {
+    "titulo": "Pan Fit de Avena sin Horno",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "1 taza de harina de avena",
+      "2 huevos",
+      "½ taza de yogur griego o leche vegetal",
+      "1 cdta de bicarbonato de sodio",
+      "1 cda de vinagre de manzana o limón",
+      "1 cda de aceite de oliva o coco",
+      "1 pizca de sal",
+      "Semillas de chía o linaza (opcional)"
+    ],
+    "utensilios": [
+      "Bowl grande",
+      "Cuchara o espátula",
+      "Sartén antiadherente con tapa",
+      "Taza y cucharas medidoras"
+    ],
+    "pasos": [
+      { "texto": "Mezcla huevos, yogur y aceite en un bowl.", "imagen": null },
+      { "texto": "Añade harina, bicarbonato y sal.", "imagen": null },
+      { "texto": "Incorpora vinagre o limón y deja reposar 5 min.", "imagen": null },
+      { "texto": "Cocina en sartén tapada a fuego bajo 8–10 min por lado.", "imagen": null },
+      { "texto": "Sirve con aguacate, queso o mantequilla de maní.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Pan de avena .JPG"
+  },
+
+  "ensalada-de-garbanzos": {
+    "titulo": "Ensalada de Garbanzos",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "1 taza de garbanzos cocidos",
+      "½ taza de pepino picado",
+      "½ taza de tomates cherry cortados",
+      "¼ taza de cebolla morada picada",
+      "2 cdas de cebollín o perejil picado",
+      "2 cdas de aceite de oliva virgen extra",
+      "Jugo de ½ limón",
+      "Sal, pimienta y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Bowl grande",
+      "Cuchillo y tabla de picar",
+      "Cuchara o espátula",
+      "Colador"
+    ],
+    "pasos": [
+      { "texto": "Corta las verduras en trozos pequeños.", "imagen": null },
+      { "texto": "Combina los garbanzos con las verduras en un bowl.", "imagen": null },
+      { "texto": "Mezcla el aceite, jugo de limón, sal y pimienta en un recipiente.", "imagen": null },
+      { "texto": "Vierte el aderezo y mezcla suavemente.", "imagen": null },
+      { "texto": "Refrigera por 10 minutos antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ensalada de garbanzo .JPG"
+  },
+
+  "ceviche-vegano": {
+    "titulo": "Ceviche Vegano",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "1 taza de garbanzos cocidos o palmitos picados",
+      "½ taza de tomate en cubos",
+      "½ taza de pepino picado",
+      "¼ taza de cebolla morada en plumas",
+      "¼ taza de pimentón rojo o amarillo picado",
+      "½ aguacate en cubos",
+      "Jugo de 2 limones",
+      "1 cda de aceite de oliva",
+      "1 cda de cilantro fresco picado",
+      "Sal, pimienta y ajo en polvo al gusto"
+    ],
+    "utensilios": [
+      "Bowl grande",
+      "Cuchillo y tabla de picar",
+      "Exprimidor o tenedor",
+      "Cuchara o espátula",
+      "Colador"
+    ],
+    "pasos": [
+      { "texto": "Corta todos los vegetales en cubos pequeños.", "imagen": null },
+      { "texto": "Combina los garbanzos, tomate, pepino, pimentón y cebolla.", "imagen": null },
+      { "texto": "Añade jugo de limón, aceite, sal y pimienta.", "imagen": null },
+      { "texto": "Deja reposar 10 minutos en la nevera.", "imagen": null },
+      { "texto": "Agrega el aguacate y el cilantro justo antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Ceviche vegano.JPG"
+  },
+
+  "pure-de-papa-cremoso-con-espinaca": {
+    "titulo": "Puré de Papa Cremoso con Espinaca",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "3 papas medianas peladas y en cubos",
+      "½ taza de espinaca fresca",
+      "2 cdas de cilantro fresco picado",
+      "1 diente de ajo",
+      "¼ taza de queso mozzarella rallado",
+      "¼ taza de leche o bebida vegetal",
+      "1 cda de mantequilla o aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Olla mediana",
+      "Colador",
+      "Sartén pequeña",
+      "Licuadora o procesador",
+      "Bowl",
+      "Cuchara o espátula"
+    ],
+    "pasos": [
+      { "texto": "Cocina las papas en agua con sal 10–12 minutos hasta ablandar.", "imagen": null },
+      { "texto": "Licúa la espinaca con la leche y el ajo hasta obtener una salsa verde.", "imagen": null },
+      { "texto": "Haz puré las papas con mantequilla, queso y la mezcla verde.", "imagen": null },
+      { "texto": "Agrega sal, pimienta y mezcla hasta textura cremosa.", "imagen": null },
+      { "texto": "Sirve caliente con proteína o verduras.", "imagen": null }
+    ],
+    "imagen": "img/acompañantes/Puré de papa con espinaca .JPG"
+  }
+}
+
+
+
+

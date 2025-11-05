@@ -1,0 +1,381 @@
+{
+  "limonada-de-flor-de-jamaica": {
+    "titulo": "Limonada de Flor de Jamaica",
+    "dificultad": "Fácil",
+    "duracion": "30-40min (incluye tiempo de reposo y enfriamiento)",
+    "materiales": [
+      "Miel",
+      "3 tazas de agua",
+      "1 taza de flor de jamaica",
+      "Hojas de hierbabuena",
+      "Canela (opcional)",
+      "Hielo"
+    ],
+    "utensilios": [
+      "Jarra",
+      "Vaso",
+      "Olla",
+      "Exprimidor",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "En una olla a fuego medio, vierte 3 tazas de agua y 1 taza de flor de Jamaica.", "imagen": null },
+      { "texto": "Después de 5 minutos, agrega la canela y la miel. Deja hervir y retira del fuego.", "imagen": null },
+      { "texto": "Deja reposar el agua de Jamaica, luego cuélala y viértela en una jarra con hielo.", "imagen": null },
+      { "texto": "Exprime dos limones y añade unas hojas de hierbabuena.", "imagen": null },
+      { "texto": "Sirve en un vaso y decora con más hierbabuena.", "imagen": null }
+    ],
+    "imagen": "img/frias/jamaica.png"
+  },
+
+  "limonada-de-frutos-rojos": {
+    "titulo": "Limonada de Frutos Rojos",
+    "dificultad": "Fácil",
+    "duracion": "5-7min",
+    "materiales": [
+      "Jugo de un limón",
+      "5 o 6 arándanos y fresas congeladas",
+      "200 ml de agua fría o gasificada",
+      "Hojas de menta",
+      "Hielo"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Exprimidor",
+      "Vaso",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Procesa las fresas con el jugo de un limón y el agua.", "imagen": null },
+      { "texto": "Sirve en un vaso con hielo y algunos arándanos.", "imagen": null },
+      { "texto": "Agrega hojas de menta y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/frias/frutos rojos.png"
+  },
+
+  "soda-de-kiwi-y-sandia": {
+    "titulo": "Soda de Kiwi y Sandía",
+    "dificultad": "Fácil",
+    "duracion": "10-15min",
+    "materiales": [
+      "2 kiwis",
+      "½ taza de sandía",
+      "1 limón",
+      "Hojas de hierbabuena o menta",
+      "Edulcorante al gusto (opcional)",
+      "Soda (cantidad necesaria)"
+    ],
+    "utensilios": [
+      "Vaso",
+      "Cuchillo",
+      "Tabla de picar",
+      "Bowl o recipiente"
+    ],
+    "pasos": [
+      { "texto": "Tritura el kiwi en pequeños trozos hasta formar un puré.", "imagen": null },
+      { "texto": "Agrega el jugo de limón, el edulcorante y las hojas de menta trituradas.", "imagen": null },
+      { "texto": "Coloca el puré de kiwi como base en un vaso.", "imagen": null },
+      { "texto": "Añade hielo y vierte la soda sobre ellos.", "imagen": null },
+      { "texto": "Agrega la sandía en trocitos y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/frias/kiwi y sandia.png"
+  },
+
+  "limonada-de-hierbabuena": {
+    "titulo": "Limonada de Hierbabuena",
+    "dificultad": "Fácil",
+    "duracion": "5 min",
+    "materiales": [
+      "Jugo de 1 limón",
+      "3 hojas de hierbabuena fresca",
+      "1 cdita de miel o panela",
+      "1 taza de agua fría",
+      "Hielo al gusto"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Tabla para picar",
+      "Vaso grande",
+      "Exprimidor",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Corta el limón por la mitad y exprímelo en la licuadora.", "imagen": null },
+      { "texto": "Licúa el jugo de limón con la hierbabuena, la miel y el agua.", "imagen": null },
+      { "texto": "Sirve en un vaso con hielo.", "imagen": null },
+      { "texto": "Decora con una ramita de hierbabuena y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/frias/Hierba buena.png"
+  },
+  "smoothie-helado-super-cremoso": {
+    "titulo": "Smoothie Helado Súper Cremoso",
+    "dificultad": "Fácil",
+    "duracion": "3h 10min (incluye refrigeración)",
+    "materiales": [
+      "1 sobre de gelatina de fresa sin azúcar (preparada según las instrucciones)",
+      "3 cucharadas de yogur griego",
+      "300 g de fresas congeladas",
+      "Proteína de vainilla (opcional)"
+    ],
+    "utensilios": [
+      "Vaso",
+      "Licuadora",
+      "Cuchara sopera"
+    ],
+    "pasos": [
+      { "texto": "Prepara la gelatina como indica el sobre y deja cuajar (medio litro).", "imagen": null },
+      { "texto": "Licúa la gelatina con el yogur griego y las fresas congeladas.", "imagen": null },
+      { "texto": "Añade un poco de agua si prefieres una textura más líquida.", "imagen": null },
+      { "texto": "Sirve y disfruta bien frío.", "imagen": null }
+    ],
+    "imagen": "img/frias/Helado de fresa.png"
+  },
+
+  "granizado-de-cafe": {
+    "titulo": "Granizado de Café",
+    "dificultad": "Fácil",
+    "duracion": "7min",
+    "materiales": [
+      "1 taza de café",
+      "1 taza de cubos de hielo",
+      "2 cditas de miel, panela o endulzante natural",
+      "¼ taza de leche (puede ser vegetal)",
+      "Canela en polvo o cacao (opcional)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Vaso grande",
+      "Cuchara",
+      "Cubeta de hielo",
+      "Olla pequeña o cafetera"
+    ],
+    "pasos": [
+      { "texto": "Prepara el café y deja enfriar.", "imagen": null },
+      { "texto": "Coloca en la licuadora el café frío, el hielo, la leche y el endulzante.", "imagen": null },
+      { "texto": "Licúa hasta obtener una textura granulada y espesa.", "imagen": null },
+      { "texto": "Sirve y decora con canela o cacao.", "imagen": null }
+    ],
+    "imagen": "img/frias/granizado de café.png"
+  },
+
+  "soda-de-mango-con-maracuya": {
+    "titulo": "Soda de Mango con Maracuyá",
+    "dificultad": "Fácil",
+    "duracion": "8-10min",
+    "materiales": [
+      "3 cdas de pulpa de mango",
+      "3 cdas de pulpa de maracuyá",
+      "1 cdita de miel",
+      "1 taza de agua con gas fría",
+      "Hielo al gusto"
+    ],
+    "utensilios": [
+      "Cuchillo",
+      "Tabla para picar",
+      "Cuchara",
+      "Vaso grande",
+      "Licuadora (opcional)"
+    ],
+    "pasos": [
+      { "texto": "Lava, pela y corta el mango y el maracuyá.", "imagen": null },
+      { "texto": "Coloca el mango y la pulpa de maracuyá en un vaso.", "imagen": null },
+      { "texto": "Agrega la miel y mezcla bien.", "imagen": null },
+      { "texto": "Añade cubos de hielo y vierte el agua con gas fría.", "imagen": null },
+      { "texto": "Revuelve suavemente y decora con menta o limón.", "imagen": null }
+    ],
+    "imagen": "img/frias/soda de maracuya y mango.png"
+  },
+
+  "limonada-de-fresa": {
+    "titulo": "Limonada de Fresa",
+    "dificultad": "Fácil",
+    "duracion": "8–10 min",
+    "materiales": [
+      "4 limones",
+      "8 fresas",
+      "1½ cda de endulzante o miel",
+      "500ml de agua",
+      "Hielo al gusto",
+      "Hojas de menta para decorar"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Exprimidor",
+      "Cuchara",
+      "Colador (opcional)",
+      "Jarra",
+      "Vasos para servir"
+    ],
+    "pasos": [
+      { "texto": "En la licuadora coloca las fresas, el jugo de limón, el endulzante y 2 tazas de agua.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla suave.", "imagen": null },
+      { "texto": "Cuela si deseas una textura más ligera.", "imagen": null },
+      { "texto": "Agrega las 2 tazas de agua restantes y mezcla bien.", "imagen": null },
+      { "texto": "Sirve con hielo y decora con menta o rodajas de fresa y limón.", "imagen": null }
+    ],
+    "imagen": "img/facil/limonada-de-fresa.png"
+  },
+
+  "limonada-de-coco-natural": {
+    "titulo": "Limonada de Coco Natural",
+    "dificultad": "Fácil",
+    "duracion": "5 min",
+    "materiales": [
+      "1 taza de agua de coco",
+      "½ taza de pulpa o leche de coco",
+      "Jugo de 1 limón",
+      "Endulzante natural (miel o stevia)",
+      "Hielo al gusto"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Exprimidor",
+      "Vaso"
+    ],
+    "pasos": [
+      { "texto": "Añade todos los ingredientes en la licuadora.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla cremosa.", "imagen": null },
+      { "texto": "Sirve con hielo.", "imagen": null }
+    ],
+    "imagen": "img/facil/limonada-de-coco.png"
+  },
+
+  "agua-de-pepino-limon-y-hierbabuena": {
+    "titulo": "Agua de Pepino, Limón y Hierbabuena (Detox Refrescante)",
+    "dificultad": "Fácil",
+    "duracion": "1h (incluye refrigeración)",
+    "materiales": [
+      "1 litro de agua fría",
+      "½ pepino en rodajas",
+      "1 limón en rodajas",
+      "6 hojas de hierbabuena"
+    ],
+    "utensilios": [
+      "Jarra grande",
+      "Cuchillo",
+      "Tabla de picar",
+      "Cucharón o cuchara larga",
+      "Vaso"
+    ],
+    "pasos": [
+      { "texto": "Coloca todos los ingredientes en una jarra.", "imagen": null },
+      { "texto": "Refrigera por 1 hora antes de servir.", "imagen": null },
+      { "texto": "Sirve con hielo.", "imagen": null }
+    ],
+    "imagen": "img/facil/agua-de-pepino-limon-hierbabuena.png"
+  },
+
+  "limonada-de-arandanos-burbujeante": {
+    "titulo": "Limonada de Arándanos Burbujeante",
+    "dificultad": "Fácil",
+    "duracion": "10 min",
+    "materiales": [
+      "500ml de agua mineral, soda o refresco de limón sin azúcar",
+      "Miel o endulzante al gusto",
+      "Jugo de 3 limones",
+      "½ taza de arándanos",
+      "Hielo"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Vaso",
+      "Colador",
+      "Exprimidor",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Licúa los arándanos con el jugo de limón y la miel hasta obtener una mezcla uniforme.", "imagen": null },
+      { "texto": "Cuela la mezcla para eliminar los restos fibrosos.", "imagen": null },
+      { "texto": "En un vaso coloca hielo, la soda y la mezcla colada.", "imagen": null },
+      { "texto": "Mezcla y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/facil/limonada-de-arandanos.png"
+  },
+
+  "smoothie-de-frutos-rojos": {
+    "titulo": "Smoothie de Frutos Rojos",
+    "dificultad": "Fácil",
+    "duracion": "8–10 min",
+    "materiales": [
+      "1 taza de frutos rojos (fresas, moras, arándanos)",
+      "1 banano maduro",
+      "½ taza de yogur griego o vegetal sin azúcar",
+      "1 taza de leche vegetal o baja en grasa",
+      "1 cdta de miel o stevia (opcional)",
+      "½ cdta de esencia de vainilla (opcional)",
+      "Hielo al gusto"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchara",
+      "Cuchillo",
+      "Tabla para cortar",
+      "Vasos para servir"
+    ],
+    "pasos": [
+      { "texto": "Coloca todos los ingredientes en la licuadora.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla cremosa y homogénea.", "imagen": null },
+      { "texto": "Sirve inmediatamente en vasos altos.", "imagen": null },
+      { "texto": "Decora con fruta, semillas o coco rallado si deseas.", "imagen": null }
+    ],
+    "imagen": "img/facil/smoothie-frutos-rojos.png"
+  },
+
+  "iced-tea-de-menta-y-limon": {
+    "titulo": "Iced Tea de Menta y Limón",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "1 taza de agua (250ml)",
+      "5–6 hojas de menta fresca",
+      "Jugo de medio limón",
+      "1 cdta de miel o endulzante natural (opcional)",
+      "Cubos de hielo al gusto",
+      "Rodajas de limón y menta para decorar"
+    ],
+    "utensilios": [
+      "Olla o tetera",
+      "Refrigerador",
+      "Colador",
+      "Cuchara",
+      "Vaso grande"
+    ],
+    "pasos": [
+      { "texto": "Calienta el agua y agrega las hojas de menta.", "imagen": null },
+      { "texto": "Apaga el fuego, tapa y deja reposar 7–10 minutos.", "imagen": null },
+      { "texto": "Cuela y deja enfriar a temperatura ambiente.", "imagen": null },
+      { "texto": "Agrega el jugo de limón y la miel.", "imagen": null },
+      { "texto": "Sirve con hielo y decora con rodajas de limón y menta.", "imagen": null }
+    ],
+    "imagen": "img/facil/iced-tea-menta-limon.png"
+  },
+
+  "sorbete-de-sandia-y-limon": {
+    "titulo": "Sorbete de Sandía y Limón",
+    "dificultad": "Fácil",
+    "duracion": "10 min + 3h de congelación",
+    "materiales": [
+      "2 tazas de sandía picada y congelada",
+      "Jugo de 1 limón",
+      "1 cdta de miel o endulzante natural (opcional)"
+    ],
+    "utensilios": [
+      "Licuadora potente",
+      "Cuchillo",
+      "Tabla",
+      "Recipiente o molde para congelar",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Corta la sandía en cubos y congélala por al menos 3 horas.", "imagen": null },
+      { "texto": "Coloca la sandía congelada, el jugo de limón y la miel en la licuadora.", "imagen": null },
+      { "texto": "Licúa hasta obtener una textura cremosa.", "imagen": null },
+      { "texto": "Sirve de inmediato o congela 1 hora para textura más firme.", "imagen": null }
+    ],
+    "imagen": "img/facil/sorbete-sandia-limon.png"
+  }
+}
+
