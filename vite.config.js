@@ -13,6 +13,7 @@ export default defineConfig({
         desayunos: "desayunos.html",
         acompanantes: "acompañantes.html", // usa sin ñ para evitar errores
         frias: "Frias.html",
+        plantillasRecetas: "plantillas_recetas.html",
         calientes: "calientes.html",
         dulces: "dulces.html",
         salado: "salado.html",
