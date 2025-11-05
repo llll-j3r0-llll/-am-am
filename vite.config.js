@@ -1,8 +1,29 @@
 // vite.config.js
 import { defineConfig } from "vite";
+import { resolve } from "path";
+import { copyFileSync, mkdirSync, existsSync, readdirSync } from "fs";
+
+function copyDataPlugin() {
+  return {
+    name: "copy-data-json",
+    closeBundle() {
+      const srcDir = resolve(__dirname, "src/data");
+      const destDir = resolve(__dirname, "dist/data");
+      if (!existsSync(destDir)) mkdirSync(destDir, { recursive: true });
+
+      readdirSync(srcDir).forEach((file) => {
+        if (file.endsWith(".json")) {
+          copyFileSync(`${srcDir}/${file}`, `${destDir}/${file}`);
+        }
+      });
+
+      console.log("✅ Archivos JSON copiados a dist/data");
+    },
+  };
+}
 
 export default defineConfig({
-  base: "./", // necesario para que las rutas funcionen en Vercel
+  base: "./",
   build: {
     outDir: "dist",
     rollupOptions: {
@@ -11,18 +32,16 @@ export default defineConfig({
         platoFuerte: "plato-fuerte.html",
         platoLiviano: "plato-liviano.html",
         desayunos: "desayunos.html",
-        acompanantes: "acompañantes.html", // usa sin ñ para evitar errores
+        acompanantes: "acompañantes.html",
         frias: "Frias.html",
         plantillasRecetas: "plantillas_recetas.html",
         calientes: "calientes.html",
         dulces: "dulces.html",
         salado: "salado.html",
-        sorprendeme: "sorpende.html", // cambia el nombre también en el href
+        sorprendeme: "sorpende.html",
       },
     },
   },
-  server: {
-    port: 3000,
-  },
-  assetsInclude: ["**/*.json"], // ⚡️ <--- AGREGA ESTA LÍNEA
+  server: { port: 3000 },
+  plugins: [copyDataPlugin()], // 👈 Aquí agregas el plugin
 });
