@@ -12,7 +12,7 @@ export default defineConfig({
         platoLiviano: "plato-liviano.html",
         desayunos: "desayunos.html",
         acompanantes: "acompañantes.html", // usa sin ñ para evitar errores
-        frias: "frias.html",
+        frias: "Frias.html",
         calientes: "calientes.html",
         dulces: "dulces.html",
         salado: "salado.html",
