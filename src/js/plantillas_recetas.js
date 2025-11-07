@@ -16,7 +16,7 @@ if (!seccion || !id) {
 async function cargarReceta(seccion, id) {
   try {
     // Ruta del archivo JSON (funciona en Vercel porque apunta a dist/data/)
-    const response = await fetch(`./data/${seccion}.json`);
+    const response = await fetch(`${window.location.origin}/data/${seccion}.json`);
     if (!response.ok) throw new Error("No se encontró el archivo JSON");
 
     const data = await response.json();

@@ -10,6 +10,11 @@ function copyDataPlugin() {
       const srcDir = resolve(__dirname, "src/data");
       const destDir = resolve(__dirname, "dist/data");
 
+      if (!existsSync(srcDir)) {
+        console.error("❌ No se encontró la carpeta src/data");
+        return;
+      }
+
       if (!existsSync(destDir)) mkdirSync(destDir, { recursive: true });
 
       readdirSync(srcDir).forEach((file) => {
@@ -18,13 +23,13 @@ function copyDataPlugin() {
         }
       });
 
-      console.log("✅ Archivos JSON copiados de src/components/data a dist/data");
+      console.log("✅ Archivos JSON copiados correctamente a dist/data");
     },
   };
 }
 
 export default defineConfig({
-  base: "./", // importante para Vercel y rutas relativas
+  base: "./",
   build: {
     outDir: "dist",
     rollupOptions: {
@@ -34,12 +39,12 @@ export default defineConfig({
         platoLiviano: resolve(__dirname, "plato-liviano.html"),
         desayunos: resolve(__dirname, "desayunos.html"),
         acompanantes: resolve(__dirname, "acompañantes.html"),
-        Frias: resolve(__dirname, "Frias.html"),
+        frias: resolve(__dirname, "frias.html"),
         plantillasRecetas: resolve(__dirname, "plantillas_recetas.html"),
         calientes: resolve(__dirname, "calientes.html"),
         dulces: resolve(__dirname, "dulces.html"),
         salado: resolve(__dirname, "salado.html"),
-        sorprendeme: resolve(__dirname, "sorpende.html"),
+        sorprende: resolve(__dirname, "sorprende.html"),
       },
     },
   },
