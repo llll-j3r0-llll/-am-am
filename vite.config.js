@@ -1,31 +1,42 @@
 // vite.config.js
 import { defineConfig } from "vite";
 import { resolve } from "path";
-import { copyFileSync, mkdirSync, existsSync, readdirSync, cpSync } from "fs";
+import { copyFileSync, mkdirSync, existsSync, readdirSync } from "fs";
 
-// 🔹 Plugin mejorado: copia JSON y JS automáticamente
-function copyDataPlugin() {
+function copyExtraFilesPlugin() {
   return {
-    name: "copy-extra-files",
+    name: "copy-json-and-template-js",
     closeBundle() {
-      const foldersToCopy = [
-        { src: "src/data", dest: "dist/data" },
-        { src: "src/js", dest: "dist/js" }, // 👈 ahora también copia tu carpeta js
-      ];
+      // === COPIAR JSONS DE src/data ===
+      const srcDataDir = resolve(__dirname, "src/data");
+      const destDataDir = resolve(__dirname, "dist/data");
 
-      foldersToCopy.forEach(({ src, dest }) => {
-        const srcDir = resolve(__dirname, src);
-        const destDir = resolve(__dirname, dest);
+      if (existsSync(srcDataDir)) {
+        if (!existsSync(destDataDir)) mkdirSync(destDataDir, { recursive: true });
 
-        if (!existsSync(srcDir)) {
-          console.warn(`⚠️ Carpeta no encontrada: ${src}`);
-          return;
-        }
+        readdirSync(srcDataDir).forEach((file) => {
+          if (file.endsWith(".json")) {
+            copyFileSync(`${srcDataDir}/${file}`, `${destDataDir}/${file}`);
+            console.log(`📦 Copiado JSON: ${file}`);
+          }
+        });
+      } else {
+        console.error("❌ No se encontró la carpeta src/data");
+      }
 
-        mkdirSync(destDir, { recursive: true });
-        cpSync(srcDir, destDir, { recursive: true }); // copia todo el contenido
-        console.log(`✅ Carpeta copiada correctamente: ${src} → ${dest}`);
-      });
+      // === COPIAR SOLO plantillas_recetas.js ===
+      const srcJsFile = resolve(__dirname, "src/js/plantillas_recetas.js");
+      const destJsDir = resolve(__dirname, "dist/js");
+
+      if (existsSync(srcJsFile)) {
+        if (!existsSync(destJsDir)) mkdirSync(destJsDir, { recursive: true });
+        copyFileSync(srcJsFile, `${destJsDir}/plantillas_recetas.js`);
+        console.log("📜 Copiado JS: plantillas_recetas.js");
+      } else {
+        console.error("❌ No se encontró src/js/plantillas_recetas.js");
+      }
+
+      console.log("✅ Archivos copiados correctamente a dist/");
     },
   };
 }
@@ -51,5 +62,5 @@ export default defineConfig({
     },
   },
   server: { port: 3000 },
-  plugins: [copyDataPlugin()],
+  plugins: [copyExtraFilesPlugin()],
 });
