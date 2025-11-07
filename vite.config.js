@@ -39,7 +39,7 @@ export default defineConfig({
         platoLiviano: resolve(__dirname, "plato-liviano.html"),
         desayunos: resolve(__dirname, "desayunos.html"),
         acompanantes: resolve(__dirname, "acompañantes.html"),
-        frias: resolve(__dirname, "frias_bebidas.html"),
+        friasBebidas: resolve(__dirname, "frias_bebidas.html"),
         plantillasRecetas: resolve(__dirname, "plantillas_recetas.html"),
         calientes: resolve(__dirname, "calientes.html"),
         dulces: resolve(__dirname, "dulces.html"),
