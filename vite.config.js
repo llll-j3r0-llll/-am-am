@@ -1,29 +1,31 @@
 // vite.config.js
 import { defineConfig } from "vite";
 import { resolve } from "path";
-import { copyFileSync, mkdirSync, existsSync, readdirSync } from "fs";
+import { copyFileSync, mkdirSync, existsSync, readdirSync, cpSync } from "fs";
 
+// 🔹 Plugin mejorado: copia JSON y JS automáticamente
 function copyDataPlugin() {
   return {
-    name: "copy-data-json",
+    name: "copy-extra-files",
     closeBundle() {
-      const srcDir = resolve(__dirname, "src/data");
-      const destDir = resolve(__dirname, "dist/data");
+      const foldersToCopy = [
+        { src: "src/data", dest: "dist/data" },
+        { src: "src/js", dest: "dist/js" }, // 👈 ahora también copia tu carpeta js
+      ];
 
-      if (!existsSync(srcDir)) {
-        console.error("❌ No se encontró la carpeta src/data");
-        return;
-      }
+      foldersToCopy.forEach(({ src, dest }) => {
+        const srcDir = resolve(__dirname, src);
+        const destDir = resolve(__dirname, dest);
 
-      if (!existsSync(destDir)) mkdirSync(destDir, { recursive: true });
-
-      readdirSync(srcDir).forEach((file) => {
-        if (file.endsWith(".json")) {
-          copyFileSync(`${srcDir}/${file}`, `${destDir}/${file}`);
+        if (!existsSync(srcDir)) {
+          console.warn(`⚠️ Carpeta no encontrada: ${src}`);
+          return;
         }
-      });
 
-      console.log("✅ Archivos JSON copiados correctamente a dist/data");
+        mkdirSync(destDir, { recursive: true });
+        cpSync(srcDir, destDir, { recursive: true }); // copia todo el contenido
+        console.log(`✅ Carpeta copiada correctamente: ${src} → ${dest}`);
+      });
     },
   };
 }
