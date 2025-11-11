@@ -1,67 +1,68 @@
-// plantillas_recetas.js
+document.addEventListener("DOMContentLoaded", async () => {
+  // 1️⃣ Obtener parámetros del URL
+  const params = new URLSearchParams(window.location.search);
+  const seccion = params.get("seccion");
+  const id = params.get("id");
 
-// Obtiene los parámetros de la URL
-const params = new URLSearchParams(window.location.search);
-const seccion = params.get("seccion"); // ejemplo: acompañantes
-const id = params.get("id"); // ejemplo: miel-picante
+  // Verificar que existan ambos parámetros
+  if (!seccion || !id) {
+    document.querySelector("#contenedor-receta").innerHTML =
+      "<p>Error: Faltan parámetros en el enlace.</p>";
+    return;
+  }
 
-// Verifica que existan los parámetros
-if (!seccion || !id) {
-  console.error("❌ Faltan parámetros en la URL.");
-} else {
-  cargarReceta(seccion, id);
-}
-
-// Función principal para cargar la receta
-async function cargarReceta(seccion, id) {
   try {
-    // Ruta del archivo JSON (funciona en Vercel porque apunta a dist/data/)
-    const response = await fetch(`./data/${seccion}.json`);
-    if (!response.ok) throw new Error("No se encontró el archivo JSON");
+    // 2️⃣ Cargar el archivo JSON según la sección
+    // Importante: usar ruta relativa sin './' para que funcione en Vercel
+    const response = await fetch(`data/${seccion}.json`);
+    if (!response.ok) {
+      throw new Error(`No se pudo cargar data/${seccion}.json`);
+    }
 
     const data = await response.json();
+
+    // 3️⃣ Buscar la receta por su ID
     const receta = data[id];
 
-    if (!receta) throw new Error(`No se encontró la receta con id '${id}'`);
+    // 4️⃣ Mostrar la receta o mensaje de error
+    if (!receta) {
+      document.querySelector("#contenedor-receta").innerHTML =
+        "<p>Receta no encontrada 😢</p>";
+      return;
+    }
 
-    // Inyecta la información en el HTML
-    document.getElementById("titulo").textContent = receta.titulo;
-    document.getElementById("receta-img").src = receta.imagen;
-    document.getElementById("duracion").textContent = receta.duracion;
-    document.getElementById("dificultad").textContent = receta.dificultad;
+    // 5️⃣ Insertar los datos en el HTML
+    document.querySelector("#titulo-receta").textContent = receta.titulo;
+    document.querySelector("#dificultad").textContent = receta.dificultad;
+    document.querySelector("#duracion").textContent = receta.duracion;
+    document.querySelector("#descripcion").textContent = receta.descripcion || "";
 
-    // Lista de materiales
-    const materialesUl = document.getElementById("materiales");
-    materialesUl.innerHTML = "";
-    receta.materiales.forEach((item) => {
-      const li = document.createElement("li");
-      li.textContent = item;
-      materialesUl.appendChild(li);
-    });
+    // Materiales e instrucciones (si existen)
+    const materialesLista = document.querySelector("#materiales");
+    const instruccionesLista = document.querySelector("#instrucciones");
 
-    // Lista de utensilios
-    const utensiliosUl = document.getElementById("receta-utensilios");
-    utensiliosUl.innerHTML = "";
-    receta.utensilios.forEach((item) => {
-      const li = document.createElement("li");
-      li.textContent = item;
-      utensiliosUl.appendChild(li);
-    });
+    if (receta.materiales && materialesLista) {
+      materialesLista.innerHTML = receta.materiales
+        .map((item) => `<li>${item}</li>`)
+        .join("");
+    }
 
-    // Pasos
-    const pasosOl = document.getElementById("receta-pasos");
-    pasosOl.innerHTML = "";
-    receta.pasos.forEach((paso, i) => {
-      const li = document.createElement("li");
-      li.innerHTML = `
-        <p>${i + 1}. ${paso.texto}</p>
-        ${paso.imagen ? `<img src="${paso.imagen}" alt="Paso ${i + 1}" class="paso-img">` : ""}
-      `;
-      pasosOl.appendChild(li);
-    });
+    if (receta.instrucciones && instruccionesLista) {
+      instruccionesLista.innerHTML = receta.instrucciones
+        .map((paso) => `<li>${paso}</li>`)
+        .join("");
+    }
 
-    console.log(`✅ Receta cargada: ${receta.titulo}`);
+    // Imagen (si existe)
+    const imagen = document.querySelector("#imagen-receta");
+    if (receta.imagen && imagen) {
+      imagen.src = receta.imagen;
+      imagen.alt = receta.titulo;
+    }
+
   } catch (error) {
-    console.error("⚠️ Error al cargar la receta:", error);
+    console.error("Error cargando receta:", error);
+    document.querySelector("#contenedor-receta").innerHTML =
+      "<p>Ocurrió un error al cargar la receta 😔</p>";
   }
-}
+});

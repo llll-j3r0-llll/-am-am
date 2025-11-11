@@ -58,16 +58,17 @@
       "Cuchara"
     ],
     "pasos": [
-      { "texto": "Corta rodajas de tomate, luego pica el resto y agrégalos en un bowl con salsa de soya. Hornéalos por 30 minutos.", "imagen": "img/salados/pasos/bechamel-paso1.png" },
-      { "texto": "Ralla una cebolla con el rallador.", "imagen": "img/salados/pasos/bechamel-paso2.png" },
-      { "texto": "Añade mantequilla en el sartén y sofríe la cebolla.", "imagen": "img/salados/pasos/bechamel-paso3.png" },
-      { "texto": "Pica los ajos y agrégalos a la sartén, revuelve bien.", "imagen": "img/salados/pasos/bechamel-paso4.png" },
-      { "texto": "Agrega 2 cucharadas de harina de trigo, revuelve y luego añade 125g de crema de leche y salsa de soya, mezclando sin grumos.", "imagen": "img/salados/pasos/bechamel-paso5.png" },
-      { "texto": "Calienta una plancha, condimenta la pechuga y cocínala.", "imagen": "img/salados/pasos/bechamel-paso6.png" },
-      { "texto": "Hierve agua con sal y cocina la pasta por 10 min.", "imagen": "img/salados/pasos/bechamel-paso7.png" },
-      { "texto": "Corta la pechuga dorada en pedazos.", "imagen": "img/salados/pasos/bechamel-paso8.png" },
-      { "texto": "Retira los tomates del horno y condiméntalos con salsa de soya, sal y azúcar.", "imagen": "img/salados/pasos/bechamel-paso9.png" },
-      { "texto": "Agrega los tomates a la salsa Bechamel.", "imagen": "img/salados/pasos/bechamel-paso10.png" },
+      { "texto": "Corta rodajas de tomate, luego pica el resto y agrégalos en un bowl con salsa de soya. Hornéalos por 30 minutos.", "imagen": "img/fuerte/pasos/p_bechasmel/132.png" },
+      { "texto": "Ralla una cebolla con el rallador.", "imagen": null },
+      { "texto": "Añade mantequilla en el sartén y sofríe la cebolla.", "imagen": "img/fuerte/pasos/p_bechasmel/133.png" },
+      { "texto": "Pica los ajos y agrégalos a la sartén, revuelve bien.", "imagen": null },
+      { "texto": "Agrega 2 cucharadas de harina de trigo, revuelve y luego añade 125g de crema de leche y salsa de soya, mezclando sin grumos.", "imagen": "img/fuerte/pasos/p_bechasmel/134.png" },
+      { "texto": "Sazona la salsa Bechamel con sal, pimienta y nuez moscada al gusto. Reserva.", "imagen": "img/fuerte/pasos/p_bechasmel/130.png" },
+      { "texto": "Calienta una plancha, condimenta la pechuga y cocínala.", "imagen": null },
+      { "texto": "Hierve agua con sal y cocina la pasta por 10 min.", "imagen": "img/fuerte/pasos/p_bechasmel/131.png" },
+      { "texto": "Corta la pechuga dorada en pedazos.", "imagen": "img/fuerte/pasos/p_bechasmel/135.png" },
+      { "texto": "Retira los tomates del horno y condiméntalos con salsa de soya, sal y azúcar.", "imagen": null },
+      { "texto": "Agrega los tomates a la salsa Bechamel.", "imagen": "img/fuerte/pasos/p_bechasmel/136.png" },
       { "texto": "¡Disfruta!", "imagen": "img/fuerte/pasos/p_bechasmel/Pastas bechamel, pollo y tomates.png"  }
     ],
     "imagen": "img/inicio/Bechamel.jpg"
@@ -161,8 +162,8 @@
       "Cucharón"
     ],
     "pasos": [
-      { "texto": "Cocina la carne en olla a presión 35 min con sal, pimienta y sal de ajo.", "imagen": "img/salados/pasos/lasana-paso1.png" },
-      { "texto": "Precalienta el horno por 15 min.", "imagen": "img/salados/pasos/lasana-paso2.png" },
+      { "texto": "Cocina la carne en olla a presión 35 min con sal, pimienta y sal de ajo.", "imagen": "" },
+      { "texto": "Precalienta el horno por 15 min.", "imagen": "" },
       { "texto": "Corta el plátano en rodajas y hornéalo por 1h 30min. Luego haz puré.", "imagen": "img/salados/pasos/lasana-paso3.png" },
       { "texto": "Sofríe tomates con sal y azúcar.", "imagen": "img/salados/pasos/lasana-paso4.png" },
       { "texto": "Licúa los tomates sofritos y resérvalos en un bowl.", "imagen": "img/salados/pasos/lasana-paso5.png" },
@@ -173,7 +174,7 @@
       { "texto": "Retira el film y sella el rollito en sartén.", "imagen": "img/salados/pasos/lasana-paso10.png" },
       { "texto": "¡Disfruta! (Puedes cortarlo en lonjas estilo sushi).", "imagen": "img/fuerte/pasos/lasagna_ma/maduro lasagna.png" }
     ],
-    "imagen": "img/fuerte/lasaña de madurito.png"
+    "imagen": "img/fuerte/lasagna_ma/lasaña de madurito.png"
   },
 
   "rollitos-calabacin": {
@@ -331,15 +332,15 @@
       "Olla"
     ],
     "pasos": [
-      { "texto": "En una olla coloca las papas y ponlas a hervir, retíralas cuando puedas introducir un tenedor con facilidad.", "imagen": null },
+      { "texto": "En una olla coloca las papas y ponlas a hervir, retíralas cuando puedas introducir un tenedor con facilidad.", "imagen": "img/fuerte/pasos/ñoquis/166.png" },
       { "texto": "Machaca la papa hasta hacerla puré e intégrala con un batidor hasta que comience a tomar consistencia de masa.", "imagen": null },
-      { "texto": "Agrega un poco de pimienta e integra el puré con la maicena y mezcla hasta activar el almidón de la papa.", "imagen": null },
-      { "texto": "Agrega el huevo y mezcla hasta obtener una masa homogénea.", "imagen": null },
-      { "texto": "Divide la masa en bolitas y amásalas hasta obtener tiras del grosor de tu dedo pulgar.", "imagen": null },
+      { "texto": "Agrega un poco de pimienta e integra el puré con la maicena y mezcla hasta activar el almidón de la papa.", "imagen": "img/fuerte/pasos/ñoquis/167.png" },
+      { "texto": "Agrega el huevo y mezcla hasta obtener una masa homogénea.", "imagen": "img/fuerte/pasos/168.png" },
+      { "texto": "Divide la masa en bolitas y amásalas hasta obtener tiras del grosor de tu dedo pulgar.", "imagen": "img/fuerte/pasos/ñoquis/169.png" },
       { "texto": "Con un cuchillo corta las tiras en pequeños rectángulos del tamaño de una falange.", "imagen": null },
-      { "texto": "De nuevo coloca agua a hervir y cuando esté a punto de ebullición agrégale sal y pon los ñoquis por tandas. Estarán listos cuando floten.", "imagen": null },
+      { "texto": "De nuevo coloca agua a hervir y cuando esté a punto de ebullición agrégale sal y pon los ñoquis por tandas. Estarán listos cuando floten.", "imagen": "img/fuerte/pasos/ñoquis/170.png" },
       { "texto": "Retira del agua y escúrrelos bien.", "imagen": null },
-      { "texto": "Acompáñalos con alguna salsa de tu elección (recomendación: carbonara).", "imagen": null },
+      { "texto": "Acompáñalos con alguna salsa de tu elección (recomendación: carbonara).", "imagen": "img/fuerte/pasos/ñoquis/171.png" },
       { "texto": "Lleva los ñoquis a una sartén con un poco de mantequilla o grasa de tu preferencia para dorarlos ligeramente.", "imagen": null },
       { "texto": "Sirve y disfruta.", "imagen": "img/fuerte/pasos/ñoquis/ñoquis (2).png" }
     ],
@@ -375,7 +376,7 @@
       { "texto": "Añadir otra cucharada de aceite al wok y saltear el ajo y el jengibre durante 1 minuto.", "imagen":  "img/fuerte/pasos/wok_cam/158 sin título_20251015121455.png" },
       { "texto": "Incorporar la zanahoria, el pimentón y el brócoli, saltear 5 minutos a fuego alto.", "imagen": null },
       { "texto": "Agregar los camarones de nuevo y verter la salsa de soya, mezclar bien durante 2 minutos más.", "imagen": "img/fuerte/pasos/wok_cam/159 sin título_20251015121502.png" }, 
-      { "texto": "Servir caliente y decorar con semillas de sésamo o cebollín fresco.", "imagen": null }
+      { "texto": "Servir caliente y decorar con semillas de sésamo o cebollín fresco.", "imagen": "img/fuerte/pasos/wok_cam/Wok de camarones-Photoroom.png" }
     ],
     "imagen": "img/fuerte/wok de camarones (1) (1).png"
   },
@@ -454,11 +455,11 @@
       "Platos amplios o bowls para servir"
     ],
     "pasos": [
-      { "texto": "Preparar la marinada: En un tazón, bate la miel, la salsa de soya, el ajo, el vinagre, el aceite de oliva, la sal y la pimienta. Añade los muslos de pollo, mezcla bien para cubrir, tapa y marina por al menos 30 minutos.", "imagen": null },
-      { "texto": "Cocinar el pollo: Precalienta el horno a 200 °C (400 °F). Coloca el pollo en una bandeja para hornear forrada, reservando la marinada. Hornea de 35 a 40 minutos, bañando una o dos veces con la marinada reservada, hasta que esté dorado y la temperatura interna alcance 74 °C (165 °F). Al final, gratina 2-3 minutos para caramelizar mejor.", "imagen": null },
-      { "texto": "Asar el maíz: Unta las mazorcas con aceite de oliva, espolvorea con pimienta y sal. Asa a fuego alto de 10 a 12 minutos, hasta que estén ligeramente doradas, unos 1-2 minutos por lado.", "imagen": null },
+      { "texto": "Preparar la marinada: En un tazón, bate la miel, la salsa de soya, el ajo, el vinagre, el aceite de oliva, la sal y la pimienta. Añade los muslos de pollo, mezcla bien para cubrir, tapa y marina por al menos 30 minutos.", "imagen": "img/fuerte/pasos/pollo_miel/200.png" },
+      { "texto": "Cocinar el pollo: Precalienta el horno a 200 °C (400 °F). Coloca el pollo en una bandeja para hornear forrada, reservando la marinada. Hornea de 35 a 40 minutos, bañando una o dos veces con la marinada reservada, hasta que esté dorado y la temperatura interna alcance 74 °C (165 °F). Al final, gratina 2-3 minutos para caramelizar mejor.", "imagen": "img/fuerte/pasos/pollo_miel/201.png" },
+      { "texto": "Asar el maíz: Unta las mazorcas con aceite de oliva, espolvorea con pimienta y sal. Asa a fuego alto de 10 a 12 minutos, hasta que estén ligeramente doradas, unos 1-2 minutos por lado.", "imagen": "img/fuerte/pasos/pollo_miel/202.png" },
       { "texto": "Preparar la ensalada: En un tazón, mezcla pepino, tomates cherry y queso. Baña con aceite de oliva y jugo de limón, sazona con orégano, sal y pimienta, y mezcla bien.", "imagen": null },
-      { "texto": "Servir: Coloca los muslos de pollo con miel y ajo junto con el maíz asado y la ensalada griega de pepino y tomate.", "imagen": null }
+      { "texto": "Servir: Coloca los muslos de pollo con miel y ajo junto con el maíz asado y la ensalada griega de pepino y tomate.", "imagen": "img/fuerte/pasos/pollo_miel/Muslos de pollo con miel-Photoroom.png" }
     ],
     "imagen": "img/fuerte/Muslos de Pollo con Miel y Ajo con Maíz Asado y Ensalada Griega.png"
   },
@@ -536,9 +537,9 @@
     ],
     "pasos": [
       { "texto": "Asar las papas: Precalienta el horno a 220 °C. Coloca las papas peladas y en cubos en un tazón grande. Agrega el aceite de oliva, la paprika, el ajo en polvo, sal y pimienta. Mezcla bien hasta cubrir todos los trozos y distribúyelos en una bandeja para hornear. Hornea durante 25–30 minutos, o hasta que estén doradas y tiernas.", "imagen": null },
-      { "texto": "Cocinar la carne: En una sartén grande a fuego medio, agrega la carne molida y cocínala durante 6–8 minutos, desmenuzándola con una espátula. Añade el orégano seco, la paprika, el ajo en polvo, sal y pimienta al gusto. Cocina hasta que la carne esté bien dorada y cocida.", "imagen": null },
-      { "texto": "Preparar el queso crema: En un recipiente pequeño, bate ligeramente el queso crema bajo en grasa hasta que esté suave y cremoso (puedes calentarlo unos segundos en microondas si está muy firme).", "imagen": null },
-      { "texto": "Armar el bowl: En cada bowl o plato hondo, coloca una base de papas asadas, agrega por encima la carne molida sazonada y una porción de queso crema. Añade las rebanadas de aguacate al lado.", "imagen": null },
+      { "texto": "Cocinar la carne: En una sartén grande a fuego medio, agrega la carne molida y cocínala durante 6–8 minutos, desmenuzándola con una espátula. Añade el orégano seco, la paprika, el ajo en polvo, sal y pimienta al gusto. Cocina hasta que la carne esté bien dorada y cocida.", "imagen": "img/fuerte/pasos/bowl_de_res_qsocrema/203.png" },
+      { "texto": "Preparar el queso crema: En un recipiente pequeño, bate ligeramente el queso crema bajo en grasa hasta que esté suave y cremoso (puedes calentarlo unos segundos en microondas si está muy firme).", "imagen": "img/fuerte/pasos/bowl_de_res_qsocrema/204.png" },
+      { "texto": "Armar el bowl: En cada bowl o plato hondo, coloca una base de papas asadas, agrega por encima la carne molida sazonada y una porción de queso crema. Añade las rebanadas de aguacate al lado.", "imagen": "img/fuerte/pasos/bowl_de_res_qsocrema/205.png" },
       { "texto": "Toques finales: Si te gusta un toque picante, puedes añadir un chorrito de salsa picante sobre el queso crema (opcional).", "imagen": null },
       { "texto": "Servir: Sirve caliente y disfruta de un bowl cremoso, reconfortante y lleno de sabor.", "imagen": null }
     ],

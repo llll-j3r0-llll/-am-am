@@ -1,0 +1,433 @@
+{
+  "infusion-jengibre-limon-miel": {
+    "titulo": "Infusión de jengibre, limón y miel",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 trozo de jengibre fresco (2–3 cm)",
+      "1 taza de agua",
+      "Jugo de ½ limón",
+      "1 cdita de miel (ajustar al gusto)"
+    ],
+    "utensilios": ["Olla pequeña", "Cuchillo", "Tabla para picar", "Colador", "Taza"],
+    "pasos": [
+      { "texto": "Pela y corta el jengibre en rodajas finas.", "imagen": null },
+      { "texto": "Hierve el agua en la olla y agrega el jengibre.", "imagen": null },
+      { "texto": "Cocina a fuego bajo 5–7 minutos y apaga.", "imagen": null },
+      { "texto": "Cuela la infusión en una taza.", "imagen": null },
+      { "texto": "Añade el jugo de limón y endulza con miel antes de tomar.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Infusión de jengibre y limón.png"
+  },
+
+  "latte-cafe-canela": {
+    "titulo": "Latte de café con leche y canela",
+    "dificultad": "Fácil",
+    "duracion": "8min",
+    "materiales": [
+      "1 taza de leche de avena (puede ser otra leche vegetal)",
+      "½ taza de café fuerte",
+      "1 cdita de miel o endulzante natural (opcional)",
+      "1 pizca de canela en polvo"
+    ],
+    "utensilios": ["Olla pequeña", "Taza", "Espumador de leche (opcional)", "Cuchara"],
+    "pasos": [
+      { "texto": "Prepara el café en cafetera o de forma instantánea.", "imagen": null },
+      { "texto": "Calienta la leche a fuego medio sin dejar hervir.", "imagen": null },
+      { "texto": "Si tienes espumador, espuma la leche para darle textura cremosa.", "imagen": null },
+      { "texto": "Vierte primero el café en la taza y luego la leche espumada.", "imagen": null },
+      { "texto": "Endulza con miel y espolvorea canela.", "imagen": null }
+    ],
+    "imagen": "img/calientes/latte.png"
+  },
+
+  "chocolate-caliente": {
+    "titulo": "Chocolate caliente",
+    "dificultad": "Fácil",
+    "duracion": "8min",
+    "materiales": [
+      "1 taza de leche de almendras (o la que prefieras)",
+      "½ cda de cacao en polvo sin azúcar",
+      "1 cdita de miel, panela rallada o endulzante natural",
+      "1 pizca de canela (opcional)"
+    ],
+    "utensilios": ["Olla pequeña", "Batidor de mano", "Taza"],
+    "pasos": [
+      { "texto": "Calienta la leche de almendras a fuego medio.", "imagen": null },
+      { "texto": "Agrega el cacao en polvo y mezcla bien.", "imagen": null },
+      { "texto": "Endulza con miel o panela al gusto.", "imagen": null },
+      { "texto": "Agrega canela si lo deseas y sirve caliente.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Chocolate caliente.png"
+  },
+
+  "te-menta-caliente": {
+    "titulo": "Té de menta fresca caliente",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 taza de agua (250 ml)",
+      "5–6 hojas de menta fresca",
+      "1 cdta de miel o endulzante natural (opcional)",
+      "Rodaja de limón (opcional)"
+    ],
+    "utensilios": ["Olla pequeña o tetera", "Taza", "Colador"],
+    "pasos": [
+      { "texto": "Calienta el agua hasta que empiece a hervir.", "imagen": null },
+      { "texto": "Añade las hojas de menta y apaga el fuego.", "imagen": null },
+      { "texto": "Tapa y deja reposar de 5 a 7 minutos.", "imagen": null },
+      { "texto": "Cuela y sirve caliente.", "imagen": null },
+      { "texto": "Endulza con miel y agrega rodaja de limón si deseas.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Té de Menta Fresca Caliente .png"
+  },
+
+  "leche-dorada": {
+    "titulo": "Leche dorada",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 taza de leche de tu preferencia",
+      "1 cdta de cúrcuma en polvo",
+      "3 bolitas de pimienta de olor",
+      "3 clavos",
+      "1 ramita de canela",
+      "1 grano de cardamomo (opcional)"
+    ],
+    "utensilios": ["Taza", "Olla", "Colador", "Cuchara"],
+    "pasos": [
+      { "texto": "Agrega todos los ingredientes menos la cúrcuma y la miel a la olla.", "imagen": null },
+      { "texto": "Calienta hasta hervir y baja el fuego antes de que se derrame.", "imagen": null },
+      { "texto": "Añade la cúrcuma y cocina 8–10 minutos a fuego bajo.", "imagen": null },
+      { "texto": "Cuela antes de servir para eliminar las especias.", "imagen": null },
+      { "texto": "Endulza al gusto con miel y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Leche de dorada.png"
+  },
+
+  "cafe-mocca": {
+    "titulo": "Café mocca caliente",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 taza de leche (vegetal o entera)",
+      "1 taza de café fuerte o espresso",
+      "1 cda de cacao en polvo sin azúcar",
+      "1 cdta de azúcar o miel (opcional)",
+      "1 cdta de esencia de vainilla (opcional)",
+      "Crema batida o espuma de leche (opcional)"
+    ],
+    "utensilios": ["Olla pequeña", "Batidor o cuchara", "Taza grande"],
+    "pasos": [
+      { "texto": "Calienta la leche sin dejar hervir.", "imagen": null },
+      { "texto": "Mezcla el cacao con azúcar y un poco de café hasta formar una pasta.", "imagen": null },
+      { "texto": "Agrega el resto del café y mezcla bien.", "imagen": null },
+      { "texto": "Añade la leche caliente y la vainilla, revolviendo.", "imagen": null },
+      { "texto": "Decora con crema batida o espuma si lo deseas.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Cafe mocca .png"
+  },
+
+  "cappuccino": {
+    "titulo": "Cappuccino",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 taza de café espresso o café fuerte",
+      "¾ taza de leche vegetal",
+      "½ cdta de canela en polvo (opcional)",
+      "1 cdta de cacao en polvo sin azúcar (opcional)",
+      "Endulzante natural al gusto"
+    ],
+    "utensilios": ["Cafetera o prensa", "Espumador de leche o licuadora", "Taza"],
+    "pasos": [
+      { "texto": "Prepara el café espresso o fuerte.", "imagen": null },
+      { "texto": "Calienta la leche sin hervir y bátela hasta obtener espuma.", "imagen": null },
+      { "texto": "Vierte el café en una taza y añade la leche espumada.", "imagen": null },
+      { "texto": "Espolvorea con canela o cacao si lo deseas.", "imagen": null }
+    ],
+    "imagen": "img/calientes/cappuchino.png"
+  },
+
+  "matcha-latte": {
+    "titulo": "Matcha latte",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 cdta de té matcha en polvo",
+      "¾ taza de leche vegetal",
+      "¼ taza de agua caliente (no hirviendo)",
+      "1 cdta de miel o endulzante natural (opcional)"
+    ],
+    "utensilios": ["Taza", "Espumador o batidor pequeño", "Olla pequeña"],
+    "pasos": [
+      { "texto": "Disuelve el matcha en el agua caliente batiendo hasta eliminar grumos.", "imagen": null },
+      { "texto": "Calienta la leche sin hervir y agrégala al matcha disuelto.", "imagen": null },
+      { "texto": "Endulza al gusto y mezcla bien.", "imagen": null },
+      { "texto": "Opcional: espolvorea matcha encima para decorar.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Matcha Latte.png"
+  },
+
+  "infusion-manzanilla-canela": {
+    "titulo": "Infusión de manzanilla y canela",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 taza de agua (250 ml)",
+      "1 cda de flores de manzanilla (o 1 sobre de té)",
+      "1 astilla de canela",
+      "1 cdta de miel o endulzante natural (opcional)"
+    ],
+    "utensilios": ["Olla o tetera", "Taza", "Colador"],
+    "pasos": [
+      { "texto": "Hierve el agua y añade la canela y la manzanilla.", "imagen": null },
+      { "texto": "Apaga el fuego, tapa y deja reposar 5–7 minutos.", "imagen": null },
+      { "texto": "Cuela y sirve caliente.", "imagen": null },
+      { "texto": "Endulza al gusto si lo deseas.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Infusión de Manzanilla y Canela.png"
+  },
+
+  "avena-caliente-frutas": {
+    "titulo": "Avena caliente con frutas",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "½ taza de avena en hojuelas",
+      "1 taza de leche vegetal o agua",
+      "½ banano en rodajas",
+      "½ manzana picada o rallada",
+      "1 cdta de miel o endulzante natural (opcional)",
+      "½ cdta de canela en polvo",
+      "Frutos secos o semillas al gusto (opcional)"
+    ],
+    "utensilios": ["Olla pequeña", "Cuchara", "Cuchillo", "Tabla de picar"],
+    "pasos": [
+      { "texto": "Coloca la leche o agua en una olla y caliéntala a fuego medio.", "imagen": null },
+      { "texto": "Agrega la avena y cocina 5–7 minutos hasta obtener textura cremosa.", "imagen": null },
+      { "texto": "Añade la manzana y la canela mientras se cocina.", "imagen": null },
+      { "texto": "Sirve y coloca las rodajas de banano encima.", "imagen": null },
+      { "texto": "Endulza con miel y decora con frutos secos.", "imagen": null }
+    ],
+    "imagen": "img/calientes/avena con frutas.png"
+  },
+
+  "chai-latte-caliente": {
+    "titulo": "Chai Latte Caliente",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "1 bolsita de té negro",
+      "5 clavos de olor",
+      "1 cdta de cardamomo en polvo",
+      "2 anís estrellados",
+      "1 rama de canela",
+      "2 rodajas de jengibre",
+      "1 taza de leche de tu preferencia"
+    ],
+    "utensilios": ["Taza", "Sartén", "Colador"],
+    "pasos": [
+      { "texto": "Calienta todas las especias en una sartén a fuego medio para potenciar su sabor.", "imagen": null },
+      { "texto": "Añade un chorrito de agua junto al jengibre hasta que llegue a punto de ebullición.", "imagen": null },
+      { "texto": "Cuando hierva, agrega la leche y la bolsita de té, deja infusionar 12 minutos a fuego bajo con tapa.", "imagen": null },
+      { "texto": "Cuela las especias y deséchalas antes de servir.", "imagen": null },
+      { "texto": "Decora con canela en polvo si deseas y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Chai latte .JPG"
+  },
+
+  "leche-de-almendra-con-chocolate": {
+    "titulo": "Leche de Almendra con Chocolate",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 puñado de almendras laminadas",
+      "½ taza de avena en hojuelas",
+      "3 cdas de cocoa alcalina o sin azúcar",
+      "1 cda de aceite en polvo",
+      "Miel al gusto",
+      "Esencia de vainilla"
+    ],
+    "utensilios": ["Taza", "Sartén", "Colador", "Licuadora"],
+    "pasos": [
+      { "texto": "Remoja las almendras durante 10 minutos en agua caliente.", "imagen": null },
+      { "texto": "Añade todos los ingredientes a la licuadora junto a una taza de agua caliente y licúa por 1 minuto.", "imagen": null },
+      { "texto": "Cuela en una olla o sartén honda y calienta 5 minutos a fuego bajo con tapa.", "imagen": null },
+      { "texto": "Sirve y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Leche de almendras .JPG"
+  },
+
+  "latte-de-zapallo-caliente": {
+    "titulo": "Latte de Zapallo Caliente",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "2 cdas de puré de zapallo cocido y colado",
+      "1 pizca de nuez moscada",
+      "1 pizca de jengibre en polvo",
+      "2 clavos de olor",
+      "1 taza de leche de tu preferencia",
+      "Canela al gusto",
+      "1 espresso"
+    ],
+    "utensilios": ["Taza", "Sartén", "Colador"],
+    "pasos": [
+      { "texto": "Mezcla el puré de zapallo con las especias (jengibre, nuez moscada, clavo).", "imagen": null },
+      { "texto": "Agrega un chorrito de leche y calienta a fuego lento hasta que hierva.", "imagen": null },
+      { "texto": "Añade el café, apaga el fuego y mezcla bien.", "imagen": null },
+      { "texto": "Sirve en una taza y completa con leche tibia.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Latte de zapallo.JPG"
+  },
+
+  "latte-rosadito": {
+    "titulo": "Latte Rosadito",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "40 g de remolacha cocida",
+      "½ cda de polvo de jengibre",
+      "1 taza de leche de almendras",
+      "Miel o endulzante al gusto"
+    ],
+    "utensilios": ["Taza", "Sartén", "Colador", "Licuadora"],
+    "pasos": [
+      { "texto": "Licúa la remolacha con el jengibre y un poco de leche.", "imagen": null },
+      { "texto": "Calienta el resto de la leche y viértela en una taza.", "imagen": null },
+      { "texto": "Cuela la mezcla licuada y agrégala a la taza con leche caliente.", "imagen": null },
+      { "texto": "Opcional: agrega una bolsita de té de canela, endulza y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Latte Rosa.JPG"
+  },
+
+  "morir-sonando-caliente": {
+    "titulo": "Morir Soñando (Versión Caliente)",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "Jugo de 4 naranjas",
+      "½ taza de crema de leche",
+      "2 cdas de leche en polvo",
+      "1 cdta de esencia de vainilla",
+      "Miel al gusto",
+      "1 limón"
+    ],
+    "utensilios": ["Taza", "Sartén", "Olla"],
+    "pasos": [
+      { "texto": "En una sartén, mezcla miel, jugo de limón y naranja, cocina hasta espesar un poco.", "imagen": null },
+      { "texto": "Hierve la crema de leche con ralladura de naranja y una ramita de canela.", "imagen": null },
+      { "texto": "En una taza, agrega primero la mezcla de naranja y luego la leche, mezcla y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Morir soñando.JPG"
+  },
+
+  "mocaccino": {
+    "titulo": "Mocaccino",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "1 espresso",
+      "1 taza de leche de tu preferencia",
+      "30 g de chocolate para fundir o en polvo",
+      "Endulzante al gusto",
+      "Esencia de vainilla"
+    ],
+    "utensilios": ["Taza", "Sartén"],
+    "pasos": [
+      { "texto": "Funde el chocolate a baño maría con un chorrito de leche.", "imagen": null },
+      { "texto": "Calienta el resto de la leche con endulzante y espuma con un batidor si deseas.", "imagen": null },
+      { "texto": "En una taza, agrega el chocolate fundido, luego la leche y finalmente el espresso.", "imagen": null },
+      { "texto": "Decora con cacao o canela en polvo y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Mocaccino.JPG"
+  },
+
+  "moon-milk": {
+    "titulo": "Moon Milk",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "300 ml de leche de tu preferencia",
+      "1 cda de flores de lavanda",
+      "1 cdta de cúrcuma",
+      "1 ramita de canela",
+      "5 hojas de menta",
+      "Endulzante al gusto"
+    ],
+    "utensilios": ["Taza", "Olla"],
+    "pasos": [
+      { "texto": "En una olla pequeña, añade la leche y todas las especias.", "imagen": null },
+      { "texto": "Hierve a fuego medio hasta que llegue a punto de ebullición.", "imagen": null },
+      { "texto": "Baja el fuego, tapa y deja 5 minutos más.", "imagen": null },
+      { "texto": "Cuela antes de servir y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Moon milk.JPG"
+  },
+
+  "ponche-de-frutas": {
+    "titulo": "Ponche de Frutas",
+    "dificultad": "Fácil",
+    "duracion": "45min",
+    "materiales": [
+      "1 L de agua",
+      "3 manzanas",
+      "3 duraznos",
+      "1 rama de canela",
+      "3 clavos de olor",
+      "3 limones en rodajas",
+      "Endulzante (preferiblemente panela)",
+      "Cerezas (opcional)"
+    ],
+    "utensilios": ["Taza", "Olla", "Cuchillo"],
+    "pasos": [
+      { "texto": "Hierve el agua con clavos y canela durante 5 minutos.", "imagen": null },
+      { "texto": "Agrega las frutas y el limón, deja hervir 35 minutos a fuego medio.", "imagen": null },
+      { "texto": "Endulza al gusto antes de servir.", "imagen": null },
+      { "texto": "Sirve con cubitos de fruta fresca y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Ponche de frutas.JPG"
+  },
+
+  "aguapanela-para-la-gripe": {
+    "titulo": "Aguapanela para la Gripe",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "500 ml de agua",
+      "150 g de panela",
+      "4 limones criollos partidos en cruz",
+      "1 pedacito de jengibre rallado",
+      "Chorrito de miel al gusto"
+    ],
+    "utensilios": ["Taza", "Olla", "Cuchillo"],
+    "pasos": [
+      { "texto": "Hierve el agua con la panela durante 10 minutos sin tapa.", "imagen": null },
+      { "texto": "Agrega los limones y el jengibre, deja hervir 4 minutos más.", "imagen": null },
+      { "texto": "Sirve y añade miel al gusto.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Agua panela .JPG"
+  },
+
+  "chocomenta": {
+    "titulo": "Chocomenta",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "500 ml de bebida de almendra",
+      "5 cdas de cocoa",
+      "10 hojas de menta",
+      "30 g de chocolate negro",
+      "Endulzante al gusto"
+    ],
+    "utensilios": ["Taza", "Olla", "Cuchillo"],
+    "pasos": [
+      { "texto": "Hierve la bebida de almendra con las hojas de menta durante 5–10 minutos.", "imagen": null },
+      { "texto": "Agrega el chocolate negro y deja que se derrita.", "imagen": null },
+      { "texto": "Añade la cocoa y mezcla bien.", "imagen": null },
+      { "texto": "Cuela antes de servir, endulza al gusto y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/calientes/Choco menta .JPG"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "tostada-agridulce-con-aguacate-y-huevo-cocido": {
+    "titulo": "Tostada Agridulce con Aguacate y Huevo Cocido",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "Rebanada de pan (idealmente de masa madre, receta en la sección de acompañamientos)",
+      "Queso para asar",
+      "Miel",
+      "Aguacate",
+      "1 huevo",
+      "Salsa de soya",
+      "Especias (sal, pimienta roja escalada o negra)"
+    ],
+    "utensilios": [
+      "Tabla",
+      "Cuchillo",
+      "Cuchara",
+      "Rallador",
+      "Sartén",
+      "Olla pequeña o recipiente para hervir el agua"
+    ],
+    "pasos": [
+      { "texto": "Coloca a hervir agua, sal y salsa de soya (cantidad suficiente para cubrir el huevo).", "imagen": null },
+      { "texto": "Cuando el agua esté en punto de ebullición, añade el huevo con ayuda de una cuchara y cocina 8–9 minutos.", "imagen": null },
+      { "texto": "Toma la rebanada de pan y cubre ambas caras con miel.", "imagen": null },
+      { "texto": "Ralla y esparce el queso sobre ambas caras del pan hasta que queden cubiertas.", "imagen": null },
+      { "texto": "Dora ambas caras del pan en un sartén a punto de humo, a fuego medio-alto.", "imagen": null },
+      { "texto": "Rebana medio aguacate y pela el huevo.", "imagen": null },
+      { "texto": "Coloca el aguacate sobre la tostada, luego el huevo y condimenta al gusto.", "imagen": null }
+    ],
+    "imagen": "img/facil/tostada-agridulce.png"
+  },
+
+  "sanduche-de-arandanos-y-queso": {
+    "titulo": "Sanduche de Arándanos y Queso",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "Rebanada de pan (idealmente de masa madre, receta en acompañamientos)",
+      "Queso provolone o de tu preferencia",
+      "Miel",
+      "Medio limón",
+      "Arándanos",
+      "Aceite, mantequilla o ghee"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchara o miserable"
+    ],
+    "pasos": [
+      { "texto": "En una sartén a fuego bajo, agrega los arándanos, la miel y el jugo de medio limón.", "imagen": null },
+      { "texto": "Integra periódicamente hasta reducir el agua de los arándanos y obtener una textura similar a mermelada.", "imagen": null },
+      { "texto": "En otra sartén, dora las partes internas del pan y agrega el queso.", "imagen": null },
+      { "texto": "Rellena con los arándanos en el centro y dora las caras exteriores hasta que el queso se derrita.", "imagen": null },
+      { "texto": "¡Disfruta!", "imagen": null }
+    ],
+    "imagen": "img/facil/sanduche-arandanos-queso.png"
+  },
+
+  "waffles-de-pan-de-yuca": {
+    "titulo": "Waffles de Pan de Yuca",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "250g de yuca",
+      "Media taza de queso mozzarella rallado",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Olla",
+      "Bowl (recipiente)",
+      "Tenedor o machacador",
+      "Wafflera",
+      "Cuchillo"
+    ],
+    "pasos": [
+      { "texto": "Coloca a hervir agua con sal al gusto.", "imagen": null },
+      { "texto": "Añade la yuca pelada cuando el agua esté en ebullición y cocina hasta que esté blanda.", "imagen": null },
+      { "texto": "Retira y haz puré la yuca cocida.", "imagen": null },
+      { "texto": "Mezcla el puré con el queso rallado hasta obtener una masa uniforme.", "imagen": null },
+      { "texto": "Forma bolitas y colócalas en la wafflera o haz arepitas para dorar en sartén.", "imagen": null }
+    ],
+    "imagen": "img/facil/waffles-yuca.png"
+  },
+
+  "borde-tomate-relleno": {
+    "titulo": "Borde Tomate Relleno",
+    "dificultad": "Fácil",
+    "duracion": "15-20 min",
+    "materiales": [
+      "2 tomates grandes",
+      "2 huevos",
+      "40g de queso rallado (de tu preferencia)",
+      "2 tajadas de jamón en tiras o cubos",
+      "Especias (sal, pimienta, orégano, albahaca o cilantro)"
+    ],
+    "utensilios": [
+      "Bowl (recipiente)",
+      "Vaso con boca circular",
+      "Tenedor",
+      "Cuchara",
+      "Sartén con tapa"
+    ],
+    "pasos": [
+      { "texto": "Corta los tomates en rebanadas gruesas y haz un orificio con un vaso.", "imagen": null },
+      { "texto": "Reserva los bordes y corta el centro del tomate en cubos.", "imagen": null },
+      { "texto": "En un bowl mezcla el tomate, los huevos, jamón, queso y condimentos.", "imagen": null },
+      { "texto": "Pon los bordes en un sartén y rellénalos con la mezcla. Tapa y cocina.", "imagen": null },
+      { "texto": "Sirve y decora con cilantro o albahaca.", "imagen": null }
+    ],
+    "imagen": "img/facil/borde-tomate-relleno.png"
+  },
+
+  "rollitos-verdes": {
+    "titulo": "Rollitos Verdes",
+    "dificultad": "Fácil",
+    "duracion": "25 min",
+    "materiales": [
+      "3 huevos",
+      "2 puñados de espinacas frescas",
+      "Cilantro picado",
+      "Rúcula",
+      "1 lata de atún en agua",
+      "Queso crema",
+      "½ aguacate pequeño",
+      "Especias (sal y pimienta negra)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Sartén con tapa",
+      "Bowl (recipiente)",
+      "Cuchillo",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Licúa los huevos con las espinacas, sal y pimienta.", "imagen": null },
+      { "texto": "Engrasa un sartén y cocina la mezcla tapada hasta que cuaje.", "imagen": null },
+      { "texto": "En un bowl mezcla el atún, queso crema, aguacate y cilantro.", "imagen": null },
+      { "texto": "Rellena la tortilla de espinaca con la mezcla y añade rúcula.", "imagen": null },
+      { "texto": "Enrolla y corta en porciones tipo sushi.", "imagen": null }
+    ],
+    "imagen": "img/facil/rollitos-verdes.png"
+  },
+
+  "pancakes-de-avena": {
+    "titulo": "Pancakes de Avena",
+    "dificultad": "Media",
+    "duracion": "25 min",
+    "materiales": [
+      "1 taza de avena en hojuelas o harina de avena",
+      "1 taza de leche (de vaca o vegetal)",
+      "1 huevo",
+      "1 cda de miel o sirope (opcional)",
+      "1 cdita de esencia de vainilla",
+      "1 pizca de sal",
+      "½ taza de arándanos frescos",
+      "½ taza de fresas en láminas o picadas",
+      "Aceite de coco o mantequilla"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Bowls",
+      "Batidor de mano o tenedor",
+      "Espátula",
+      "Sartén antiadherente",
+      "Cuchillo",
+      "Tabla para picar",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "Licúa la avena en hojuelas hasta obtener harina fina.", "imagen": null },
+      { "texto": "Mezcla la harina de avena con una pizca de sal.", "imagen": null },
+      { "texto": "Bate el huevo con la leche, miel y vainilla.", "imagen": null },
+      { "texto": "Une los ingredientes líquidos con los secos hasta formar una masa homogénea.", "imagen": null },
+      { "texto": "Engrasa la sartén y cocina porciones hasta dorar por ambos lados.", "imagen": null },
+      { "texto": "Sirve apilados y decora con fresas, arándanos y miel.", "imagen": null }
+    ],
+    "imagen": "img/medio/pancakes-avena.png"
+  },
+
+  "cereal-crispy-saludable": {
+    "titulo": "Cereal Crispy Saludable",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "4 cucharadas de leche",
+      "½ taza de cocoa en polvo",
+      "½ taza de miel",
+      "2 cucharadas de chocolate semiamargo líquido (opcional)",
+      "2 tostadas de arroz"
+    ],
+    "utensilios": [
+      "Bowl (recipiente)",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "En un bowl mezcla miel, cacao, chocolate y leche hasta obtener una pasta.", "imagen": null },
+      { "texto": "Tritura las tostadas de arroz y mézclalas con la pasta de chocolate.", "imagen": null },
+      { "texto": "Sirve en un bowl con leche y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/facil/cereal-crispy.png"
+  },
+
+  "bowl-de-yogurt-griego-con-bits-de-cacao": {
+    "titulo": "Bowl de Yogurt Griego con Bits de Cacao",
+    "dificultad": "Fácil",
+    "duracion": "25 min",
+    "materiales": [
+      "1 puñadito de arándanos",
+      "Jugo de un limón pequeño",
+      "Semillas de chía",
+      "Miel",
+      "Yogurt griego",
+      "1 banano machacado",
+      "Avena",
+      "Cacao en polvo",
+      "Ralladura de limón",
+      "Leche de tu preferencia",
+      "Tu fruta favorita"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchara",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Cocina los arándanos con agua por 5 minutos a fuego medio con tapa.", "imagen": null },
+      { "texto": "Agrega el limón, miel y chía, y cocina 5 minutos más a fuego bajo.", "imagen": null },
+      { "texto": "En un bowl mezcla banano, avena, ralladura de limón, cacao y leche.", "imagen": null },
+      { "texto": "Lleva la mezcla a una sartén caliente hasta formar trozos semiduros.", "imagen": null },
+      { "texto": "En un plato coloca yogurt griego, la mermelada, los bits y fruta favorita.", "imagen": null }
+    ],
+    "imagen": "img/facil/bowl-yogurt-cacao.png"
+  },
+
+  "mugcake-de-avena": {
+    "titulo": "Mugcake de Avena",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "2 huevos",
+      "35g de harina de avena",
+      "Miel",
+      "Leche de tu preferencia",
+      "Avena o almendras laminadas",
+      "Manzana verde o pera en cubitos",
+      "3 cucharadas de yogurt griego o kéfir",
+      "Granola o frutos secos"
+    ],
+    "utensilios": [
+      "Taza",
+      "AirFryer",
+      "Tenedor"
+    ],
+    "pasos": [
+      { "texto": "Mezcla todos los ingredientes dentro de la taza excepto el yogurt y la granola.", "imagen": null },
+      { "texto": "Lleva la mezcla a la AirFryer por 15–20 minutos a 180°C.", "imagen": null },
+      { "texto": "Agrega el yogurt o kéfir encima y decora con granola.", "imagen": null }
+    ],
+    "imagen": "img/facil/mugcake-avena.png"
+  },
+
+  "tortilla-de-huevo-y-jamon-sabor-pizza": {
+    "titulo": "Tortilla de Huevo y Jamón Sabor Pizza",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "3 huevos",
+      "4 lonchas de jamón",
+      "1 cucharada de crema de leche",
+      "Sal, pimienta y orégano",
+      "Salsa de tomate casera (receta en sección acompañamientos)",
+      "Queso mozzarella"
+    ],
+    "utensilios": [
+      "Tenedor",
+      "Sartén",
+      "Bowl",
+      "Tijeras de cocina"
+    ],
+    "pasos": [
+      { "texto": "Corta el jamón en cubitos con tijeras.", "imagen": null },
+      { "texto": "Bate los huevos con el jamón, crema de leche y condimentos.", "imagen": null },
+      { "texto": "Vierte la mezcla en sartén engrasada a fuego medio y tapa.", "imagen": null },
+      { "texto": "Voltea la tortilla cuando esté cocida y deja 5–7 minutos más.", "imagen": null },
+      { "texto": "Agrega salsa de tomate y mozzarella, tapa 2 minutos más y sirve.", "imagen": null }
+    ],
+    "imagen": "img/facil/tortilla-pizza.png"
+  }
+}

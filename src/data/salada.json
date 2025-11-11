@@ -1,0 +1,513 @@
+{
+  "rollitos-de-jamon-serrano": {
+    "titulo": "Rollitos de Jamón Serrano",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "6 u 8 láminas de jamón serrano",
+      "Queso crema",
+      "Rúcula fresca (opcional)",
+      "Aguacate en láminas",
+      "Tomates cherry",
+      "Especias (sal, pimienta, ajo en polvo opcional)",
+      "Almendras laminadas (opcional)"
+    ],
+    "utensilios": ["Cuchillo", "Tabla", "Cuchara"],
+    "pasos": [
+      { "texto": "En una tabla extiende una lámina de jamón y coloca la mitad de la siguiente sobre la anterior, repite con todas las láminas.", "imagen": null },
+      { "texto": "Cubre con una capa fina de queso crema.", "imagen": null },
+      { "texto": "En un extremo coloca la rúcula, el aguacate y los tomates cherry laminados. Condimenta al gusto.", "imagen": null },
+      { "texto": "Enrolla con cuidado y corta en varios rollitos pequeños.", "imagen": null },
+      { "texto": "Decora con almendras laminadas y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/salados/rollos de jamón.png"
+  },
+
+  "bocaditos-de-papa-rellenos-de-queso": {
+    "titulo": "Bocaditos de Papa Rellenos de Queso",
+    "dificultad": "Medio",
+    "duracion": "40min",
+    "materiales": [
+      "4 papas medianas",
+      "½ taza de queso mozzarella o doble crema en cubos",
+      "2 cucharadas de harina de trigo o avena",
+      "1 huevo batido",
+      "½ taza de pan rallado (opcional)",
+      "Sal y pimienta al gusto",
+      "Aceite para freír o dorar"
+    ],
+    "utensilios": ["Olla", "Cuchillo", "Tabla", "Bowl", "Tenedor", "Sartén", "Espátula", "Papel absorbente"],
+    "pasos": [
+      { "texto": "Pela las papas, córtalas y cocínalas en agua con sal hasta que estén blandas.", "imagen": null },
+      { "texto": "Haz puré con un tenedor y añade harina, sal y pimienta hasta obtener una masa manejable.", "imagen": null },
+      { "texto": "Forma bolitas, abre un hueco al centro y coloca un cubito de queso.", "imagen": null },
+      { "texto": "Cierra las bolitas y pásalas por huevo batido y pan rallado.", "imagen": null },
+      { "texto": "Fríe en sartén hasta que estén doradas y colócalas sobre papel absorbente.", "imagen": null }
+    ],
+    "imagen": "img/salados/bocadillos de queso (1).png"
+  },
+
+  "chips-de-zucchini": {
+    "titulo": "Chips de Zucchini",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "1 zucchini mediano",
+      "1 cdta de aceite de oliva",
+      "1 cdta de sal marina",
+      "½ cdta de ajo en polvo",
+      "½ cdta de pimienta negra",
+      "1 cdta de queso parmesano o levadura nutricional (opcional)"
+    ],
+    "utensilios": ["Cuchillo", "Toalla de papel", "Tazón", "Horno o freidora de aire", "Espátula o pinzas"],
+    "pasos": [
+      { "texto": "Precalienta el horno o freidora de aire a 180°C.", "imagen": null },
+      { "texto": "Corta el zucchini en rodajas finas y sécalas con papel.", "imagen": null },
+      { "texto": "Mezcla las rodajas con aceite, sal, ajo y pimienta.", "imagen": null },
+      { "texto": "Hornea 25–35 min o cocina 10–12 min en freidora hasta que estén doradas.", "imagen": null },
+      { "texto": "Deja reposar unos minutos para que queden crocantes.", "imagen": null }
+    ],
+    "imagen": "img/salados/Chips de zucchini.JPG"
+  },
+
+  "chips-de-platano": {
+    "titulo": "Chips de Plátano",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "1 plátano verde o pintón",
+      "1 cdta de aceite de coco o de oliva",
+      "½ cdta de sal marina",
+      "Especias al gusto (ajo en polvo, cúrcuma, paprika o canela)"
+    ],
+    "utensilios": ["Cuchillo", "Toalla de papel", "Tazón", "Horno o freidora de aire", "Espátula o pinzas"],
+    "pasos": [
+      { "texto": "Precalienta el horno o freidora a 180°C.", "imagen": null },
+      { "texto": "Pela y corta el plátano en rodajas finas, sécalas con papel.", "imagen": null },
+      { "texto": "Mezcla con aceite, sal y especias.", "imagen": null },
+      { "texto": "Hornea 20–25 min o cocina 10–12 min en freidora hasta que estén crocantes.", "imagen": null },
+      { "texto": "Deja reposar unos minutos antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/salados/Chips de plátano .JPG"
+  },
+
+  "garbanzos-tostados": {
+    "titulo": "Garbanzos Tostados",
+    "dificultad": "Fácil",
+    "duracion": "35-40min",
+    "materiales": [
+      "1 taza de garbanzos cocidos",
+      "1 cdta de aceite de oliva o coco",
+      "½ cdta de sal marina",
+      "½ cdta de pimienta negra",
+      "½ cdta de paprika",
+      "¼ cdta de ajo en polvo"
+    ],
+    "utensilios": ["Tazón", "Horno o freidora", "Papel para hornear", "Espátula", "Toalla de papel"],
+    "pasos": [
+      { "texto": "Precalienta el horno o freidora a 200°C.", "imagen": null },
+      { "texto": "Seca los garbanzos con toalla de papel.", "imagen": null },
+      { "texto": "Mezcla con aceite y especias.", "imagen": null },
+      { "texto": "Hornea 30–40 min o cocina 15–20 min en freidora, agitando a mitad del tiempo.", "imagen": null },
+      { "texto": "Deja enfriar completamente antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/salados/Garbanzos crocantes.JPG"
+  },
+
+  "galletas-de-garbanzo-con-queso-y-ajo": {
+    "titulo": "Galletas de Garbanzo con Queso y Ajo",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "1 taza de garbanzos cocidos",
+      "¼ taza de queso mozzarella o parmesano",
+      "1 diente de ajo picado",
+      "1 huevo",
+      "1 cdta de aceite de oliva",
+      "½ cdta de sal marina",
+      "¼ cdta de pimienta negra"
+    ],
+    "utensilios": ["Licuadora", "Horno o freidora", "Papel para hornear", "Espátula"],
+    "pasos": [
+      { "texto": "Precalienta el horno o freidora a 180°C.", "imagen": null },
+      { "texto": "Procesa todos los ingredientes hasta formar una masa espesa.", "imagen": null },
+      { "texto": "Forma bolitas, aplánalas y colócalas sobre papel para hornear.", "imagen": null },
+      { "texto": "Hornea 15–20 min o cocina 10–12 min en freidora.", "imagen": null },
+      { "texto": "Deja enfriar unos minutos antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/salados/Galleta de garbanzo.JPG"
+  },
+
+  "bolitas-crocantes-de-verduras": {
+    "titulo": "Bolitas Crocantes de Verduras",
+    "dificultad": "Fácil",
+    "duracion": "45min",
+    "materiales": [
+      "65 g de calabaza asada",
+      "125 g de calabacín cocido",
+      "75 g de zanahoria molida",
+      "20 g de cebolla picada",
+      "1 clara de huevo",
+      "40 g de harina de garbanzo",
+      "Hojuelas de maíz sin azúcar",
+      "Sal al gusto"
+    ],
+    "utensilios": ["Bowl", "Horno", "Bandeja", "Rallador"],
+    "pasos": [
+      { "texto": "Mezcla todas las verduras, la clara, la harina y la sal en un bowl.", "imagen": null },
+      { "texto": "Tritura las hojuelas de maíz y reserva.", "imagen": null },
+      { "texto": "Forma bolitas con la mezcla y cúbrelas con las hojuelas trituradas.", "imagen": null },
+      { "texto": "Coloca sobre una bandeja, rocía aceite y hornea 25 min a 200°C.", "imagen": null },
+      { "texto": "Voltea a mitad del tiempo y sirve doraditas.", "imagen": null }
+    ],
+    "imagen": "img/salados/Bolitas de verduras.JPG"
+  },
+
+  "palitos-de-queso": {
+    "titulo": "Palitos de Queso",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "100 g de queso mozzarella bajo en grasa",
+      "1 huevo",
+      "½ taza de avena molida o pan rallado",
+      "1 cda de queso parmesano (opcional)",
+      "½ cdta de ajo en polvo",
+      "½ cdta de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": ["Cuchillo", "Tazones pequeños", "Horno o freidora", "Pinzas"],
+    "pasos": [
+      { "texto": "Corta el queso en bastones y congélalos 15–20 min.", "imagen": null },
+      { "texto": "Bate el huevo y mezcla los ingredientes secos en otro tazón.", "imagen": null },
+      { "texto": "Pasa cada bastón por huevo y luego por la mezcla seca.", "imagen": null },
+      { "texto": "Hornea 10–12 min o cocina 7–9 min en freidora a 200°C.", "imagen": null },
+      { "texto": "Sirve con salsa de tomate o yogur con hierbas.", "imagen": null }
+    ],
+    "imagen": "img/facil/palitos-queso.png"
+  },
+
+  "bocaditos-de-ajo-y-queso-saludables": {
+    "titulo": "Bocaditos de Ajo y Queso Saludables",
+    "dificultad": "Fácil",
+    "duracion": "25-30min",
+    "materiales": [
+      "6 tortillas integrales",
+      "½ taza de queso mozzarella rallado",
+      "1 cda de mantequilla o aceite de oliva",
+      "1 diente de ajo picado",
+      "1 cda de cebollín o perejil",
+      "1 pizca de sal y pimienta"
+    ],
+    "utensilios": ["Tazón", "Cuchillo", "Sartén o airfryer", "Espátula"],
+    "pasos": [
+      { "texto": "Mezcla mantequilla con ajo, cebollín, sal y pimienta.", "imagen": null },
+      { "texto": "Unta yogur (opcional) sobre las tortillas y agrega queso.", "imagen": null },
+      { "texto": "Enrolla, corta y cocina en sartén 2–3 min por lado o en airfryer 8–10 min.", "imagen": null },
+      { "texto": "Pincela con la mezcla de ajo y sirve.", "imagen": null }
+    ],
+    "imagen": "img/salados/Rollos de ajo y queso .JPG"
+  },
+
+  "doritos-caseros-saludables": {
+    "titulo": "Doritos Caseros Saludables",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "4 tortillas integrales",
+      "1 cda de aceite de oliva o spray",
+      "½ cdta de pimentón en polvo",
+      "½ cdta de ajo en polvo",
+      "½ cdta de cebolla en polvo",
+      "¼ cdta de comino o cúrcuma",
+      "Sal al gusto"
+    ],
+    "utensilios": ["Tazón", "Cuchillo o cortador de pizza", "Bandeja de horno o airfryer", "Papel para hornear", "Espátula"],
+    "pasos": [
+      { "texto": "Corta las tortillas en triángulos.", "imagen": null },
+      { "texto": "Mezcla aceite y especias, y unta los triángulos.", "imagen": null },
+      { "texto": "Hornea 8–10 min a 180°C o cocina 6–8 min en airfryer.", "imagen": null },
+      { "texto": "Deja enfriar unos minutos antes de servir.", "imagen": null }
+    ],
+    "imagen": "img/salados/Doritos caseros .JPG"
+  },
+
+  "bits-sabor-doritos": {
+    "titulo": "Bits Sabor Doritos",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "250 g de pasta de lentejas o pasta de verduras",
+      "1 cda de ajo en polvo",
+      "1 cda de paprika",
+      "20 ml de aceite de oliva",
+      "50 g de queso parmesano",
+      "Sal al gusto"
+    ],
+    "utensilios": ["Olla", "Air Fryer", "Recipiente"],
+    "pasos": [
+      { "texto": "Coloca a hervir agua con sal y cuando esté en ebullición, agrega la pasta.", "imagen": null },
+      { "texto": "Deja cocinar a fuego alto durante 10 minutos.", "imagen": null },
+      { "texto": "Retira del fuego y del agua; en un bowl agrega ajo, paprika, queso y aceite.", "imagen": null },
+      { "texto": "Integra todo con las manos.", "imagen": null },
+      { "texto": "Lleva a la Air Fryer durante 8–10 minutos a 200°C.", "imagen": null }
+    ],
+    "imagen": "img/salados/Bits sabor a doritos.png"
+  },
+
+  "chips-de-brocoli-crujiente": {
+    "titulo": "Chips de Brócoli Crujiente",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 taza de ramilletes pequeños de brócoli (bien secos)",
+      "1 cda de aceite de oliva o spray",
+      "1 cda de queso parmesano",
+      "¼ cdta de ajo en polvo",
+      "¼ cdta de sal",
+      "(Opcional) ¼ cdta de pimentón o paprika"
+    ],
+    "utensilios": [
+      "Cuchillo y tabla de picar",
+      "Tazón grande",
+      "Bandeja para horno o airfryer",
+      "Papel para hornear o tapete de silicona",
+      "Cuchara o espátula"
+    ],
+    "pasos": [
+      { "texto": "Lava y seca muy bien los ramilletes de brócoli, córtalos en trozos pequeños y uniformes.", "imagen": null },
+      { "texto": "En un tazón mezcla brócoli, aceite, queso, ajo, sal y paprika hasta cubrir bien.", "imagen": null },
+      { "texto": "Hornea 15–18 min a 180°C o cocina en airfryer 8–10 min a 180°C.", "imagen": null },
+      { "texto": "Deja reposar unos minutos para que queden crocantes.", "imagen": null }
+    ],
+    "imagen": "img/salados/chips de brócoli .JPG"
+  },
+
+  "mini-donas-de-queso": {
+    "titulo": "Mini Donas de Queso",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 taza de queso rallado (mozzarella o campesino bajo en grasa)",
+      "1 huevo",
+      "¼ taza de harina de avena o almidón de yuca",
+      "1 cda de yogur griego natural o leche",
+      "½ cdta de polvo de hornear",
+      "1 pizca de sal",
+      "(Opcional) 1 cda de queso parmesano o hierbas secas"
+    ],
+    "utensilios": [
+      "Tazón grande",
+      "Cuchara o batidor",
+      "Molde para mini donas",
+      "Brocha de cocina",
+      "Bandeja para horno o airfryer",
+      "Espátula o cuchillo para desmoldar"
+    ],
+    "pasos": [
+      { "texto": "Precalienta horno o airfryer a 180°C.", "imagen": null },
+      { "texto": "En un tazón mezcla huevo, yogur y sal.", "imagen": null },
+      { "texto": "Agrega harina, polvo de hornear y queso rallado hasta obtener una masa espesa.", "imagen": null },
+      { "texto": "Engrasa el molde y llena cada cavidad con la mezcla.", "imagen": null },
+      { "texto": "Hornea 15–18 min o airfryer 10–12 min a 180°C.", "imagen": null },
+      { "texto": "Deja enfriar antes de desmoldar y sirve.", "imagen": null }
+    ],
+    "imagen": "img/salados/Mini donas de queso.JPG"
+  },
+
+  "muffins-salados-de-queso": {
+    "titulo": "Muffins Salados de Queso",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "1 taza de harina de avena o integral",
+      "1 cdta de polvo para hornear",
+      "2 huevos",
+      "¼ taza de leche o bebida vegetal",
+      "½ taza de queso mozzarella rallado",
+      "2 cdas de queso parmesano rallado",
+      "1 cda de aceite de oliva o mantequilla derretida",
+      "¼ cdta de ajo en polvo",
+      "Sal y pimienta al gusto",
+      "(Opcional) Verduras picadas"
+    ],
+    "utensilios": [
+      "Molde para muffins o silicona",
+      "Bowl grande",
+      "Cuchara o batidor",
+      "Vaso medidor",
+      "Horno o airfryer"
+    ],
+    "pasos": [
+      { "texto": "Mezcla harina, polvo de hornear, ajo, sal y pimienta.", "imagen": null },
+      { "texto": "En otro bowl bate huevos, leche y aceite.", "imagen": null },
+      { "texto": "Une ambas mezclas y agrega los quesos.", "imagen": null },
+      { "texto": "Engrasa los moldes y vierte la mezcla hasta ¾ de su capacidad.", "imagen": null },
+      { "texto": "Hornea 20–25 min a 180°C o airfryer 12–15 min a 170°C.", "imagen": null }
+    ],
+    "imagen": "img/salados/Muffins salados de queso .JPG"
+  },
+
+  "palitos-de-pollo-y-queso": {
+    "titulo": "Palitos de Pollo y Queso",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "300 g de pechuga de pollo",
+      "½ taza de queso mozzarella rallado",
+      "¼ taza de avena molida o pan integral triturado",
+      "1 huevo",
+      "1 cda de cebolla picada",
+      "1 diente de ajo picado",
+      "1 cdta de orégano o perejil seco",
+      "Sal y pimienta al gusto"
+    ],
+    "utensilios": [
+      "Procesador o licuadora",
+      "Bowl mediano",
+      "Bandeja para horno o airfryer",
+      "Papel parafinado",
+      "Cuchillo y tabla de picar"
+    ],
+    "pasos": [
+      { "texto": "Procesa pollo, ajo, cebolla, sal y pimienta hasta obtener una pasta.", "imagen": null },
+      { "texto": "Agrega huevo, queso, avena y especias; mezcla hasta lograr una masa moldeable.", "imagen": null },
+      { "texto": "Forma palitos y colócalos en la bandeja.", "imagen": null },
+      { "texto": "Hornea 20 min a 200°C o airfryer 12–15 min a 190°C.", "imagen": null }
+    ],
+    "imagen": "img/salados/Palitos de pollo y queso .JPG"
+  },
+
+  "mini-tartas-de-jamon-y-queso": {
+    "titulo": "Mini Tartas de Jamón y Queso",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "2 huevos",
+      "¼ taza de leche o bebida vegetal",
+      "½ taza de queso mozzarella rallado",
+      "½ taza de jamón picado",
+      "1 cda de harina de avena o integral",
+      "1 cda de cebolla picada",
+      "1 cda de pimentón picado (opcional)",
+      "1 cdta de aceite de oliva",
+      "Sal, pimienta y orégano al gusto"
+    ],
+    "utensilios": [
+      "Molde para muffins o tartas pequeñas",
+      "Bowl grande",
+      "Batidor o tenedor",
+      "Cuchillo y tabla de picar",
+      "Sartén (opcional)",
+      "Horno o airfryer"
+    ],
+    "pasos": [
+      { "texto": "Pica jamón, cebolla y pimentón; sofríe si lo deseas.", "imagen": null },
+      { "texto": "Bate huevos con leche, harina y condimentos.", "imagen": null },
+      { "texto": "Agrega queso, jamón y verduras.", "imagen": null },
+      { "texto": "Engrasa moldes y vierte la mezcla.", "imagen": null },
+      { "texto": "Hornea 20–25 min a 180°C o airfryer 12–15 min a 170°C.", "imagen": null }
+    ],
+    "imagen": "img/salados/Mini tartas de jamón y queso .JPG"
+  },
+
+  "nuggets-de-lentejas": {
+    "titulo": "Nuggets de Lentejas",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "200 g de lentejas cocidas",
+      "½ zanahoria fresca",
+      "1 diente de ajo",
+      "50 g de panko",
+      "1 cda de harina",
+      "1 cdta de pimiento en escamas (opcional)",
+      "Sal y pimienta",
+      "Aceite de oliva para dorar"
+    ],
+    "utensilios": ["Procesadora o licuadora", "Sartén"],
+    "pasos": [
+      { "texto": "Procesa todos los ingredientes (excepto el aceite) hasta obtener un puré homogéneo.", "imagen": null },
+      { "texto": "Forma bolitas y fríelas en aceite caliente hasta dorar ambos lados.", "imagen": null },
+      { "texto": "Sirve con tu salsa favorita.", "imagen": null }
+    ],
+    "imagen": "img/salados/Nuggets de lenteja .JPG"
+  },
+
+  "botanita-para-picar": {
+    "titulo": "Botanita para Picar",
+    "dificultad": "Fácil",
+    "duracion": "15min (1h de horneado)",
+    "materiales": [
+      "1 papa grande",
+      "1 zanahoria mediana",
+      "1 cebolla mediana",
+      "200 g de harina",
+      "200 ml de agua",
+      "Sal, pimienta y escamas de pimentón",
+      "Queso parmesano",
+      "Harina pan de maíz"
+    ],
+    "utensilios": ["Rallador", "Horno", "Bandeja para horno", "Bowl"],
+    "pasos": [
+      { "texto": "Mezcla harina, queso, especias y agua hasta obtener una masa homogénea.", "imagen": null },
+      { "texto": "Ralla la papa, zanahoria y cebolla, agrégalas a la mezcla.", "imagen": null },
+      { "texto": "Engrasa la bandeja y espolvorea harina pan.", "imagen": null },
+      { "texto": "Extiende la mezcla y espolvorea más queso.", "imagen": null },
+      { "texto": "Hornea 1 hora a 180°C y corta en trozos.", "imagen": null }
+    ],
+    "imagen": "img/salados/Botanita.JPG"
+  },
+
+  "chips-de-cebolla": {
+    "titulo": "Chips de Cebolla",
+    "dificultad": "Fácil",
+    "duracion": "20-30min",
+    "materiales": [
+      "2 cebollas grandes",
+      "1–2 cdas de aceite de oliva o aguacate",
+      "½ cdta de sal",
+      "½ cdta de ajo en polvo",
+      "½ cdta de paprika o pimienta"
+    ],
+    "utensilios": [
+      "Tabla y cuchillo",
+      "Bowl",
+      "Bandeja + papel para hornear o airfryer",
+      "Pinzas o espátula"
+    ],
+    "pasos": [
+      { "texto": "Corta la cebolla en rodajas finas y separa los anillos.", "imagen": null },
+      { "texto": "Sécalos con papel de cocina y mézclalos con aceite y condimentos.", "imagen": null },
+      { "texto": "Hornea 15–20 min a 160°C o airfryer 12–18 min a 150°C.", "imagen": null },
+      { "texto": "Deja reposar 5 min para que se vuelvan más crujientes.", "imagen": null }
+    ],
+    "imagen": "img/salados/Chips de cebolla.JPG"
+  },
+
+  "pizza-chips": {
+    "titulo": "Pizza Chips",
+    "dificultad": "Fácil",
+    "duracion": "10-15min",
+    "materiales": [
+      "1 taza de queso mozzarella rallado (o mezcla con parmesano)",
+      "6 tomates cherry picados",
+      "1 cdta de orégano",
+      "½ cdta de ajo en polvo",
+      "(Opcional) salsa de tomate, pepperoni, jamón o aceitunas"
+    ],
+    "utensilios": [
+      "Bandeja + papel para hornear o airfryer",
+      "Cuchillo pequeño",
+      "Rallador"
+    ],
+    "pasos": [
+      { "texto": "Precalienta horno a 180°C o airfryer a 170°C.", "imagen": null },
+      { "texto": "Coloca montoncitos de queso sobre papel para hornear y aplasta ligeramente.", "imagen": null },
+      { "texto": "Agrega tomates cherry, orégano y ajo en polvo.", "imagen": null },
+      { "texto": "Hornea 7–10 min o airfryer 5–7 min hasta dorar los bordes.", "imagen": null },
+      { "texto": "Deja enfriar 3–5 min para que se vuelvan crujientes.", "imagen": null }
+    ],
+    "imagen": "img/salados/Pizza chips .JPG"
+  }
+}

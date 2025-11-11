@@ -212,32 +212,971 @@
     "imagen": "img/desayunos/kelos.png"
   },
 
-  "empanada-quinoa": {
-  "titulo": "Empanada de quinoa",
-  "dificultad": "Fácil",
-  "duracion": "25 min",
-  "materiales": [
-    "1 taza de quinoa",
-    "Media cucharadita de cúrcuma",
-    "Aceite de oliva",
-    "Pechuga de pollo",
-    "1 diente de ajo",
-    "Cebolla",
-    "½ de pimentón",
-    "¼ de zanahoria"
-  ],
-  "utensilios": [
-    "Air Fryer",
-    "Horno"
-  ],
-  "pasos": [
-    { "texto": "En un bowl agrega 2 cucharadas de miel, ½ taza de cacao en polvo, 2 cucharadas de chocolate semi-amargo líquido (opcional) y 4 cucharadas de leche. Mezcla bien hasta obtener una pasta de chocolate.", "imagen": "img/salados/pasos/empanada-paso1.png" },
-    { "texto": "Tritura las tostadas de arroz en trozos pequeños y mézclalos con la pasta de chocolate hasta integrar todo.", "imagen": "img/salados/pasos/empanada-paso2.png" },
-    { "texto": "En un bowl agrega leche y el cereal de chocolate.", "imagen": "img/salados/pasos/empanada-paso3.png" },
-    { "texto": "¡Disfruta!", "imagen": null }
-  ],
-  "imagen": "img/salados/empanada-quinoa.png"
+  "bowl-de-yogurt-griego-con-bits-de-cacao": {
+    "titulo": "Bowl de Yogurt Griego con Bits de Cacao",
+    "dificultad": "Fácil",
+    "duracion": "25 min",
+    "materiales": [
+      "1 puñadito de arándanos",
+      "Jugo de un limón pequeño",
+      "Semillas de chía",
+      "Miel",
+      "Yogurt griego",
+      "1 banano machacado",
+      "Avena",
+      "Cacao en polvo",
+      "Ralladura de limón",
+      "Leche de tu preferencia",
+      "Tu fruta favorita"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchara",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Cocina los arándanos con agua por 5 minutos a fuego medio con tapa.", "imagen": null },
+      { "texto": "Agrega el limón, miel y chía, y cocina 5 minutos más a fuego bajo.", "imagen": null },
+      { "texto": "En un bowl mezcla banano, avena, ralladura de limón, cacao y leche.", "imagen": null },
+      { "texto": "Lleva la mezcla a una sartén caliente hasta formar trozos semiduros.", "imagen": null },
+      { "texto": "En un plato coloca yogurt griego, la mermelada, los bits y fruta favorita.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Bowl de yogurt griego.JPG"
+  },
+
+  "mugcake-de-avena": {
+    "titulo": "Mugcake de Avena",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "2 huevos",
+      "35g de harina de avena",
+      "Miel",
+      "Leche de tu preferencia",
+      "Avena o almendras laminadas",
+      "Manzana verde o pera en cubitos",
+      "3 cucharadas de yogurt griego o kéfir",
+      "Granola o frutos secos"
+    ],
+    "utensilios": [
+      "Taza",
+      "AirFryer",
+      "Tenedor"
+    ],
+    "pasos": [
+      { "texto": "Mezcla todos los ingredientes dentro de la taza excepto el yogurt y la granola.", "imagen": null },
+      { "texto": "Lleva la mezcla a la AirFryer por 15–20 minutos a 180°C.", "imagen": null },
+      { "texto": "Agrega el yogurt o kéfir encima y decora con granola.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Mugcake de avena.JPG"
+  },
+
+  "tortilla-de-huevo-y-jamon-sabor-pizza": {
+    "titulo": "Tortilla de Huevo y Jamón Sabor Pizza",
+    "dificultad": "Fácil",
+    "duracion": "15 min",
+    "materiales": [
+      "3 huevos",
+      "4 lonchas de jamón",
+      "1 cucharada de crema de leche",
+      "Sal, pimienta y orégano",
+      "Salsa de tomate casera (receta en sección acompañamientos)",
+      "Queso mozzarella"
+    ],
+    "utensilios": [
+      "Tenedor",
+      "Sartén",
+      "Bowl",
+      "Tijeras de cocina"
+    ],
+    "pasos": [
+      { "texto": "Corta el jamón en cubitos con tijeras.", "imagen": null },
+      { "texto": "Bate los huevos con el jamón, crema de leche y condimentos.", "imagen": null },
+      { "texto": "Vierte la mezcla en sartén engrasada a fuego medio y tapa.", "imagen": null },
+      { "texto": "Voltea la tortilla cuando esté cocida y deja 5–7 minutos más.", "imagen": null },
+      { "texto": "Agrega salsa de tomate y mozzarella, tapa 2 minutos más y sirve.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Tostada de huevo y jamón.JPG"
+  },
+
+  "rapiditas-de-avena-con-pollo": {
+    "titulo": "Rapiditas de Avena con Pollo",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "¼ taza de avena en hojuelas",
+      "⅓ taza de yogurt griego o agua",
+      "1 cda de crema de leche",
+      "Sal y pimienta al gusto",
+      "Pollo cocido y desmechado",
+      "Aguacate machacado",
+      "Mayonesa proteica (receta en sección de acompañantes)"
+    ],
+    "utensilios": [
+      "Tenedor",
+      "Sartén",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Mezcla la avena con yogurt, sal y pimienta en un bowl.", "imagen": null },
+      { "texto": "Coloca la mitad de la mezcla en una sartén caliente y aplánala con las manos húmedas.", "imagen": null },
+      { "texto": "Dora por ambos lados y repite con el resto.", "imagen": null },
+      { "texto": "Machaca el aguacate con limón y sal.", "imagen": null },
+      { "texto": "Mezcla el pollo con mayonesa y colócalo sobre las rapiditas.", "imagen": null },
+      { "texto": "Disfruta.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Rápiditas .JPG"
+  },
+
+  "pastel-de-pollo-con-verduras": {
+    "titulo": "Pastel de Pollo con Verduras",
+    "dificultad": "Fácil",
+    "duracion": "40min",
+    "materiales": [
+      "½ pimentón",
+      "½ cebolla",
+      "¼ calabacín",
+      "½ pechuga molida",
+      "2 huevos",
+      "Queso rallado",
+      "Aceite de oliva o ghee",
+      "Sal y pimienta"
+    ],
+    "utensilios": [
+      "Recipiente para horno",
+      "Sartén",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Sofríe la cebolla y el pimentón en aceite hasta transparentar.", "imagen": null },
+      { "texto": "Agrega calabacín, sal y pimienta, y cocina 5 minutos más.", "imagen": null },
+      { "texto": "Añade el pollo molido y cocina tapado 5 minutos.", "imagen": null },
+      { "texto": "Pasa la mezcla a un recipiente, agrega los huevos batidos y cubre con queso.", "imagen": null },
+      { "texto": "Hornea 15-20 minutos a 180°C.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Pastel de pollo con verduras .jpg"
+  },
+
+  "mini-tostadas-francesas": {
+    "titulo": "Mini Tostadas Francesas",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 huevo",
+      "2 tajadas de pan integral",
+      "Mantequilla de almendra o maní",
+      "Canela",
+      "Miel",
+      "⅓ taza de leche",
+      "Arándanos",
+      "½ banano"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Bowl",
+      "Cuchillo"
+    ],
+    "pasos": [
+      { "texto": "Unta mantequilla de almendra y coloca rodajas de banano entre las tajadas de pan.", "imagen": null },
+      { "texto": "Aplasta el sándwich y córtalo en cubos.", "imagen": null },
+      { "texto": "Mezcla huevo, leche, miel y canela en un bowl.", "imagen": null },
+      { "texto": "Remoja los cubos en la mezcla y cocínalos en sartén hasta dorar.", "imagen": null },
+      { "texto": "Sirve con arándanos y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Mini tostadas francesas.JPG"
+  },
+
+  "pancakes-de-manzana-y-chocolate": {
+    "titulo": "Pancakes de Manzana y Chocolate",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 manzana rallada",
+      "1 huevo",
+      "½ taza de avena o harina de avena",
+      "¼ taza de leche",
+      "1 cdta polvo de hornear",
+      "1 cdta cacao en polvo",
+      "1 cdta miel o panela",
+      "½ cdta canela en polvo",
+      "1 cdta aceite de coco",
+      "Chips de chocolate (opcional)"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Sartén antiadherente",
+      "Espátula",
+      "Cuchillo",
+      "Rallador",
+      "Cuchara medidora"
+    ],
+    "pasos": [
+      { "texto": "Licúa avena, leche, huevo, cacao, polvo de hornear, canela y miel.", "imagen": null },
+      { "texto": "Agrega manzana rallada y mezcla con cuchara.", "imagen": null },
+      { "texto": "Cocina porciones pequeñas en sartén engrasada 1–2 minutos por lado.", "imagen": null },
+      { "texto": "Sirve con miel o yogur y decora con chips de chocolate.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Pancakes de manzana .JPG"
+  },
+
+  "waffles-de-zanahoria-y-brocoli": {
+    "titulo": "Waffles de Zanahoria y Brócoli",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "½ taza zanahoria rallada",
+      "½ taza brócoli rallado",
+      "2 huevos",
+      "¼ taza queso mozzarella rallado",
+      "2 cdas harina de avena",
+      "1 cdta aceite de oliva",
+      "½ cdta sal marina",
+      "¼ cdta pimienta negra",
+      "¼ cdta ajo en polvo u orégano (opcional)"
+    ],
+    "utensilios": [
+      "Rallador",
+      "Tazón",
+      "Tenedor o batidor",
+      "Cuchara",
+      "Papel de cocina",
+      "Wafflera"
+    ],
+    "pasos": [
+      { "texto": "Ralla zanahoria y brócoli, escúrrelos con papel de cocina.", "imagen": null },
+      { "texto": "Bate huevos con avena, queso y condimentos.", "imagen": null },
+      { "texto": "Incorpora verduras hasta obtener una mezcla espesa.", "imagen": null },
+      { "texto": "Cocina en wafflera engrasada 4–6 minutos.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Waffles de brócoli.JPG"
+  },
+
+  "croissant-salado-huevo-jamon-queso": {
+    "titulo": "Croissant Salado con Huevo, Jamón y Queso",
+    "dificultad": "Fácil",
+    "duracion": "10-15min",
+    "materiales": [
+      "1 croissant",
+      "1 huevo",
+      "1 cda leche",
+      "2 rebanadas jamón",
+      "1 rebanada queso",
+      "1 hoja de lechuga o espinaca",
+      "1 cda queso parmesano rallado",
+      "½ cdta mantequilla o aceite de oliva",
+      "Sal, pimienta y orégano al gusto"
+    ],
+    "utensilios": [
+      "Sartén antiadherente",
+      "Cuchillo",
+      "Tenedor o batidor",
+      "Espátula",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "Bate el huevo con leche, sal y pimienta.", "imagen": null },
+      { "texto": "Cocina a fuego medio hasta que quede cremoso.", "imagen": null },
+      { "texto": "Corta el croissant y arma con lechuga, queso, jamón y huevo.", "imagen": null },
+      { "texto": "Espolvorea queso parmesano y calienta para fundir el queso.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Croissant salado.JPG"
+  },
+
+  "huevos-napolitanos": {
+    "titulo": "Huevos Napolitanos",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 tomate",
+      "⅓ cebolla",
+      "3 huevos",
+      "Cilantro (opcional)",
+      "1 diente de ajo",
+      "Queso mozzarella al gusto",
+      "Sal y pimienta",
+      "Grasa de tu preferencia"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchillo",
+      "Tabla para picar",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "Sofríe cebolla en grasa y agrega tomate picado.", "imagen": null },
+      { "texto": "Añade ajo, sal y especias, y cocina hasta espesar.", "imagen": null },
+      { "texto": "Agrega la mitad del queso y mezcla.", "imagen": null },
+      { "texto": "Coloca los huevos sobre la mezcla, tapa y cocina 5 minutos.", "imagen": null },
+      { "texto": "Agrega el resto del queso y decora con cilantro.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/huevos napolitanos.png"
+  },
+
+  "pancakes-torta-zanahoria": {
+    "titulo": "Pancakes con Sabor a Torta de Zanahoria",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 huevo",
+      "3 cdas avena",
+      "Esencia de vainilla",
+      "Canela",
+      "Endulzante",
+      "Yogur griego",
+      "1 zanahoria",
+      "1 cda leche"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Rallador",
+      "Bowl",
+      "Cuchara",
+      "Sartén antiadherente"
+    ],
+    "pasos": [
+      { "texto": "Ralla la zanahoria.", "imagen": null },
+      { "texto": "Licúa huevo, avena, vainilla, canela, leche y zanahoria.", "imagen": null },
+      { "texto": "Cocina pancakes en sartén hasta dorar por ambos lados.", "imagen": null },
+      { "texto": "Mezcla yogur griego con vainilla y canela para decorar.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Pancakes con sabor a torta de zanahoria.png"
+  },
+
+  "pan-tostado-masa-madre-rugula": {
+    "titulo": "Pan Tostado de Masa Madre con Rúgula, Champiñones y Queso",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "2 rebanadas pan de masa madre",
+      "1 puñado rúgula fresca",
+      "150g champiñones laminados",
+      "1 diente de ajo picado",
+      "2 cdas aceite de oliva",
+      "6–8 bolitas de queso de búfala",
+      "Sal y pimienta al gusto",
+      "Vinagre balsámico o limón (opcional)"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchillo",
+      "Tabla",
+      "Tostador o sartén"
+    ],
+    "pasos": [
+      { "texto": "Sofríe ajo y champiñones en aceite hasta dorar.", "imagen": null },
+      { "texto": "Tuesta el pan y coloca rúgula sobre él.", "imagen": null },
+      { "texto": "Agrega champiñones y bolitas de queso encima.", "imagen": null },
+      { "texto": "Rocía con aceite de oliva o vinagre balsámico.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/pan tostado de masa madre con rúgula, champiñones y queso.png"
+  },
+
+  "tostadas-arroz-huevo-aguacate": {
+    "titulo": "Tostadas de Arroz con Huevo, Aguacate y Reducción de Vinagre Balsámico",
+    "dificultad": "Fácil",
+    "duracion": "15-20min",
+    "materiales": [
+      "2–3 tostadas de arroz",
+      "1 huevo",
+      "½ aguacate maduro",
+      "¼ taza vinagre balsámico",
+      "2 cdas maíz inflado",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Cuchillo",
+      "Tabla",
+      "Cucharita",
+      "Olla pequeña"
+    ],
+    "pasos": [
+      { "texto": "Reduce el vinagre balsámico en sartén hasta espesar.", "imagen": null },
+      { "texto": "Cocina el huevo al gusto.", "imagen": null },
+      { "texto": "Unta aguacate sobre las tostadas y coloca el huevo encima.", "imagen": null },
+      { "texto": "Agrega maíz inflado y rocía con la reducción de vinagre.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Tostadas de arroz con maíz inflado, huevo, aguacate y reducción de vinagre balsámico.png"
+  },
+
+  "avena-trasnochada": {
+    "titulo": "Avena Trasnochada",
+    "dificultad": "Fácil",
+    "duracion": "5min + reposo nocturno",
+    "materiales": [
+      "½ taza de avena en hojuelas",
+      "½ taza de leche vegetal (avena, almendra o coco)",
+      "2 cdas de yogur natural o vegetal (opcional)",
+      "½ banano en rodajas o triturado",
+      "1 cdta de semillas de chía o linaza",
+      "1 cdta de miel o endulzante natural (opcional)",
+      "Frutas frescas al gusto (fresas, arándanos, manzana, mango, etc.)"
+    ],
+    "utensilios": [
+      "Frasco con tapa o recipiente",
+      "Cuchara",
+      "Cuchillo",
+      "Tabla de picar"
+    ],
+    "pasos": [
+      { "texto": "Mezcla en un frasco la avena, leche, yogur, semillas y endulzante.", "imagen": null },
+      { "texto": "Añade el banano triturado y mezcla bien.", "imagen": null },
+      { "texto": "Cubre y deja reposar en la nevera toda la noche.", "imagen": null },
+      { "texto": "Por la mañana, agrega frutas frescas y toppings al gusto.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Avena trasnochada.png"
+  },
+
+  "pizza-de-huevo-con-espinaca-jamon-y-queso": {
+    "titulo": "Pizza de Huevo con Espinaca, Jamón, Tomate y Queso Parmesano",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "2 huevos grandes",
+      "1 cda de leche o yogurt natural (opcional)",
+      "Sal y pimienta al gusto",
+      "½ taza de espinaca picada",
+      "2 rodajas de jamón en tiras",
+      "½ tomate en rodajas",
+      "1 cda de queso parmesano rallado",
+      "2 cdas de queso mozzarella rallado"
+    ],
+    "utensilios": [
+      "Bowl pequeño",
+      "Tenedor o batidor",
+      "Airfryer",
+      "Molde pequeño",
+      "Cuchillo y tabla de picar",
+      "Espátula"
+    ],
+    "pasos": [
+      { "texto": "Bate los huevos con leche, sal y pimienta.", "imagen": null },
+      { "texto": "Vierte en un molde y agrega espinaca, jamón y tomate.", "imagen": null },
+      { "texto": "Añade los quesos encima.", "imagen": null },
+      { "texto": "Cocina en la airfryer a 170°C por 8–10 minutos.", "imagen": null },
+      { "texto": "Deja reposar y corta como mini pizza.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Pizza huevo.JPG"
+  },
+
+  "pancakes-de-brocoli-y-papa": {
+    "titulo": "Pancakes de Brócoli y Papa Rellenos de Queso",
+    "dificultad": "Fácil",
+    "duracion": "30min",
+    "materiales": [
+      "1 papa mediana (150 g)",
+      "½ taza de brócoli cocido y picado",
+      "1 cda de avena molida",
+      "2 cdas de yogurt griego o 1 de queso crema",
+      "½ cdta de ajo en polvo",
+      "Sal y pimienta al gusto",
+      "½ taza de queso mozzarella rallado",
+      "1 cdta de aceite de oliva o coco"
+    ],
+    "utensilios": [
+      "Olla mediana",
+      "Rallador o prensapapas",
+      "Sartén antiadherente",
+      "Espátula",
+      "Bowl grande",
+      "Cuchillo y tabla"
+    ],
+    "pasos": [
+      { "texto": "Cocina la papa en agua con sal hasta ablandar y tritura.", "imagen": null },
+      { "texto": "Agrega el brócoli picado y mezcla con avena, yogurt, ajo y sal.", "imagen": null },
+      { "texto": "Forma pancakes con relleno de queso.", "imagen": null },
+      { "texto": "Dora por ambos lados hasta que el queso se derrita.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Pancakes de brócoli y papa.JPG"
+  },
+
+  "avena-estilo-cheesecake": {
+    "titulo": "Avena Estilo Cheesecake",
+    "dificultad": "Fácil",
+    "duracion": "10min + 4h refrigeración",
+    "materiales": [
+      "½ taza de avena en hojuelas",
+      "½ taza de leche vegetal o descremada",
+      "2 cdas de yogurt griego",
+      "1 cdta de miel o endulzante natural",
+      "½ cdta de esencia de vainilla",
+      "Pizca de sal",
+      "1 cdta de queso crema light",
+      "¼ cdta de jugo de limón",
+      "3–4 fresas picadas o frutos rojos",
+      "1 cdta de chía o nueces picadas (opcional)"
+    ],
+    "utensilios": [
+      "Frasco o vaso mediano con tapa",
+      "Cuchara o espátula",
+      "Bowl pequeño",
+      "Cuchillo y tabla"
+    ],
+    "pasos": [
+      { "texto": "Combina avena, leche, yogurt, miel, vainilla y sal.", "imagen": null },
+      { "texto": "Mezcla aparte yogurt, queso crema, miel y limón.", "imagen": null },
+      { "texto": "Arma capas en un frasco: avena, mezcla tipo cheesecake y frutas.", "imagen": null },
+      { "texto": "Refrigera 4h o toda la noche.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Avena cheesecake.JPG"
+  },
+
+  "mugcake-de-chocolate-y-banano": {
+    "titulo": "MugCake de Chocolate y Banano",
+    "dificultad": "Fácil",
+    "duracion": "5-7min",
+    "materiales": [
+      "1 banano maduro",
+      "1 huevo",
+      "2 cdas de harina de avena",
+      "1 cda de cacao en polvo",
+      "½ cdta de polvo de hornear",
+      "1 cdta de miel o sirope natural",
+      "1 cdta de aceite de coco o mantequilla derretida",
+      "1 cdta de chips de chocolate (opcional)"
+    ],
+    "utensilios": [
+      "Taza grande apta para microondas",
+      "Tenedor o batidor pequeño",
+      "Cuchara medidora",
+      "Microondas o sartén pequeña"
+    ],
+    "pasos": [
+      { "texto": "Aplasta el banano en la taza.", "imagen": null },
+      { "texto": "Agrega el huevo, harina, cacao, polvo de hornear y miel.", "imagen": null },
+      { "texto": "Mezcla bien y añade chips si deseas.", "imagen": null },
+      { "texto": "Lleva al microondas 1:30 minutos.", "imagen": null },
+      { "texto": "Deja reposar y sirve con frutas o yogur.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Mugcake chocolate .JPG"
+  },
+
+  "crepes-de-banano-sin-huevo": {
+    "titulo": "Crepes de Banano sin Huevo Rellenos de Chocolate y Fresas",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "1 banano maduro",
+      "½ taza de avena en hojuelas",
+      "¾ taza de leche vegetal o descremada",
+      "½ cdta de esencia de vainilla",
+      "1 cdta de aceite de coco o mantequilla",
+      "Pizca de sal",
+      "2 cdas de crema de cacao o chocolate derretido",
+      "4–6 fresas en rodajas"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Sartén antiadherente",
+      "Espátula",
+      "Cuchillo y tabla",
+      "Bowl pequeño"
+    ],
+    "pasos": [
+      { "texto": "Licúa todos los ingredientes hasta lograr una mezcla homogénea.", "imagen": null },
+      { "texto": "Cocina porciones pequeñas en sartén caliente 1–2 minutos por lado.", "imagen": null },
+      { "texto": "Rellena con crema de cacao y fresas.", "imagen": null },
+      { "texto": "Enrolla y decora al gusto.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Crepes de chocolate .JPG"
+  },
+
+  "palitos-de-queso-y-jamon": {
+    "titulo": "Palitos de Queso y Jamón",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "6 rebanadas de pan integral sin borde",
+      "6 bastones de queso mozzarella",
+      "1 huevo batido",
+      "1 cda de leche o agua",
+      "½ cdta de orégano",
+      "1 cda de mantequilla o aceite de oliva",
+      "Salsa de tomate para acompañar"
+    ],
+    "utensilios": [
+      "Sartén grande",
+      "Cuchillo y tabla",
+      "Rodillo o botella limpia",
+      "Brocha de cocina",
+      "Espátula"
+    ],
+    "pasos": [
+      { "texto": "Aplana el pan y coloca un bastón de queso.", "imagen": null },
+      { "texto": "Enrolla y sella con huevo batido.", "imagen": null },
+      { "texto": "Pinta con huevo por fuera.", "imagen": null },
+      { "texto": "Dora en sartén o airfryer hasta dorar.", "imagen": null },
+      { "texto": "Sirve con salsa de tomate o yogur.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Palitos de queso y jamón .JPG"
+  },
+
+  "empanada-de-quinoa": {
+    "titulo": "Empanada de Quinoa",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 taza de quinoa",
+      "½ cdta de cúrcuma",
+      "Aceite de oliva",
+      "Pechuga de pollo",
+      "1 diente de ajo",
+      "Cebolla",
+      "½ pimentón",
+      "¼ zanahoria"
+    ],
+    "utensilios": [
+      "Air Fryer u horno",
+      "Sartén",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Remoja y cocina la quinoa hasta que se ablande.", "imagen": null },
+      { "texto": "Desmenuza el pollo y saltéalo con verduras.", "imagen": null },
+      { "texto": "Amasa la quinoa hasta obtener consistencia firme.", "imagen": null },
+      { "texto": "Rellena con pollo y cierra las empanadas.", "imagen": null },
+      { "texto": "Hornea o cocina en airfryer 15–20 min a 200°C.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Empanada de quinoa.png"
+  },
+
+  "arepas-de-chocolo": {
+    "titulo": "Arepas de Chócolo",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1½ taza de maíz desgranado",
+      "4 cdas de miel",
+      "½ taza de harina de maíz",
+      "2 cdas de ghee",
+      "½ taza de leche",
+      "1 pizca de polvo para hornear",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Bowl",
+      "Licuadora"
+    ],
+    "pasos": [
+      { "texto": "Licúa el maíz con la leche hasta obtener mezcla grumosa.", "imagen": null },
+      { "texto": "Agrega harina, miel, sal y polvo de hornear, amasa.", "imagen": null },
+      { "texto": "Forma arepas y cocina 5–6 min por lado.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Arepa de chocolo .JPG"
+  },
+
+  "bowl-de-quinoa-sabor-chocolate": {
+    "titulo": "Bowl de Quinoa Sabor Chocolate",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "1 taza y ½ de maíz desgranado",
+      "4 cucharadas de miel",
+      "½ taza de harina de maíz",
+      "2 cucharadas de ghee",
+      "½ taza de leche",
+      "1 pizca de polvo para hornear",
+      "Sal al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Bowl",
+      "Licuadora"
+    ],
+    "pasos": [
+      { "texto": "Licúa el maíz con la leche hasta obtener mezcla grumosa.", "imagen": null },
+      { "texto": "Agrega harina, miel, sal y polvo de hornear, amasa.", "imagen": null },
+      { "texto": "Cocina 5–6 min por lado hasta dorar.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Bowl de quinoa sabor chocolate .JPG"
+  },
+
+  "refractaria-de-croissant": {
+    "titulo": "Refractaria de Croissant",
+    "dificultad": "Fácil",
+    "duracion": "1h 30min",
+    "materiales": [
+      "400gr de jamón de cerdo",
+      "Queso parmesano al gusto",
+      "7 u 8 croissants",
+      "3 huevos",
+      "½ taza de leche de tu preferencia",
+      "Ajo en polvo",
+      "Sal y pimienta",
+      "Menos de una taza de salsa bechamel (receta en sección de acompañantes)"
+    ],
+    "utensilios": [
+      "Bowl",
+      "Refractaria",
+      "Horno",
+      "Papel aluminio"
+    ],
+    "pasos": [
+      { "texto": "Bate los huevos con la leche, sal, ajo en polvo y pimienta.", "imagen": null },
+      { "texto": "Corta los croissants en trozos y remójalos en la mezcla.", "imagen": null },
+      { "texto": "Coloca en la refractaria una capa de croissants, jamón, queso y bechamel.", "imagen": null },
+      { "texto": "Repite el proceso, refrigera 20 minutos.", "imagen": null },
+      { "texto": "Hornea a 200°C tapado con aluminio 5 minutos, luego a 180°C por 20 minutos más.", "imagen": null },
+      { "texto": "Retira el aluminio, agrega queso y hornea 10-15 minutos hasta dorar.", "imagen": null },
+      { "texto": "Sirve con bechamel y decora con cebollita puerro.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Refractaria croassaint .JPG"
+  },
+
+  "avena-horneada-sabor-galleta": {
+    "titulo": "Avena Horneada Sabor Galleta",
+    "dificultad": "Fácil",
+    "duracion": "1h 25min",
+    "materiales": [
+      "40gr de harina de almendra",
+      "1 huevo",
+      "2 cucharadas de yogurt griego",
+      "2 cucharadas de mantequilla de maní o almendra",
+      "½ plátano o manzana hecho puré",
+      "Miel al gusto",
+      "Chispas de chocolate negro"
+    ],
+    "utensilios": [
+      "Refractaria",
+      "Horno",
+      "Licuadora"
+    ],
+    "pasos": [
+      { "texto": "Licúa todos los ingredientes excepto las chispas hasta lograr una mezcla homogénea.", "imagen": null },
+      { "texto": "Agrega las chispas y mezcla.", "imagen": null },
+      { "texto": "Hornea a 180°C por 15-20 minutos.", "imagen": null },
+      { "texto": "Sirve y disfruta con frutas picadas si lo deseas.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Avena horneada sabor galleta .JPG"
+  },
+
+  "avenita-trasnochada-moccachino": {
+    "titulo": "Avenita Trasnochada Moccachino",
+    "dificultad": "Fácil",
+    "duracion": "10min (preparación)",
+    "materiales": [
+      "½ taza de avena en hojuelas",
+      "2 cucharadas de semillas de chía",
+      "1 espresso bien cargado",
+      "⅓ de taza de leche",
+      "Endulzante al gusto",
+      "2 cucharadas de cacao",
+      "Yogurt griego",
+      "¼ de taza de leche adicional",
+      "Granola",
+      "1 cucharada de mantequilla de maní"
+    ],
+    "utensilios": [
+      "2 bowls",
+      "Tenedor",
+      "Nevera"
+    ],
+    "pasos": [
+      { "texto": "En un bowl mezcla avena, espresso, leche y chía.", "imagen": null },
+      { "texto": "En otro bowl mezcla cacao, ¼ de taza de leche, endulzante y mantequilla de maní.", "imagen": null },
+      { "texto": "Guarda ambos bowls tapados en la nevera toda la noche.", "imagen": null },
+      { "texto": "Sirve alternando capas de avena, yogurt, mezcla de cacao y granola.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Avena moccachino.JPG"
+  },
+
+  "bowl-de-frutas": {
+    "titulo": "Bowl de Frutas",
+    "dificultad": "Difícil",
+    "duracion": "5min (una noche de congelación)",
+    "materiales": [
+      "⅓ de taza de fresas congeladas",
+      "⅓ de taza de arándanos congelados",
+      "⅓ de taza de sandía congelada",
+      "⅓ de taza de mango maduro congelado",
+      "Semillas de girasol",
+      "Bits sabor a cacao",
+      "⅓ de taza de yogurt griego congelado",
+      "Fruta fresca para decorar",
+      "Endulzante al gusto (opcional)"
+    ],
+    "utensilios": [
+      "Congelador",
+      "Licuadora",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "Licúa todas las frutas congeladas con el yogurt.", "imagen": null },
+      { "texto": "Endulza al gusto.", "imagen": null },
+      { "texto": "Sirve y decora con bits, semillas y fruta fresca.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Bowl de frutas.JPG"
+  },
+
+  "bowl-antioxidante": {
+    "titulo": "Bowl Antioxidante",
+    "dificultad": "Difícil",
+    "duracion": "5min (una noche de congelación)",
+    "materiales": [
+      "⅓ de taza de fresas congeladas",
+      "⅓ de taza de arándanos congelados",
+      "⅓ de taza de sandía congelada",
+      "⅓ de taza de mango maduro congelado",
+      "Semillas de girasol",
+      "Bits sabor a cacao",
+      "⅓ de taza de yogurt griego congelado",
+      "Fruta fresca para decorar",
+      "Endulzante al gusto (opcional)"
+    ],
+    "utensilios": [
+      "Congelador",
+      "Licuadora",
+      "Plato"
+    ],
+    "pasos": [
+      { "texto": "Licúa todos los congelados, prueba y endulza al gusto.", "imagen": null },
+      { "texto": "Sirve y decora con los toppings.", "imagen": null },
+      { "texto": "Disfruta de un bowl refrescante y saludable.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Bowl antioxidante.jpg"
+  },
+
+  "panqueques-de-manzana": {
+    "titulo": "Panqueques de Manzana",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "120gr de harina",
+      "1 cucharadita de esencia de vainilla",
+      "1 cucharadita de panela en polvo",
+      "1 cucharadita de canela en polvo",
+      "1 cucharadita de polvo para hornear",
+      "150gr de leche",
+      "Aceite vegetal",
+      "1 manzana grande",
+      "Endulzante al gusto"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Bowl",
+      "Pela papas vertical"
+    ],
+    "pasos": [
+      { "texto": "Bate los huevos y la leche en un bowl.", "imagen": null },
+      { "texto": "Agrega la harina, canela, panela y polvo para hornear.", "imagen": null },
+      { "texto": "Pela y corta la manzana en rodajas de 1cm.", "imagen": null },
+      { "texto": "Sumerge cada rodaja en la mezcla y fríe en sartén engrasada.", "imagen": null },
+      { "texto": "Sirve con yogurt griego o kéfir.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Pancakes de manzana  (1).JPG"
+  },
+
+  "socca": {
+    "titulo": "Socca",
+    "dificultad": "Media",
+    "duracion": "30min (1h de reposo)",
+    "materiales": [
+      "120gr de harina de garbanzo",
+      "350ml de agua",
+      "50ml de aceite de oliva",
+      "5gr de sal",
+      "Queso parmesano",
+      "Champiñones"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Nevera",
+      "Horno",
+      "Bandeja para horno",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Mezcla la harina con agua tibia y amasa hasta eliminar grumos.", "imagen": null },
+      { "texto": "Agrega sal y deja reposar mínimo 1 hora.", "imagen": null },
+      { "texto": "Precalienta el horno a 220°C con la bandeja dentro.", "imagen": null },
+      { "texto": "Vierte la mezcla en la bandeja caliente y hornea 15-20 minutos.", "imagen": null },
+      { "texto": "Corta en triángulos y sirve con champiñones y queso parmesano.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Soca.JPG"
+  },
+
+  "muffins-salados": {
+    "titulo": "Muffins Salados",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "5 huevos grandes",
+      "Sal y pimienta",
+      "½ pimentón picado",
+      "½ cebolla picada",
+      "½ taza de champiñones",
+      "Queso parmesano",
+      "Aceite de oliva"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Horno",
+      "Molde para muffins"
+    ],
+    "pasos": [
+      { "texto": "Precalienta el horno a 180°C durante 15 minutos.", "imagen": null },
+      { "texto": "Saltea cebolla, pimentón y champiñones con aceite de oliva.", "imagen": null },
+      { "texto": "Mezcla con los huevos y parmesano en un bowl.", "imagen": null },
+      { "texto": "Engrasa los moldes y llena con la mezcla.", "imagen": null },
+      { "texto": "Hornea 15-20 minutos, desmolda y disfruta.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Muffins .JPG"
+  },
+
+  "nubes-de-papa-y-queso": {
+    "titulo": "Nubes de Papa y Queso",
+    "dificultad": "Fácil",
+    "duracion": "20min",
+    "materiales": [
+      "200gr de papa cocida",
+      "40gr de almidón de maíz",
+      "Sal y pimienta",
+      "Mayonesa proteica",
+      "Queso de tu preferencia"
+    ],
+    "utensilios": [
+      "Sartén",
+      "Bowl"
+    ],
+    "pasos": [
+      { "texto": "Haz puré las papas, condimenta y añade mayonesa.", "imagen": null },
+      { "texto": "Agrega almidón y mezcla hasta formar masa.", "imagen": null },
+      { "texto": "Forma bolitas y fríelas con queso en el centro.", "imagen": null },
+      { "texto": "Dora por ambos lados y sirve con aguacate o tomate.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Nubes de papa y queso.JPG"
+  },
+
+  "tapa-francesa": {
+    "titulo": "Tapa Francesa",
+    "dificultad": "Fácil",
+    "duracion": "25min",
+    "materiales": [
+      "2 puñados de tomates cherry",
+      "2 ajos picados",
+      "Miel",
+      "Bolitas de queso burrata",
+      "Pan baguette",
+      "Sal y pimienta",
+      "Ghee"
+    ],
+    "utensilios": [
+      "Horno",
+      "Refractaria pequeña",
+      "Planchita",
+      "Cuchillo"
+    ],
+    "pasos": [
+      { "texto": "En una refractaria agrega ghee, aceite y tomates con ajo.", "imagen": null },
+      { "texto": "Cubre con aluminio y hornea 10 minutos a 200°C.", "imagen": null },
+      { "texto": "Retira el aluminio, añade miel y hornea 5 minutos más.", "imagen": null },
+      { "texto": "Tuesta el pan con ghee, añade burrata y tomates al horno.", "imagen": null },
+      { "texto": "Sirve con aguacate si deseas.", "imagen": null }
+    ],
+    "imagen": "img/desayunos/Tostada francesa .JPG"
+  }
 }
 
-}
 

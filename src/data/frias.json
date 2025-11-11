@@ -215,7 +215,7 @@
       { "texto": "Agrega las 2 tazas de agua restantes y mezcla bien.", "imagen": null },
       { "texto": "Sirve con hielo y decora con menta o rodajas de fresa y limón.", "imagen": null }
     ],
-    "imagen": "img/facil/limonada-de-fresa.png"
+    "imagen": "img/frias/limonada de fresa.png"
   },
 
   "limonada-de-coco-natural": {
@@ -240,7 +240,7 @@
       { "texto": "Licúa hasta obtener una mezcla cremosa.", "imagen": null },
       { "texto": "Sirve con hielo.", "imagen": null }
     ],
-    "imagen": "img/facil/limonada-de-coco.png"
+    "imagen": "img/frias/limonada de coco.png"
   },
 
   "agua-de-pepino-limon-y-hierbabuena": {
@@ -265,7 +265,7 @@
       { "texto": "Refrigera por 1 hora antes de servir.", "imagen": null },
       { "texto": "Sirve con hielo.", "imagen": null }
     ],
-    "imagen": "img/facil/agua-de-pepino-limon-hierbabuena.png"
+    "imagen": "img/frias/Agua de pepino, limón y hierbabuena (detox refrescante).png"
   },
 
   "limonada-de-arandanos-burbujeante": {
@@ -292,7 +292,7 @@
       { "texto": "En un vaso coloca hielo, la soda y la mezcla colada.", "imagen": null },
       { "texto": "Mezcla y disfruta.", "imagen": null }
     ],
-    "imagen": "img/facil/limonada-de-arandanos.png"
+    "imagen": "img/frias/Limonada de arandanos.png"
   },
 
   "smoothie-de-frutos-rojos": {
@@ -321,7 +321,7 @@
       { "texto": "Sirve inmediatamente en vasos altos.", "imagen": null },
       { "texto": "Decora con fruta, semillas o coco rallado si deseas.", "imagen": null }
     ],
-    "imagen": "img/facil/smoothie-frutos-rojos.png"
+    "imagen": "img/frias/smoothie de frutos rojos.png"
   },
 
   "iced-tea-de-menta-y-limon": {
@@ -350,7 +350,7 @@
       { "texto": "Agrega el jugo de limón y la miel.", "imagen": null },
       { "texto": "Sirve con hielo y decora con rodajas de limón y menta.", "imagen": null }
     ],
-    "imagen": "img/facil/iced-tea-menta-limon.png"
+    "imagen": "img/frias/Iced Tea de menta y limón.png"
   },
 
   "sorbete-de-sandia-y-limon": {
@@ -375,7 +375,166 @@
       { "texto": "Licúa hasta obtener una textura cremosa.", "imagen": null },
       { "texto": "Sirve de inmediato o congela 1 hora para textura más firme.", "imagen": null }
     ],
-    "imagen": "img/facil/sorbete-sandia-limon.png"
+    "imagen": "img/frias/sorbete de sandia y limón.png"
+  },
+
+  "smoothie-de-chocolate-y-nuez": {
+    "titulo": "Smoothie de Chocolate y Nuez",
+    "dificultad": "Fácil",
+    "duracion": "5min",
+    "materiales": [
+      "1 vaso de leche vegetal (de tu preferencia)",
+      "1 banano maduro (congelado)",
+      "1 cda de cocoa pura",
+      "3 cda de nueces (almendra)",
+      "Hielo al gusto"
+    ],
+    "utensilios": [
+      "Licuadora potente",
+      "Cuchillo",
+      "Tabla",
+      "Vaso",
+      "Cuchara"
+    ],
+    "pasos": [
+      { "texto": "Coloca todos los ingredientes en la licuadora.", "imagen": null },
+      { "texto": "Licúa hasta obtener una mezcla cremosa, agrega hielo y licúa nuevamente.", "imagen": null },
+      { "texto": "Sirve frío.", "imagen": null }
+    ],
+    "imagen": "img/frias/Smoothie de chocolate .JPG"
+  },
+
+  "smoothie-sabor-a-mocca": {
+    "titulo": "Smoothie Sabor a Mocca",
+    "dificultad": "Fácil",
+    "duracion": "8–10min",
+    "materiales": [
+      "1 banano maduro (congelado si quieres textura más cremosa)",
+      "1 cda de cacao en polvo sin azúcar",
+      "1 cdta de café instantáneo o ½ taza de café frío",
+      "1 taza de leche vegetal o leche descremada (almendra, avena o soya)",
+      "1 cda de yogur griego o mantequilla de maní (opcional, para más cremosidad)",
+      "1 cdta de miel o stevia (opcional, según dulzor al gusto)",
+      "Hielo al gusto"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchara",
+      "Vasos para servir"
+    ],
+    "pasos": [
+      { "texto": "Agrega todos los ingredientes a la licuadora: banano, cacao, café, leche, endulzante y hielo.", "imagen": null },
+      { "texto": "Licúa a velocidad alta hasta obtener una mezcla suave y espesa.", "imagen": null },
+      { "texto": "Prueba el sabor y ajusta el dulzor o la intensidad del café si lo deseas.", "imagen": null },
+      { "texto": "Sirve en vasos altos y decora con un poco de cacao espolvoreado o chips de cacao.", "imagen": null }
+    ],
+    "imagen": "img/frias/smoothie sabor mocca.png"
+  },
+
+  "limonada-de-cereza": {
+    "titulo": "Limonada de Cereza",
+    "dificultad": "Fácil",
+    "duracion": "8min",
+    "materiales": [
+      "½ taza de cerezas frescas o congeladas (sin semilla)",
+      "Jugo de 2 limones grandes",
+      "2 tazas de agua fría",
+      "1 a 2 cda de miel o stevia al gusto",
+      "Hielo al gusto",
+      "(Opcional) Rodajas de limón o menta para decorar"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo y tabla de picar",
+      "Exprimidor de limón",
+      "Colador (opcional)",
+      "Jarra o vasos para servir"
+    ],
+    "pasos": [
+      { "texto": "Lava las cerezas, retira las semillas y corta por la mitad.", "imagen": null },
+      { "texto": "Agrega las cerezas, el jugo de limón, el agua y la miel en la licuadora.", "imagen": null },
+      { "texto": "Licúa 40–60 segundos hasta obtener una mezcla homogénea.", "imagen": null },
+      { "texto": "Si prefieres una textura más suave, cuela la bebida antes de servir.", "imagen": null },
+      { "texto": "Vierte en vasos con hielo y decora con rodajas de limón o cerezas enteras.", "imagen": null }
+    ],
+    "imagen": "img/frias/Limonada de cereza .JPG"
+  },
+
+  "smoothie-tropical": {
+    "titulo": "Smoothie Tropical",
+    "dificultad": "Fácil",
+    "duracion": "5min",
+    "materiales": [
+      "½ taza de piña",
+      "½ taza de mango",
+      "½ taza de papaya",
+      "1 taza de agua de coco",
+      "1 cdta de limón"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo",
+      "Vaso"
+    ],
+    "pasos": [
+      { "texto": "Agrega todos los ingredientes a la licuadora.", "imagen": null },
+      { "texto": "Procesa hasta obtener una mezcla suave.", "imagen": null },
+      { "texto": "Sirve inmediatamente con hielo.", "imagen": null }
+    ],
+    "imagen": "img/frias/Smoothie tropical.JPG"
+  },
+
+  "agua-de-pina-y-jengibre": {
+    "titulo": "Agua de Piña y Jengibre",
+    "dificultad": "Fácil",
+    "duracion": "10min",
+    "materiales": [
+      "1 taza de piña fresca en trozos",
+      "1 cdta de jengibre fresco rallado (o una rodaja delgada)",
+      "2 tazas de agua fría",
+      "1 cdta de miel o stevia al gusto",
+      "Hielo al gusto",
+      "(Opcional) Hojas de menta y rodajas de limón para decorar"
+    ],
+    "utensilios": [
+      "Licuadora",
+      "Cuchillo y tabla de picar",
+      "Colador (opcional)",
+      "Jarra o vaso grande",
+      "Cuchara para mezclar"
+    ],
+    "pasos": [
+      { "texto": "Pela la piña y córtala en trozos pequeños. Ralla el jengibre o corta una rodajita delgada.", "imagen": null },
+      { "texto": "Coloca la piña, el jengibre, el agua y la miel en la licuadora.", "imagen": null },
+      { "texto": "Licúa durante 40 segundos o hasta obtener una mezcla homogénea.", "imagen": null },
+      { "texto": "Si prefieres una textura más ligera, cuela la mezcla con un colador fino.", "imagen": null },
+      { "texto": "Vierte en una jarra con hielo, decora con hojas de menta o rodajas de piña y sirve bien fría.", "imagen": null }
+    ],
+    "imagen": "img/frias/Agua de piña y jengibre .JPG"
+  },
+
+  "te-frio-de-manzanilla-con-naranja": {
+    "titulo": "Té Frío de Manzanilla con Naranja",
+    "dificultad": "Fácil",
+    "duracion": "15min",
+    "materiales": [
+      "1 bolsita de té de manzanilla",
+      "1 taza de agua caliente",
+      "Jugo de ½ naranja",
+      "Hielo"
+    ],
+    "utensilios": [
+      "Tetera o pocillo",
+      "Cuchillo",
+      "Jarra"
+    ],
+    "pasos": [
+      { "texto": "Prepara el té y déjalo reposar 5 minutos.", "imagen": null },
+      { "texto": "Enfría y añade el jugo de naranja.", "imagen": null },
+      { "texto": "Sirve con hielo y rodajas de naranja.", "imagen": null }
+    ],
+    "imagen": "img/frias/Té frío de manzanilla y naranja .JPG"
   }
 }
+
 

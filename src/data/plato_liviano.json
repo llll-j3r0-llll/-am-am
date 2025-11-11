@@ -1243,8 +1243,47 @@
       { "texto": "Sirve caliente con pan o ensalada.", "imagen": null }
     ],
     "imagen": "img/liviano/Tortilla de espinaca y queso.JPG"
-  }
+  },
+
+  "pollo-al-curry-con-arroz-blanco": {
+  "titulo": "Pollo al Curry con Arroz Blanco",
+  "dificultad": "Fácil",
+  "duracion": "20min",
+  "materiales": [
+    "300 g de pechuga cocida, cortada en cubos",
+    "½ cebolla picada",
+    "½ manzana rallada",
+    "2 cda de aceite de oliva",
+    "½ cda de harina de trigo",
+    "225 ml de caldo (del agua donde se coció el pollo)",
+    "2 cda de salsa de tomate",
+    "2 cda de salsa soya",
+    "1 cdta de vinagre",
+    "1 cdta de curry en polvo",
+    "Sal y pimienta al gusto",
+    "Arroz blanco cocido para acompañar"
+  ],
+  "utensilios": [
+    "Sartén u olla mediana",
+    "Cuchillo y tabla",
+    "Cuchara o espátula",
+    "Rallador",
+    "Taza para medir líquidos"
+  ],
+  "pasos": [
+    { "texto": "En la sartén, calienta el aceite a fuego medio.", "imagen": null },
+    { "texto": "Agrega la cebolla picada y saltéala hasta que esté suave y translúcida.", "imagen": null },
+    { "texto": "Agrega la manzana rallada y cocina 1 minuto más para dar dulzor y cuerpo a la salsa.", "imagen": null },
+    { "texto": "Añade la ½ cucharada de harina, mezcla bien y cocina 30–40 segundos para eliminar el sabor a harina cruda.", "imagen": null },
+    { "texto": "Agrega el caldo, la salsa de tomate, la salsa soya, el vinagre y el curry en polvo. Mezcla hasta obtener una salsa uniforme.", "imagen": null },
+    { "texto": "Incorpora los cubos de pechuga cocida y cocina 5–7 minutos a fuego medio hasta que la salsa espese.", "imagen": null },
+    { "texto": "Ajusta sal y pimienta al gusto.", "imagen": null },
+    { "texto": "Coloca una porción de arroz blanco en el plato y sirve el pollo al curry encima o al lado.", "imagen": null }
+  ],
+  "imagen": "img/liviano/Pollo al curry.JPG"
 }
+}
+
 
 
 
