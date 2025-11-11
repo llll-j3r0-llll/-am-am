@@ -518,13 +518,13 @@ section.carrusel {
   color: #555;
 }
 
-/* ======== FOOTER ======== */
 .footer {
   background: #1b1b1b;
   color: #fff;
   padding: 40px 20px 20px;
   font-family: Arial, sans-serif;
 }
+
 .footer-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -532,37 +532,45 @@ section.carrusel {
   max-width: 1200px;
   margin: auto;
 }
+
 .footer-section h2.logo {
   color: #ff7043;
   font-size: 1.8rem;
   margin-bottom: 10px;
 }
+
 .footer-section h3 {
   margin-bottom: 15px;
   font-size: 1.2rem;
   color: #ff7043;
 }
-.footer-section p, 
-.footer-section ul, 
+
+.footer-section p,
+.footer-section ul,
 .footer-section a {
   font-size: 0.95rem;
   color: #ccc;
 }
+
 .footer-section ul {
   list-style: none;
   padding: 0;
 }
+
 .footer-section ul li {
   margin-bottom: 8px;
 }
+
 .footer-section ul li a {
   color: #ccc;
   text-decoration: none;
   transition: 0.3s;
 }
+
 .footer-section ul li a:hover {
   color: #ff7043;
 }
+
 .social-icons a {
   display: inline-block;
   margin-right: 12px;
@@ -570,9 +578,11 @@ section.carrusel {
   color: #ccc;
   transition: 0.3s;
 }
+
 .social-icons a:hover {
   color: #ff7043;
 }
+
 .footer-bottom {
   margin-top: 30px;
   text-align: center;
@@ -582,23 +592,18 @@ section.carrusel {
   color: #aaa;
 }
 
-/* ======== RESPONSIVE ======== */
-/* Ajustes en pantallas pequeñas */
+/* 🔹 Footer en móviles */
 @media (max-width: 768px) {
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
+  .footer-container {
+    grid-template-columns: 1fr;
+    text-align: center;
   }
-  .brand {
-    justify-content: center;
-    width: 100%;
+
+  .footer-section {
+    margin-bottom: 20px;
   }
-  .carrusel {
-    max-width: 90%;
-  }
-  .objetivos-cuadros {
-    flex-direction: column;
-    align-items: center;
+
+  .social-icons a {
+    margin: 0 8px;
   }
 }
